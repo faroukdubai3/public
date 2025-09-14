@@ -1,0 +1,929 @@
+{
+    "get3": "standings",
+    "parameters3": {
+        "league3": "39",
+        "season3": "2025"
+    },
+    "errors3": [],
+    "results3": 1,
+    "paging3": {
+        "current3": 1,
+        "total3": 1
+    },
+    "response3": [
+        {
+            "league3": {
+                "id3": 39,
+                "name3": "Premier League",
+                "country3": "England",
+                "logo3": "https://media.api-sports.io/football/leagues/39.png",
+                "flag3": "https://media.api-sports.io/flags/gb-eng.svg",
+                "season3": 2025,
+                "standings3": [
+                    [
+                        {
+                            "rank3": 1,
+                            "team3": {
+                                "id3": 42,
+                                "name3": "Arsenal",
+                                "logo3": "https://media.api-sports.io/football/teams/42.png"
+                            },
+                            "points3": 9,
+                            "goalsDiff3": 8,
+                            "group3": "Premier League",
+                            "form3": "WLWW",
+                            "status3": "same",
+                            "description3": "Promotion - Champions League (League phase: )",
+                            "all3": {
+                                "played3": 4,
+                                "win3": 3,
+                                "draw3": 0,
+                                "lose3": 1,
+                                "goals3": {
+                                    "for3": 9,
+                                    "against3": 1
+                                }
+                            },
+                            "home3": {
+                                "played3": 2,
+                                "win3": 2,
+                                "draw3": 0,
+                                "lose3": 0,
+                                "goals3": {
+                                    "for3": 8,
+                                    "against3": 0
+                                }
+                            },
+                            "away3": {
+                                "played3": 2,
+                                "win3": 1,
+                                "draw3": 0,
+                                "lose3": 1,
+                                "goals3": {
+                                    "for3": 1,
+                                    "against3": 1
+                                }
+                            },
+                            "update3": "2025-09-14T00:00:00+00:00"
+                        },
+                        {
+                            "rank3": 2,
+                            "team3": {
+                                "id3": 47,
+                                "name3": "Tottenham",
+                                "logo3": "https://media.api-sports.io/football/teams/47.png"
+                            },
+                            "points3": 9,
+                            "goalsDiff3": 7,
+                            "group3": "Premier League",
+                            "form3": "WLWW",
+                            "status3": "same",
+                            "description3": "Promotion - Champions League (League phase: )",
+                            "all3": {
+                                "played3": 4,
+                                "win3": 3,
+                                "draw3": 0,
+                                "lose3": 1,
+                                "goals3": {
+                                    "for3": 8,
+                                    "against3": 1
+                                }
+                            },
+                            "home3": {
+                                "played3": 2,
+                                "win3": 1,
+                                "draw3": 0,
+                                "lose3": 1,
+                                "goals3": {
+                                    "for3": 3,
+                                    "against3": 1
+                                }
+                            },
+                            "away3": {
+                                "played3": 2,
+                                "win3": 2,
+                                "draw3": 0,
+                                "lose3": 0,
+                                "goals3": {
+                                    "for3": 5,
+                                    "against3": 0
+                                }
+                            },
+                            "update3": "2025-09-14T00:00:00+00:00"
+                        },
+                        {
+                            "rank3": 3,
+                            "team3": {
+                                "id3": 40,
+                                "name3": "Liverpool",
+                                "logo3": "https://media.api-sports.io/football/teams/40.png"
+                            },
+                            "points3": 9,
+                            "goalsDiff3": 4,
+                            "group3": "Premier League",
+                            "form3": "WWW",
+                            "status3": "same",
+                            "description3": "Promotion - Champions League (League phase: )",
+                            "all3": {
+                                "played3": 3,
+                                "win3": 3,
+                                "draw3": 0,
+                                "lose3": 0,
+                                "goals3": {
+                                    "for3": 8,
+                                    "against3": 4
+                                }
+                            },
+                            "home3": {
+                                "played3": 2,
+                                "win3": 2,
+                                "draw3": 0,
+                                "lose3": 0,
+                                "goals3": {
+                                    "for3": 5,
+                                    "against3": 2
+                                }
+                            },
+                            "away3": {
+                                "played3": 1,
+                                "win3": 1,
+                                "draw3": 0,
+                                "lose3": 0,
+                                "goals3": {
+                                    "for3": 3,
+                                    "against3": 2
+                                }
+                            },
+                            "update3": "2025-09-14T00:00:00+00:00"
+                        },
+                        {
+                            "rank3": 4,
+                            "team3": {
+                                "id3": 35,
+                                "name3": "Bournemouth",
+                                "logo3": "https://media.api-sports.io/football/teams/35.png"
+                            },
+                            "points3": 9,
+                            "goalsDiff3": 1,
+                            "group3": "Premier League",
+                            "form3": "WWWL",
+                            "status3": "same",
+                            "description3": "Promotion - Champions League (League phase: )",
+                            "all3": {
+                                "played3": 4,
+                                "win3": 3,
+                                "draw3": 0,
+                                "lose3": 1,
+                                "goals3": {
+                                    "for3": 6,
+                                    "against3": 5
+                                }
+                            },
+                            "home3": {
+                                "played3": 2,
+                                "win3": 2,
+                                "draw3": 0,
+                                "lose3": 0,
+                                "goals3": {
+                                    "for3": 3,
+                                    "against3": 1
+                                }
+                            },
+                            "away3": {
+                                "played3": 2,
+                                "win3": 1,
+                                "draw3": 0,
+                                "lose3": 1,
+                                "goals3": {
+                                    "for3": 3,
+                                    "against3": 4
+                                }
+                            },
+                            "update3": "2025-09-14T00:00:00+00:00"
+                        },
+                        {
+                            "rank3": 5,
+                            "team3": {
+                                "id3": 49,
+                                "name3": "Chelsea",
+                                "logo3": "https://media.api-sports.io/football/teams/49.png"
+                            },
+                            "points3": 8,
+                            "goalsDiff3": 6,
+                            "group3": "Premier League",
+                            "form3": "DWWD",
+                            "status3": "same",
+                            "description3": "Promotion - Europa League (League phase: )",
+                            "all3": {
+                                "played3": 4,
+                                "win3": 2,
+                                "draw3": 2,
+                                "lose3": 0,
+                                "goals3": {
+                                    "for3": 9,
+                                    "against3": 3
+                                }
+                            },
+                            "home3": {
+                                "played3": 2,
+                                "win3": 1,
+                                "draw3": 1,
+                                "lose3": 0,
+                                "goals3": {
+                                    "for3": 2,
+                                    "against3": 0
+                                }
+                            },
+                            "away3": {
+                                "played3": 2,
+                                "win3": 1,
+                                "draw3": 1,
+                                "lose3": 0,
+                                "goals3": {
+                                    "for3": 7,
+                                    "against3": 3
+                                }
+                            },
+                            "update3": "2025-09-14T00:00:00+00:00"
+                        },
+                        {
+                            "rank3": 6,
+                            "team3": {
+                                "id3": 45,
+                                "name3": "Everton",
+                                "logo3": "https://media.api-sports.io/football/teams/45.png"
+                            },
+                            "points3": 7,
+                            "goalsDiff3": 2,
+                            "group3": "Premier League",
+                            "form3": "DWWL",
+                            "status3": "same",
+                            "description3": null,
+                            "all3": {
+                                "played3": 4,
+                                "win3": 2,
+                                "draw3": 1,
+                                "lose3": 1,
+                                "goals3": {
+                                    "for3": 5,
+                                    "against3": 3
+                                }
+                            },
+                            "home3": {
+                                "played3": 2,
+                                "win3": 1,
+                                "draw3": 1,
+                                "lose3": 0,
+                                "goals3": {
+                                    "for3": 2,
+                                    "against3": 0
+                                }
+                            },
+                            "away3": {
+                                "played3": 2,
+                                "win3": 1,
+                                "draw3": 0,
+                                "lose3": 1,
+                                "goals3": {
+                                    "for3": 3,
+                                    "against3": 3
+                                }
+                            },
+                            "update3": "2025-09-14T00:00:00+00:00"
+                        },
+                        {
+                            "rank3": 7,
+                            "team3": {
+                                "id3": 746,
+                                "name3": "Sunderland",
+                                "logo3": "https://media.api-sports.io/football/teams/746.png"
+                            },
+                            "points3": 7,
+                            "goalsDiff3": 2,
+                            "group3": "Premier League",
+                            "form3": "DWLW",
+                            "status3": "same",
+                            "description3": null,
+                            "all3": {
+                                "played3": 4,
+                                "win3": 2,
+                                "draw3": 1,
+                                "lose3": 1,
+                                "goals3": {
+                                    "for3": 5,
+                                    "against3": 3
+                                }
+                            },
+                            "home3": {
+                                "played3": 2,
+                                "win3": 2,
+                                "draw3": 0,
+                                "lose3": 0,
+                                "goals3": {
+                                    "for3": 5,
+                                    "against3": 1
+                                }
+                            },
+                            "away3": {
+                                "played3": 2,
+                                "win3": 0,
+                                "draw3": 1,
+                                "lose3": 1,
+                                "goals3": {
+                                    "for3": 0,
+                                    "against3": 2
+                                }
+                            },
+                            "update3": "2025-09-14T00:00:00+00:00"
+                        },
+                        {
+                            "rank3": 8,
+                            "team3": {
+                                "id3": 52,
+                                "name3": "Crystal Palace",
+                                "logo3": "https://media.api-sports.io/football/teams/52.png"
+                            },
+                            "points3": 6,
+                            "goalsDiff3": 3,
+                            "group3": "Premier League",
+                            "form3": "DWDD",
+                            "status3": "same",
+                            "description3": null,
+                            "all3": {
+                                "played3": 4,
+                                "win3": 1,
+                                "draw3": 3,
+                                "lose3": 0,
+                                "goals3": {
+                                    "for3": 4,
+                                    "against3": 1
+                                }
+                            },
+                            "home3": {
+                                "played3": 2,
+                                "win3": 0,
+                                "draw3": 2,
+                                "lose3": 0,
+                                "goals3": {
+                                    "for3": 1,
+                                    "against3": 1
+                                }
+                            },
+                            "away3": {
+                                "played3": 2,
+                                "win3": 1,
+                                "draw3": 1,
+                                "lose3": 0,
+                                "goals3": {
+                                    "for3": 3,
+                                    "against3": 0
+                                }
+                            },
+                            "update3": "2025-09-14T00:00:00+00:00"
+                        },
+                        {
+                            "rank3": 9,
+                            "team3": {
+                                "id3": 34,
+                                "name3": "Newcastle",
+                                "logo3": "https://media.api-sports.io/football/teams/34.png"
+                            },
+                            "points3": 5,
+                            "goalsDiff3": 0,
+                            "group3": "Premier League",
+                            "form3": "WDLD",
+                            "status3": "same",
+                            "description3": null,
+                            "all3": {
+                                "played3": 4,
+                                "win3": 1,
+                                "draw3": 2,
+                                "lose3": 1,
+                                "goals3": {
+                                    "for3": 3,
+                                    "against3": 3
+                                }
+                            },
+                            "home3": {
+                                "played3": 2,
+                                "win3": 1,
+                                "draw3": 0,
+                                "lose3": 1,
+                                "goals3": {
+                                    "for3": 3,
+                                    "against3": 3
+                                }
+                            },
+                            "away3": {
+                                "played3": 2,
+                                "win3": 0,
+                                "draw3": 2,
+                                "lose3": 0,
+                                "goals3": {
+                                    "for3": 0,
+                                    "against3": 0
+                                }
+                            },
+                            "update3": "2025-09-14T00:00:00+00:00"
+                        },
+                        {
+                            "rank3": 10,
+                            "team3": {
+                                "id3": 36,
+                                "name3": "Fulham",
+                                "logo3": "https://media.api-sports.io/football/teams/36.png"
+                            },
+                            "points3": 5,
+                            "goalsDiff3": -1,
+                            "group3": "Premier League",
+                            "form3": "WLDD",
+                            "status3": "same",
+                            "description3": null,
+                            "all3": {
+                                "played3": 4,
+                                "win3": 1,
+                                "draw3": 2,
+                                "lose3": 1,
+                                "goals3": {
+                                    "for3": 3,
+                                    "against3": 4
+                                }
+                            },
+                            "home3": {
+                                "played3": 2,
+                                "win3": 1,
+                                "draw3": 1,
+                                "lose3": 0,
+                                "goals3": {
+                                    "for3": 2,
+                                    "against3": 1
+                                }
+                            },
+                            "away3": {
+                                "played3": 2,
+                                "win3": 0,
+                                "draw3": 1,
+                                "lose3": 1,
+                                "goals3": {
+                                    "for3": 1,
+                                    "against3": 3
+                                }
+                            },
+                            "update3": "2025-09-14T00:00:00+00:00"
+                        },
+                        {
+                            "rank3": 11,
+                            "team3": {
+                                "id3": 33,
+                                "name3": "Manchester United",
+                                "logo3": "https://media.api-sports.io/football/teams/33.png"
+                            },
+                            "points3": 4,
+                            "goalsDiff3": 0,
+                            "group3": "Premier League",
+                            "form3": "WDL",
+                            "status3": "same",
+                            "description3": null,
+                            "all3": {
+                                "played3": 3,
+                                "win3": 1,
+                                "draw3": 1,
+                                "lose3": 1,
+                                "goals3": {
+                                    "for3": 4,
+                                    "against3": 4
+                                }
+                            },
+                            "home3": {
+                                "played3": 2,
+                                "win3": 1,
+                                "draw3": 0,
+                                "lose3": 1,
+                                "goals3": {
+                                    "for3": 3,
+                                    "against3": 3
+                                }
+                            },
+                            "away3": {
+                                "played3": 1,
+                                "win3": 0,
+                                "draw3": 1,
+                                "lose3": 0,
+                                "goals3": {
+                                    "for3": 1,
+                                    "against3": 1
+                                }
+                            },
+                            "update3": "2025-09-14T00:00:00+00:00"
+                        },
+                        {
+                            "rank3": 12,
+                            "team3": {
+                                "id3": 55,
+                                "name3": "Brentford",
+                                "logo3": "https://media.api-sports.io/football/teams/55.png"
+                            },
+                            "points3": 4,
+                            "goalsDiff3": -2,
+                            "group3": "Premier League",
+                            "form3": "DLWL",
+                            "status3": "same",
+                            "description3": null,
+                            "all3": {
+                                "played3": 4,
+                                "win3": 1,
+                                "draw3": 1,
+                                "lose3": 2,
+                                "goals3": {
+                                    "for3": 5,
+                                    "against3": 7
+                                }
+                            },
+                            "home3": {
+                                "played3": 2,
+                                "win3": 1,
+                                "draw3": 1,
+                                "lose3": 0,
+                                "goals3": {
+                                    "for3": 3,
+                                    "against3": 2
+                                }
+                            },
+                            "away3": {
+                                "played3": 2,
+                                "win3": 0,
+                                "draw3": 0,
+                                "lose3": 2,
+                                "goals3": {
+                                    "for3": 2,
+                                    "against3": 5
+                                }
+                            },
+                            "update3": "2025-09-14T00:00:00+00:00"
+                        },
+                        {
+                            "rank3": 13,
+                            "team3": {
+                                "id3": 51,
+                                "name3": "Brighton",
+                                "logo3": "https://media.api-sports.io/football/teams/51.png"
+                            },
+                            "points3": 4,
+                            "goalsDiff3": -2,
+                            "group3": "Premier League",
+                            "form3": "LWLD",
+                            "status3": "same",
+                            "description3": null,
+                            "all3": {
+                                "played3": 4,
+                                "win3": 1,
+                                "draw3": 1,
+                                "lose3": 2,
+                                "goals3": {
+                                    "for3": 4,
+                                    "against3": 6
+                                }
+                            },
+                            "home3": {
+                                "played3": 2,
+                                "win3": 1,
+                                "draw3": 1,
+                                "lose3": 0,
+                                "goals3": {
+                                    "for3": 3,
+                                    "against3": 2
+                                }
+                            },
+                            "away3": {
+                                "played3": 2,
+                                "win3": 0,
+                                "draw3": 0,
+                                "lose3": 2,
+                                "goals3": {
+                                    "for3": 1,
+                                    "against3": 4
+                                }
+                            },
+                            "update3": "2025-09-14T00:00:00+00:00"
+                        },
+                        {
+                            "rank3": 14,
+                            "team3": {
+                                "id3": 65,
+                                "name3": "Nottingham Forest",
+                                "logo3": "https://media.api-sports.io/football/teams/65.png"
+                            },
+                            "points3": 4,
+                            "goalsDiff3": -4,
+                            "group3": "Premier League",
+                            "form3": "LLDW",
+                            "status3": "same",
+                            "description3": null,
+                            "all3": {
+                                "played3": 4,
+                                "win3": 1,
+                                "draw3": 1,
+                                "lose3": 2,
+                                "goals3": {
+                                    "for3": 4,
+                                    "against3": 8
+                                }
+                            },
+                            "home3": {
+                                "played3": 2,
+                                "win3": 1,
+                                "draw3": 0,
+                                "lose3": 1,
+                                "goals3": {
+                                    "for3": 3,
+                                    "against3": 4
+                                }
+                            },
+                            "away3": {
+                                "played3": 2,
+                                "win3": 0,
+                                "draw3": 1,
+                                "lose3": 1,
+                                "goals3": {
+                                    "for3": 1,
+                                    "against3": 4
+                                }
+                            },
+                            "update3": "2025-09-14T00:00:00+00:00"
+                        },
+                        {
+                            "rank3": 15,
+                            "team3": {
+                                "id3": 63,
+                                "name3": "Leeds",
+                                "logo3": "https://media.api-sports.io/football/teams/63.png"
+                            },
+                            "points3": 4,
+                            "goalsDiff3": -5,
+                            "group3": "Premier League",
+                            "form3": "LDLW",
+                            "status3": "same",
+                            "description3": null,
+                            "all3": {
+                                "played3": 4,
+                                "win3": 1,
+                                "draw3": 1,
+                                "lose3": 2,
+                                "goals3": {
+                                    "for3": 1,
+                                    "against3": 6
+                                }
+                            },
+                            "home3": {
+                                "played3": 2,
+                                "win3": 1,
+                                "draw3": 1,
+                                "lose3": 0,
+                                "goals3": {
+                                    "for3": 1,
+                                    "against3": 0
+                                }
+                            },
+                            "away3": {
+                                "played3": 2,
+                                "win3": 0,
+                                "draw3": 0,
+                                "lose3": 2,
+                                "goals3": {
+                                    "for3": 0,
+                                    "against3": 6
+                                }
+                            },
+                            "update3": "2025-09-14T00:00:00+00:00"
+                        },
+                        {
+                            "rank3": 16,
+                            "team3": {
+                                "id3": 50,
+                                "name3": "Manchester City",
+                                "logo3": "https://media.api-sports.io/football/teams/50.png"
+                            },
+                            "points3": 3,
+                            "goalsDiff3": 1,
+                            "group3": "Premier League",
+                            "form3": "LLW",
+                            "status3": "same",
+                            "description3": null,
+                            "all3": {
+                                "played3": 3,
+                                "win3": 1,
+                                "draw3": 0,
+                                "lose3": 2,
+                                "goals3": {
+                                    "for3": 5,
+                                    "against3": 4
+                                }
+                            },
+                            "home3": {
+                                "played3": 1,
+                                "win3": 0,
+                                "draw3": 0,
+                                "lose3": 1,
+                                "goals3": {
+                                    "for3": 0,
+                                    "against3": 2
+                                }
+                            },
+                            "away3": {
+                                "played3": 2,
+                                "win3": 1,
+                                "draw3": 0,
+                                "lose3": 1,
+                                "goals3": {
+                                    "for3": 5,
+                                    "against3": 2
+                                }
+                            },
+                            "update3": "2025-09-14T00:00:00+00:00"
+                        },
+                        {
+                            "rank3": 17,
+                            "team3": {
+                                "id3": 44,
+                                "name3": "Burnley",
+                                "logo3": "https://media.api-sports.io/football/teams/44.png"
+                            },
+                            "points3": 3,
+                            "goalsDiff3": -2,
+                            "group3": "Premier League",
+                            "form3": "LWL",
+                            "status3": "same",
+                            "description3": null,
+                            "all3": {
+                                "played3": 3,
+                                "win3": 1,
+                                "draw3": 0,
+                                "lose3": 2,
+                                "goals3": {
+                                    "for3": 4,
+                                    "against3": 6
+                                }
+                            },
+                            "home3": {
+                                "played3": 1,
+                                "win3": 1,
+                                "draw3": 0,
+                                "lose3": 0,
+                                "goals3": {
+                                    "for3": 2,
+                                    "against3": 0
+                                }
+                            },
+                            "away3": {
+                                "played3": 2,
+                                "win3": 0,
+                                "draw3": 0,
+                                "lose3": 2,
+                                "goals3": {
+                                    "for3": 2,
+                                    "against3": 6
+                                }
+                            },
+                            "update3": "2025-09-14T00:00:00+00:00"
+                        },
+                        {
+                            "rank3": 18,
+                            "team3": {
+                                "id3": 48,
+                                "name3": "West Ham",
+                                "logo3": "https://media.api-sports.io/football/teams/48.png"
+                            },
+                            "points3": 3,
+                            "goalsDiff3": -7,
+                            "group3": "Premier League",
+                            "form3": "LWLL",
+                            "status3": "same",
+                            "description3": "Relegation - Championship",
+                            "all3": {
+                                "played3": 4,
+                                "win3": 1,
+                                "draw3": 0,
+                                "lose3": 3,
+                                "goals3": {
+                                    "for3": 4,
+                                    "against3": 11
+                                }
+                            },
+                            "home3": {
+                                "played3": 2,
+                                "win3": 0,
+                                "draw3": 0,
+                                "lose3": 2,
+                                "goals3": {
+                                    "for3": 1,
+                                    "against3": 8
+                                }
+                            },
+                            "away3": {
+                                "played3": 2,
+                                "win3": 1,
+                                "draw3": 0,
+                                "lose3": 1,
+                                "goals3": {
+                                    "for3": 3,
+                                    "against3": 3
+                                }
+                            },
+                            "update3": "2025-09-14T00:00:00+00:00"
+                        },
+                        {
+                            "rank3": 19,
+                            "team3": {
+                                "id3": 66,
+                                "name3": "Aston Villa",
+                                "logo3": "https://media.api-sports.io/football/teams/66.png"
+                            },
+                            "points3": 2,
+                            "goalsDiff3": -4,
+                            "group3": "Premier League",
+                            "form3": "DLLD",
+                            "status3": "same",
+                            "description3": "Relegation - Championship",
+                            "all3": {
+                                "played3": 4,
+                                "win3": 0,
+                                "draw3": 2,
+                                "lose3": 2,
+                                "goals3": {
+                                    "for3": 0,
+                                    "against3": 4
+                                }
+                            },
+                            "home3": {
+                                "played3": 2,
+                                "win3": 0,
+                                "draw3": 1,
+                                "lose3": 1,
+                                "goals3": {
+                                    "for3": 0,
+                                    "against3": 3
+                                }
+                            },
+                            "away3": {
+                                "played3": 2,
+                                "win3": 0,
+                                "draw3": 1,
+                                "lose3": 1,
+                                "goals3": {
+                                    "for3": 0,
+                                    "against3": 1
+                                }
+                            },
+                            "update3": "2025-09-14T00:00:00+00:00"
+                        },
+                        {
+                            "rank3": 20,
+                            "team3": {
+                                "id3": 39,
+                                "name3": "Wolves",
+                                "logo3": "https://media.api-sports.io/football/teams/39.png"
+                            },
+                            "points3": 0,
+                            "goalsDiff3": -7,
+                            "group3": "Premier League",
+                            "form3": "LLLL",
+                            "status3": "same",
+                            "description3": "Relegation - Championship",
+                            "all3": {
+                                "played3": 4,
+                                "win3": 0,
+                                "draw3": 0,
+                                "lose3": 4,
+                                "goals3": {
+                                    "for3": 2,
+                                    "against3": 9
+                                }
+                            },
+                            "home3": {
+                                "played3": 2,
+                                "win3": 0,
+                                "draw3": 0,
+                                "lose3": 2,
+                                "goals3": {
+                                    "for3": 2,
+                                    "against3": 7
+                                }
+                            },
+                            "away3": {
+                                "played3": 2,
+                                "win3": 0,
+                                "draw3": 0,
+                                "lose3": 2,
+                                "goals3": {
+                                    "for3": 0,
+                                    "against3": 2
+                                }
+                            },
+                            "update3": "2025-09-14T00:00:00+00:00"
+                        }
+                    ]
+                ]
+            }
+        }
+    ]
+}

@@ -3,7 +3,7 @@
         "requestedSort": "score desc",
         "X-Fusion-FSACHDI-Exception": "1",
         "X-Fusion-IncludesFSACHDI": "1",
-        "fusionQueryId": "4aYUUCx9wv"
+        "fusionQueryId": "XL9unsh3M8"
     },
     "response": {
         "docs": [
@@ -4022,14 +4022,14 @@
                 ]
             }
         ],
-        "numFound": 799,
+        "numFound": 804,
         "start": 0,
         "numFoundExact": true
     },
     "responseHeader": {
         "zkConnected": true,
-        "QTime": 70,
-        "totalTime": 437,
+        "QTime": 103,
+        "totalTime": 463,
         "status": 0
     },
     "facets": {
@@ -4037,14 +4037,14 @@
             "buckets": [
                 {
                     "val": "$0 to $25",
-                    "count": 186,
+                    "count": 190,
                     "low": "0",
                     "high": "25",
                     "display_order": "0"
                 },
                 {
                     "val": "$25 to $50",
-                    "count": 150,
+                    "count": 151,
                     "low": "25",
                     "high": "50",
                     "display_order": "1"
@@ -4176,7 +4176,7 @@
                 {
                     "val": "0|Grocery & Household Essentials",
                     "leads_to_fsa_chdi": true,
-                    "count": 121,
+                    "count": 126,
                     "meta": "/grocery-household.html"
                 },
                 {
@@ -4267,19 +4267,19 @@
             "buckets": [
                 {
                     "val": "LocationControlledInventory",
-                    "count": 119
+                    "count": 123
                 },
                 {
                     "val": "2DayDelivery",
-                    "count": 82
+                    "count": 86
                 },
                 {
                     "val": "Google",
-                    "count": 424
+                    "count": 425
                 },
                 {
                     "val": "GoogleGrocery",
-                    "count": 154
+                    "count": 158
                 },
                 {
                     "val": "InWarehouse",
@@ -4291,15 +4291,15 @@
                 },
                 {
                     "val": "ShipIt",
-                    "count": 799
+                    "count": 804
                 },
                 {
                     "val": "SiteControlledInventory",
-                    "count": 682
+                    "count": 683
                 },
                 {
                     "val": "Standard",
-                    "count": 717
+                    "count": 718
                 },
                 {
                     "val": "UseWarehouseInventory",
@@ -4307,7 +4307,7 @@
                 },
                 {
                     "val": "WarehouseDelivery",
-                    "count": 261
+                    "count": 265
                 }
             ],
             "label": "Program Eligibility",
@@ -4335,7 +4335,7 @@
             "buckets": [
                 {
                     "val": "in stock",
-                    "count": 794
+                    "count": 799
                 }
             ]
         },
@@ -4343,19 +4343,19 @@
             "buckets": [
                 {
                     "val": "4 & Up",
-                    "count": 675
+                    "count": 680
                 },
                 {
                     "val": "3 & Up",
-                    "count": 757
+                    "count": 762
                 },
                 {
                     "val": "2 & Up",
-                    "count": 766
+                    "count": 771
                 },
                 {
                     "val": "1 & Up",
-                    "count": 769
+                    "count": 774
                 }
             ],
             "label": "Customer Reviews",
@@ -4367,7 +4367,7 @@
             "buckets": [
                 {
                     "val": "Online Only",
-                    "count": 438
+                    "count": 439
                 }
             ],
             "label": "Online Only",

@@ -3,7 +3,7 @@
         "requestedSort": "score desc",
         "X-Fusion-FSACHDI-Exception": "1",
         "X-Fusion-IncludesFSACHDI": "1",
-        "fusionQueryId": "Mu13Om40TT"
+        "fusionQueryId": "o27gRj794a"
     },
     "response": {
         "docs": [
@@ -2550,7 +2550,7 @@
             {
                 "item_disponzeroinv": false,
                 "item_product_marketing_statement": "Black includes $400 savings and White includes $300 savings.<br>Price valid through 9/24/25<p class='promo'>Spend & Save up to $500 and Qualifies for Costco Direct Savings. See Product Details.</p>",
-                "item_swatch_image": "https://bfasset.costco-static.com/U447IH35/at/2tfkw5qjjsc7n9srcsrz5jkh/white.jpg?auto=webp&format=jpg",
+                "item_swatch_image": "https://bfasset.costco-static.com/U447IH35/at/9wcv3xv9wz98s6qxspffh3j/blacksteel.jpg?auto=webp&format=jpg",
                 "item_variableweight": false,
                 "item_product_name": "LG 7.4 cu. ft. Ultra Large Capacity Smart Wi-Fi Enabled Front Load ELECTRIC Dryer with TurboSteam and Built-In Intelligence",
                 "item_review_ratings": "4.456299781799316",
@@ -2559,10 +2559,10 @@
                     "Spend & Save"
                 ],
                 "Model_attr": [
-                    "DLEX4000W",
+                    "DLEX4000B",
                     "DLEX4000W"
                 ],
-                "item_number": "1463445",
+                "item_number": "1463446",
                 "Online_Only_attr_pill": [
                     "Online Only"
                 ],
@@ -2578,12 +2578,12 @@
                     "0"
                 ],
                 "Model_descriptive": [
-                    "DLEX4000W",
+                    "DLEX4000B",
                     "DLEX4000W"
                 ],
                 "item_location_pricing_listPrice": 899.99,
                 "item_manufacturing_skus": [
-                    "048231028370"
+                    "048231028356"
                 ],
                 "item_product_marketing_features": [
                     "2-year Manufacturer's Warranty;\nTurboSteam\u2122 Technology;\nAI Fabric Sensor/ Smart Pairing;\nTempered Glass Door with Rose Gold Trim;\nFlowSense\u2122 Duct Clogging and Lint Filter Indicators"
@@ -2602,7 +2602,7 @@
                 "Connectivity_attr": [
                     "Wi-Fi Enabled"
                 ],
-                "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/3wmc79wcxmbbgbc6cn3bc3c/100670695-847_white_1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/63fp2jh7c8ktpwj48rjfwt/100670695-847_blacksteel_1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
                 "item_chdi_eligible": false,
                 "item_as400_category": "HEC",
                 "Dryer_Weight_attr": [
@@ -2623,7 +2623,7 @@
                     "High Efficiency"
                 ],
                 "Color_attr": [
-                    "White"
+                    "Black Steel"
                 ],
                 "content_type": [
                     "product"
@@ -2635,13 +2635,13 @@
                     "LG"
                 ],
                 "item_swatch_attribute": "Color",
-                "item_short_description": "LG 7.4 cu. ft. Ultra Large Capacity Smart Wi-Fi Enabled Front Load ELECTRIC Dryer with TurboSteam and Built-In Intelligence, in White",
+                "item_short_description": "LG 7.4 cu. ft. Ultra Large Capacity Smart Wi-Fi Enabled Front Load ELECTRIC Dryer with TurboSteam and Built-In Intelligence, in Black Steel",
                 "item_product_comparable": true,
                 "Dryer_Drum_Material_attr": [
                     "Aluminized Alloy"
                 ],
                 "item_product_review_eligible": true,
-                "item_swatch_value": "White",
+                "item_swatch_value": "Black Steel",
                 "categoryPath_ss": [
                     "/appliances.html",
                     "/laundry-appliances.html",
@@ -2656,7 +2656,7 @@
                 "item_as400_department": "24",
                 "item_product_image_swatchable": true,
                 "name": "LG 7.4 cu. ft. Ultra Large Capacity Smart Wi-Fi Enabled Front Load ELECTRIC Dryer with TurboSteam and Built-In Intelligence",
-                "description": "LG 7.4 cu. ft. Ultra Large Capacity Smart Wi-Fi Enabled Front Load ELECTRIC Dryer with TurboSteam and Built-In Intelligence, in White",
+                "description": "LG 7.4 cu. ft. Ultra Large Capacity Smart Wi-Fi Enabled Front Load ELECTRIC Dryer with TurboSteam and Built-In Intelligence, in Black Steel",
                 "item_rating_value": [
                     "1 & Up",
                     "2 & Up",
@@ -2670,7 +2670,7 @@
                 "item_status_published": true,
                 "item_comparable": true,
                 "item_product_price_in_cart_only": "1",
-                "item_name": "LG 7.4 cu. ft. Ultra Large Capacity Smart Wi-Fi Enabled Front Load ELECTRIC Dryer with TurboSteam and Built-In Intelligence, in White",
+                "item_name": "LG 7.4 cu. ft. Ultra Large Capacity Smart Wi-Fi Enabled Front Load ELECTRIC Dryer with TurboSteam and Built-In Intelligence, in Black Steel",
                 "item_eligible_for_review": "true",
                 "image": "https://bfasset.costco-static.com/U447IH35/as/wpjs9m88s86jbcsf2fqt6gh/100670695-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
                 "SpendGet_attr": [
@@ -2711,7 +2711,7 @@
                     "12 Cycle"
                 ],
                 "item_location_pricing_salePrice": 899.99,
-                "id": "1463445!item.en-US",
+                "id": "1463446!item.en-US",
                 "item_backorderflag": 0,
                 "item_review_count": 0,
                 "item_product_review_count": 206,
@@ -2724,7 +2724,7 @@
                 "deliveryStatus": "in stock",
                 "item_location_availability": "in stock",
                 "item_location_stockStatus": "in stock",
-                "item_location_itemNumber": "1463445",
+                "item_location_itemNumber": "1463446",
                 "item_location_locationNumber": "847_lg_n1a-edi",
                 "item_location_fulfillment_restrictions_minQty": "1",
                 "item_location_fulfillment_restrictions_maxQty": "5",
@@ -2735,16 +2735,16 @@
                 "isItemInStock": true,
                 "images": [
                     {
-                        "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/3wmc79wcxmbbgbc6cn3bc3c/100670695-847_white_1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
-                        "item_swatch_image": "https://bfasset.costco-static.com/U447IH35/at/2tfkw5qjjsc7n9srcsrz5jkh/white.jpg?auto=webp&format=jpg",
-                        "item_swatch_attribute": "Color",
-                        "item_swatch_value": "White"
-                    },
-                    {
                         "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/63fp2jh7c8ktpwj48rjfwt/100670695-847_blacksteel_1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
                         "item_swatch_image": "https://bfasset.costco-static.com/U447IH35/at/9wcv3xv9wz98s6qxspffh3j/blacksteel.jpg?auto=webp&format=jpg",
                         "item_swatch_attribute": "Color",
                         "item_swatch_value": "Black Steel"
+                    },
+                    {
+                        "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/3wmc79wcxmbbgbc6cn3bc3c/100670695-847_white_1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                        "item_swatch_image": "https://bfasset.costco-static.com/U447IH35/at/2tfkw5qjjsc7n9srcsrz5jkh/white.jpg?auto=webp&format=jpg",
+                        "item_swatch_attribute": "Color",
+                        "item_swatch_value": "White"
                     }
                 ]
             },
@@ -4028,8 +4028,8 @@
     },
     "responseHeader": {
         "zkConnected": true,
-        "QTime": 67,
-        "totalTime": 375,
+        "QTime": 85,
+        "totalTime": 405,
         "status": 0
     },
     "facets": {
@@ -4037,14 +4037,14 @@
             "buckets": [
                 {
                     "val": "$0 to $25",
-                    "count": 190,
+                    "count": 191,
                     "low": "0",
                     "high": "25",
                     "display_order": "0"
                 },
                 {
                     "val": "$25 to $50",
-                    "count": 151,
+                    "count": 150,
                     "low": "25",
                     "high": "50",
                     "display_order": "1"

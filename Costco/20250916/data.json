@@ -3,7 +3,7 @@
         "requestedSort": "score desc",
         "X-Fusion-FSACHDI-Exception": "1",
         "X-Fusion-IncludesFSACHDI": "1",
-        "fusionQueryId": "VsYCFt4KYw"
+        "fusionQueryId": "Mu13Om40TT"
     },
     "response": {
         "docs": [
@@ -594,7 +594,7 @@
                 "item_product_name": "Sealy Posturepedic Pro Lincoln Heights 14\" Firm or Plush Mattress",
                 "item_review_ratings": "4.4217000007629395",
                 "item_member_only": false,
-                "item_number": "1900570",
+                "item_number": "1900574",
                 "Online_Only_attr_pill": [
                     "Online Only"
                 ],
@@ -612,7 +612,7 @@
                 ],
                 "item_location_pricing_listPrice": 1199.99,
                 "item_manufacturing_skus": [
-                    "748369741393"
+                    "748369741430"
                 ],
                 "item_product_marketing_features": [
                     "Mattress Foundation is Available for Purchase in Cart;\nCool-to-the-Touch Cover with MoistureProtect\u2122;\nPrecisionFit\u2122 Coils Flex to Your Body to Maintain Natural Alignment;\nMaxSupport\u2122 Technology Provides Targeted Support;\nDuraFlex\u2122 Edge System: For More Usable Sleep Surface"
@@ -664,7 +664,7 @@
                 "Foundation_Available_attr_pill": [
                     "Foundation Available"
                 ],
-                "item_short_description": "Sealy Posturepedic Pro Lincoln Heights 14\" Firm or Plush Mattress, Firm King",
+                "item_short_description": "Sealy Posturepedic Pro Lincoln Heights 14\" Firm or Plush Mattress, Plush King",
                 "item_product_comparable": true,
                 "Bed_Size_attr": [
                     "King"
@@ -680,7 +680,7 @@
                 "group_id": "4000383457",
                 "item_classification_itemclass": "Standard",
                 "Firmness_attr": [
-                    "Firm"
+                    "Plush"
                 ],
                 "item_product_status_disponzeroinv": true,
                 "item_location_pricing_pricePerUnit_price": 949.99,
@@ -691,7 +691,7 @@
                     "Instant Savings"
                 ],
                 "name": "Sealy Posturepedic Pro Lincoln Heights 14\" Firm or Plush Mattress",
-                "description": "Sealy Posturepedic Pro Lincoln Heights 14\" Firm or Plush Mattress, Firm King",
+                "description": "Sealy Posturepedic Pro Lincoln Heights 14\" Firm or Plush Mattress, Plush King",
                 "Queen_Mattress___Weight_attr": [
                     "100 lb."
                 ],
@@ -704,7 +704,7 @@
                 "item_status_published": true,
                 "item_comparable": true,
                 "item_product_price_in_cart_only": "0",
-                "item_name": "Sealy Posturepedic Pro Lincoln Heights 14\" Firm or Plush Mattress, Firm King",
+                "item_name": "Sealy Posturepedic Pro Lincoln Heights 14\" Firm or Plush Mattress, Plush King",
                 "California_King_Mattress___Weight_attr": [
                     "125 lb."
                 ],
@@ -736,7 +736,7 @@
                 "California_King_Mattress_Dimensions__W_x_L_x_H_attr": [
                     "72 in. x 84 in. x 14 in."
                 ],
-                "id": "1900570!item.en-US",
+                "id": "1900574!item.en-US",
                 "item_backorderflag": 0,
                 "item_review_count": 0,
                 "item_product_review_count": 230,
@@ -749,7 +749,7 @@
                 "deliveryStatus": "in stock",
                 "item_location_availability": "in stock",
                 "item_location_stockStatus": "in stock",
-                "item_location_itemNumber": "1900570",
+                "item_location_itemNumber": "1900574",
                 "item_location_locationNumber": "1258-3pl",
                 "item_location_fulfillment_restrictions_minQty": "1",
                 "item_location_fulfillment_restrictions_maxQty": "9999",
@@ -4028,8 +4028,8 @@
     },
     "responseHeader": {
         "zkConnected": true,
-        "QTime": 84,
-        "totalTime": 398,
+        "QTime": 67,
+        "totalTime": 375,
         "status": 0
     },
     "facets": {

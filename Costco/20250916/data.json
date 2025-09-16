@@ -3,7 +3,7 @@
         "requestedSort": "score desc",
         "X-Fusion-FSACHDI-Exception": "1",
         "X-Fusion-IncludesFSACHDI": "1",
-        "fusionQueryId": "FA30QI33mC"
+        "fusionQueryId": "5UPryRIO3y"
     },
     "response": {
         "docs": [
@@ -4028,8 +4028,8 @@
     },
     "responseHeader": {
         "zkConnected": true,
-        "QTime": 67,
-        "totalTime": 385,
+        "QTime": 73,
+        "totalTime": 398,
         "status": 0
     },
     "facets": {

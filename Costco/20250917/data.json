@@ -3,7 +3,7 @@
         "requestedSort": "score desc",
         "X-Fusion-FSACHDI-Exception": "1",
         "X-Fusion-IncludesFSACHDI": "1",
-        "fusionQueryId": "mEhj7h5orq"
+        "fusionQueryId": "Gk6GBVriic"
     },
     "response": {
         "docs": [
@@ -17,7 +17,7 @@
                 "item_product_name": "Sealy Posturepedic Pro Lincoln Heights 14\" Firm or Plush Mattress",
                 "item_review_ratings": "4.412799835205078",
                 "item_member_only": false,
-                "item_number": "1900574",
+                "item_number": "1900575",
                 "Online_Only_attr_pill": [
                     "Online Only"
                 ],
@@ -35,7 +35,7 @@
                 ],
                 "item_location_pricing_listPrice": 1199.99,
                 "item_manufacturing_skus": [
-                    "748369741430"
+                    "499994601360"
                 ],
                 "item_product_marketing_features": [
                     "Mattress Foundation is Available for Purchase in Cart;\nCool-to-the-Touch Cover with MoistureProtect\u2122;\nPrecisionFit\u2122 Coils Flex to Your Body to Maintain Natural Alignment;\nMaxSupport\u2122 Technology Provides Targeted Support;\nDuraFlex\u2122 Edge System: For More Usable Sleep Surface"
@@ -58,7 +58,7 @@
                     "Instant Savings"
                 ],
                 "item_chdi_eligible": false,
-                "item_as400_category": "IAI",
+                "item_as400_category": "IAJ",
                 "Costco_Direct_attr_pill": [
                     "Costco Direct"
                 ],
@@ -87,10 +87,10 @@
                 "Foundation_Available_attr_pill": [
                     "Foundation Available"
                 ],
-                "item_short_description": "Sealy Posturepedic Pro Lincoln Heights 14\" Firm or Plush Mattress, Plush King",
+                "item_short_description": "Sealy Posturepedic Pro Lincoln Heights 14\" Firm or Plush Mattress, Plush Cal King",
                 "item_product_comparable": true,
                 "Bed_Size_attr": [
-                    "King"
+                    "California King"
                 ],
                 "item_product_review_eligible": true,
                 "categoryPath_ss": [
@@ -114,7 +114,7 @@
                     "Instant Savings"
                 ],
                 "name": "Sealy Posturepedic Pro Lincoln Heights 14\" Firm or Plush Mattress",
-                "description": "Sealy Posturepedic Pro Lincoln Heights 14\" Firm or Plush Mattress, Plush King",
+                "description": "Sealy Posturepedic Pro Lincoln Heights 14\" Firm or Plush Mattress, Plush Cal King",
                 "Queen_Mattress___Weight_attr": [
                     "100 lb."
                 ],
@@ -127,7 +127,7 @@
                 "item_status_published": true,
                 "item_comparable": true,
                 "item_product_price_in_cart_only": "0",
-                "item_name": "Sealy Posturepedic Pro Lincoln Heights 14\" Firm or Plush Mattress, Plush King",
+                "item_name": "Sealy Posturepedic Pro Lincoln Heights 14\" Firm or Plush Mattress, Plush Cal King",
                 "California_King_Mattress___Weight_attr": [
                     "125 lb."
                 ],
@@ -159,7 +159,7 @@
                 "California_King_Mattress_Dimensions__W_x_L_x_H_attr": [
                     "72 in. x 84 in. x 14 in."
                 ],
-                "id": "1900574!item.en-US",
+                "id": "1900575!item.en-US",
                 "item_backorderflag": 0,
                 "item_review_count": 0,
                 "item_product_review_count": 235,
@@ -172,7 +172,7 @@
                 "deliveryStatus": "in stock",
                 "item_location_availability": "in stock",
                 "item_location_stockStatus": "in stock",
-                "item_location_itemNumber": "1900574",
+                "item_location_itemNumber": "1900575",
                 "item_location_locationNumber": "1258-3pl",
                 "item_location_fulfillment_restrictions_minQty": "1",
                 "item_location_fulfillment_restrictions_maxQty": "9999",
@@ -2622,7 +2622,7 @@
             {
                 "item_disponzeroinv": true,
                 "item_product_marketing_statement": "$2,399.99 After $1,300 OFF",
-                "item_swatch_image": "https://bfasset.costco-static.com/U447IH35/at/758z74fksjfs7c7vqnwkpctb/beige.jpg?auto=webp&format=jpg",
+                "item_swatch_image": "https://bfasset.costco-static.com/U447IH35/at/xxbwvh6fkjcswxn5r3tsvfcb/brown.jpg?auto=webp&format=jpg",
                 "item_variableweight": false,
                 "item_product_name": "Osaki A.I. Envy 3D Massage Chair",
                 "item_review_ratings": "4.144899845123291",
@@ -2634,12 +2634,12 @@
                     "120 Volt"
                 ],
                 "Model_attr": [
-                    "Osaki AI 3D Envy BGE",
+                    "Osaki AI 3D Envy BRN",
                     "Osaki AI 3D Envy Black",
                     "Osaki AI 3D Envy Brown",
                     "Osaki AI 3D Envy Beige"
                 ],
-                "item_number": "2898700",
+                "item_number": "2898699",
                 "Massage_Track_Type_attr": [
                     "SL-Track"
                 ],
@@ -2653,14 +2653,14 @@
                     "Monthly_Savings_attr_pill|Instant Savings"
                 ],
                 "Model_descriptive": [
-                    "Osaki AI 3D Envy BGE",
+                    "Osaki AI 3D Envy BRN",
                     "Osaki AI 3D Envy Black",
                     "Osaki AI 3D Envy Brown",
                     "Osaki AI 3D Envy Beige"
                 ],
                 "item_location_pricing_listPrice": 3699.99,
                 "item_manufacturing_skus": [
-                    "810081888240"
+                    "810081888233"
                 ],
                 "item_product_marketing_features": [
                     "A.I. Body Condition/Tension Detector;\n52\u2019 SL Track with Advanced 3D Massage;\nTouch Screen Remote with Quick Control Panel;\n12 Auto Programs & 4 Customizable Programs;\nLumbar & Calf Heat Therapy"
@@ -2684,7 +2684,7 @@
                     "Standard",
                     "ShipIt"
                 ],
-                "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/7zkx348q9qpzxqsjjp9p44fp/4000329287-847_beige_1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/c5gqjngtns4x8x7khss9tf9/4000329287-847_brown_1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
                 "Monthly_Savings_attr": [
                     "Instant Savings"
                 ],
@@ -2695,7 +2695,7 @@
                     "Online Only"
                 ],
                 "Color_attr": [
-                    "Beige"
+                    "Brown"
                 ],
                 "Dimensions__W_x_L_x_H_attr": [
                     "31 in. x 62.5 in. x 50 in."
@@ -2707,13 +2707,13 @@
                     "Osaki"
                 ],
                 "item_swatch_attribute": "Color",
-                "item_short_description": "Osaki A.I. Envy 3D Massage Chair, Beige",
+                "item_short_description": "Osaki A.I. Envy 3D Massage Chair, Brown",
                 "item_product_comparable": true,
                 "item_product_review_eligible": true,
                 "Massage_Roller_Type_attr": [
                     "3D"
                 ],
-                "item_swatch_value": "Beige",
+                "item_swatch_value": "Brown",
                 "categoryPath_ss": [
                     "/health-beauty.html",
                     "/massage-chairs-cushions.html",
@@ -2744,7 +2744,7 @@
                     "Tapping"
                 ],
                 "name": "Osaki A.I. Envy 3D Massage Chair",
-                "description": "Osaki A.I. Envy 3D Massage Chair, Beige",
+                "description": "Osaki A.I. Envy 3D Massage Chair, Brown",
                 "Upholstery_Material_Details_attr": [
                     "Polyurethane"
                 ],
@@ -2769,7 +2769,7 @@
                 "Number_of_Massage_Styles_attr": [
                     "6"
                 ],
-                "item_name": "Osaki A.I. Envy 3D Massage Chair, Beige",
+                "item_name": "Osaki A.I. Envy 3D Massage Chair, Brown",
                 "item_eligible_for_review": "true",
                 "image": "https://bfasset.costco-static.com/U447IH35/as/7zkx348q9qpzxqsjjp9p44fp/4000329287-847_beige_1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
                 "Number_of_Air_Massage_Levels_attr": [
@@ -2783,7 +2783,7 @@
                 "item_image_swatchable": false,
                 "item_product_short_description": "Osaki A.I. Envy 3D Massage Chair",
                 "item_location_pricing_salePrice": 2399.99,
-                "id": "2898700!item.en-US",
+                "id": "2898699!item.en-US",
                 "item_backorderflag": 0,
                 "item_review_count": 0,
                 "item_product_review_count": 69,
@@ -2796,7 +2796,7 @@
                 "deliveryStatus": "in stock",
                 "item_location_availability": "in stock",
                 "item_location_stockStatus": "in stock",
-                "item_location_itemNumber": "2898700",
+                "item_location_itemNumber": "2898699",
                 "item_location_locationNumber": "847_0-edi",
                 "item_location_fulfillment_restrictions_minQty": "1",
                 "item_location_fulfillment_restrictions_maxQty": "5",
@@ -2806,12 +2806,6 @@
                 "maxSalePrice": 2399.99,
                 "isItemInStock": true,
                 "images": [
-                    {
-                        "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/7zkx348q9qpzxqsjjp9p44fp/4000329287-847_beige_1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
-                        "item_swatch_image": "https://bfasset.costco-static.com/U447IH35/at/758z74fksjfs7c7vqnwkpctb/beige.jpg?auto=webp&format=jpg",
-                        "item_swatch_attribute": "Color",
-                        "item_swatch_value": "Beige"
-                    },
                     {
                         "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/c5gqjngtns4x8x7khss9tf9/4000329287-847_brown_1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
                         "item_swatch_image": "https://bfasset.costco-static.com/U447IH35/at/xxbwvh6fkjcswxn5r3tsvfcb/brown.jpg?auto=webp&format=jpg",
@@ -2823,6 +2817,12 @@
                         "item_swatch_image": "https://bfasset.costco-static.com/U447IH35/at/bmsmvnp534mz59cg7ffq9qm/black.jpg?auto=webp&format=jpg",
                         "item_swatch_attribute": "Color",
                         "item_swatch_value": "Black"
+                    },
+                    {
+                        "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/7zkx348q9qpzxqsjjp9p44fp/4000329287-847_beige_1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                        "item_swatch_image": "https://bfasset.costco-static.com/U447IH35/at/758z74fksjfs7c7vqnwkpctb/beige.jpg?auto=webp&format=jpg",
+                        "item_swatch_attribute": "Color",
+                        "item_swatch_value": "Beige"
                     }
                 ]
             },
@@ -4347,14 +4347,14 @@
                 ]
             }
         ],
-        "numFound": 803,
+        "numFound": 826,
         "start": 0,
         "numFoundExact": true
     },
     "responseHeader": {
         "zkConnected": true,
-        "QTime": 65,
-        "totalTime": 501,
+        "QTime": 78,
+        "totalTime": 543,
         "status": 0
     },
     "facets": {
@@ -4362,49 +4362,49 @@
             "buckets": [
                 {
                     "val": "$0 to $25",
-                    "count": 193,
+                    "count": 199,
                     "low": "0",
                     "high": "25",
                     "display_order": "0"
                 },
                 {
                     "val": "$25 to $50",
-                    "count": 150,
+                    "count": 162,
                     "low": "25",
                     "high": "50",
                     "display_order": "1"
                 },
                 {
                     "val": "$50 to $100",
-                    "count": 88,
+                    "count": 89,
                     "low": "50",
                     "high": "100",
                     "display_order": "2"
                 },
                 {
                     "val": "$100 to $200",
-                    "count": 101,
+                    "count": 99,
                     "low": "100",
                     "high": "200",
                     "display_order": "3"
                 },
                 {
                     "val": "$200 to $500",
-                    "count": 120,
+                    "count": 125,
                     "low": "200",
                     "high": "500",
                     "display_order": "4"
                 },
                 {
                     "val": "$500 to $1000",
-                    "count": 67,
+                    "count": 69,
                     "low": "500",
                     "high": "1000",
                     "display_order": "5"
                 },
                 {
                     "val": "$1,000 to $2,000",
-                    "count": 71,
+                    "count": 70,
                     "low": "1000",
                     "high": "2000",
                     "display_order": "6"
@@ -4441,7 +4441,7 @@
                 {
                     "val": "0|Appliances",
                     "leads_to_fsa_chdi": false,
-                    "count": 17,
+                    "count": 19,
                     "meta": "/appliances.html"
                 },
                 {
@@ -4453,19 +4453,19 @@
                 {
                     "val": "0|Beauty",
                     "leads_to_fsa_chdi": true,
-                    "count": 115,
+                    "count": 116,
                     "meta": "/beauty.html"
                 },
                 {
                     "val": "0|Clothing, Luggage & Handbags",
                     "leads_to_fsa_chdi": false,
-                    "count": 41,
+                    "count": 48,
                     "meta": "/clothing.html"
                 },
                 {
                     "val": "0|Computers",
                     "leads_to_fsa_chdi": false,
-                    "count": 88,
+                    "count": 89,
                     "meta": "/computers.html"
                 },
                 {
@@ -4483,7 +4483,7 @@
                 {
                     "val": "0|Electronics",
                     "leads_to_fsa_chdi": false,
-                    "count": 45,
+                    "count": 46,
                     "meta": "/electronics.html"
                 },
                 {
@@ -4495,19 +4495,19 @@
                 {
                     "val": "0|Furniture",
                     "leads_to_fsa_chdi": false,
-                    "count": 45,
+                    "count": 46,
                     "meta": "/furniture.html"
                 },
                 {
                     "val": "0|Grocery & Household Essentials",
                     "leads_to_fsa_chdi": true,
-                    "count": 127,
+                    "count": 128,
                     "meta": "/grocery-household.html"
                 },
                 {
                     "val": "0|Health & Personal Care",
                     "leads_to_fsa_chdi": true,
-                    "count": 151,
+                    "count": 162,
                     "meta": "/health-beauty.html"
                 },
                 {
@@ -4525,13 +4525,13 @@
                 {
                     "val": "0|Home & Kitchen",
                     "leads_to_fsa_chdi": false,
-                    "count": 67,
+                    "count": 69,
                     "meta": "/home-and-decor.html"
                 },
                 {
                     "val": "0|Home Improvement",
                     "leads_to_fsa_chdi": false,
-                    "count": 81,
+                    "count": 82,
                     "meta": "/hardware.html"
                 },
                 {
@@ -4579,7 +4579,7 @@
                 {
                     "val": "0|Tires & Auto",
                     "leads_to_fsa_chdi": false,
-                    "count": 27,
+                    "count": 28,
                     "meta": "/auto-tires.html"
                 },
                 {
@@ -4598,7 +4598,7 @@
             "buckets": [
                 {
                     "val": "LocationControlledInventory",
-                    "count": 122
+                    "count": 123
                 },
                 {
                     "val": "2DayDelivery",
@@ -4606,31 +4606,31 @@
                 },
                 {
                     "val": "Google",
-                    "count": 422
+                    "count": 444
                 },
                 {
                     "val": "GoogleGrocery",
-                    "count": 155
+                    "count": 163
                 },
                 {
                     "val": "InWarehouse",
-                    "count": 168
+                    "count": 177
                 },
                 {
                     "val": "LTLPickUp",
-                    "count": 31
+                    "count": 32
                 },
                 {
                     "val": "ShipIt",
-                    "count": 803
+                    "count": 826
                 },
                 {
                     "val": "SiteControlledInventory",
-                    "count": 683
+                    "count": 705
                 },
                 {
                     "val": "Standard",
-                    "count": 717
+                    "count": 740
                 },
                 {
                     "val": "UseWarehouseInventory",
@@ -4638,7 +4638,7 @@
                 },
                 {
                     "val": "WarehouseDelivery",
-                    "count": 263
+                    "count": 277
                 }
             ],
             "label": "Program Eligibility",
@@ -4666,7 +4666,7 @@
             "buckets": [
                 {
                     "val": "in stock",
-                    "count": 796
+                    "count": 820
                 }
             ]
         },
@@ -4674,19 +4674,19 @@
             "buckets": [
                 {
                     "val": "4 & Up",
-                    "count": 680
+                    "count": 699
                 },
                 {
                     "val": "3 & Up",
-                    "count": 760
+                    "count": 781
                 },
                 {
                     "val": "2 & Up",
-                    "count": 769
+                    "count": 791
                 },
                 {
                     "val": "1 & Up",
-                    "count": 772
+                    "count": 794
                 }
             ],
             "label": "Customer Reviews",
@@ -4698,7 +4698,7 @@
             "buckets": [
                 {
                     "val": "Online Only",
-                    "count": 437
+                    "count": 442
                 }
             ],
             "label": "Online Only",
@@ -4710,7 +4710,7 @@
             "buckets": [
                 {
                     "val": "Costco Direct",
-                    "count": 33
+                    "count": 34
                 }
             ],
             "label": "Costco Direct",

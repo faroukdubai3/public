@@ -1,0 +1,3733 @@
+{
+    "fusion": {
+        "requestedSort": "score desc",
+        "X-Fusion-FSACHDI-Exception": "1",
+        "X-Fusion-IncludesFSACHDI": "1",
+        "fusionQueryId": "fO6002LRLk"
+    },
+    "response": {
+        "docs": [
+            {
+                "item_product_name": "Apple AirPods Pro 3, Wireless Earbuds, Active Noise Cancellation, Hearing Aid Feature, Heart Rate Sensing",
+                "item_fsa_eligible": false,
+                "item_pill_attributes": [
+                    "AppleCare__Included_attr_pill|AppleCare+ Included"
+                ],
+                "item_product_marketing_features": [
+                    "AppleCare+ for Headphones Included;\nBuilt-in heart rate sensing;\nIn-Ear Active Noise Cancellation Reduces 2x More Unwanted Noise than AirPods Pro 2;\nCommunicate Across Languages Using Live Translation;\nExperience breathtaking, Three-Dimensional Audio with a New Acoustic Architecture;"
+                ],
+                "item_buyable": true,
+                "item_chdi_eligible": false,
+                "content_type": [
+                    "product"
+                ],
+                "item_short_description": "Apple AirPods Pro 3, Wireless Earbuds, Active Noise Cancellation, Hearing Aid Feature, Heart Rate Sensing",
+                "item_ratings": 4.111100196838379,
+                "EDD_CHUBSmallPack_attr": [
+                    "0",
+                    "0"
+                ],
+                "item_status_published": true,
+                "item_eligible_for_review": "true",
+                "item_searchable": true,
+                "item_disponzeroinv": true,
+                "item_review_ratings": "4.111100196838379",
+                "item_program_eligibility": [
+                    "SiteControlledInventory",
+                    "Standard",
+                    "ShipIt"
+                ],
+                "categoryPath_ss": [
+                    "/apple-brand-showcase.html",
+                    "/audio-video.html",
+                    "/whats-new.html",
+                    "/view-more.html",
+                    "/headphones.html",
+                    "/airpods.html",
+                    "/featured-brands.html",
+                    "/electronics.html"
+                ],
+                "item_location_pricing_pricePerUnit_price": 249.99,
+                "item_as400_department": "24",
+                "description": "Apple AirPods Pro 3, Wireless Earbuds, Active Noise Cancellation, Hearing Aid Feature, Heart Rate Sensing",
+                "item_rating_value": [
+                    "1 & Up",
+                    "2 & Up",
+                    "3 & Up",
+                    "4 & Up"
+                ],
+                "AppleCare__Included_attr_pill": [
+                    "AppleCare+ Included"
+                ],
+                "item_product_short_description": "Apple AirPods Pro 3, Wireless Earbuds, Active Noise Cancellation, Hearing Aid Feature, Heart Rate Sensing",
+                "item_location_pricing_salePrice": 249.99,
+                "item_product_marketing_statement": "",
+                "item_variableweight": false,
+                "AppleCare__Included_attr": [
+                    "AppleCare+ Included"
+                ],
+                "item_member_only": false,
+                "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/q6mcm9rtnqjbwsr9mb5tvn/4000404510-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "item_product_comparable": true,
+                "group_id": "4000404510",
+                "item_classification_itemclass": "Standard",
+                "item_product_status_disponzeroinv": true,
+                "item_product_image_swatchable": false,
+                "item_comparable": true,
+                "item_name": "Apple AirPods Pro 3, Wireless Earbuds, Active Noise Cancellation, Hearing Aid Feature, Heart Rate Sensing",
+                "image": "https://bfasset.costco-static.com/U447IH35/as/q6mcm9rtnqjbwsr9mb5tvn/4000404510-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "item_product_buyable": true,
+                "Model_attr": [
+                    "BD1X3LL/A"
+                ],
+                "item_number": "1945194",
+                "item_product_primary_image": "https://bfasset.costco-static.com/U447IH35/as/q6mcm9rtnqjbwsr9mb5tvn/4000404510-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "Model_descriptive": [
+                    "BD1X3LL/A"
+                ],
+                "item_location_pricing_listPrice": 249.99,
+                "item_manufacturing_skus": [
+                    "195951019123"
+                ],
+                "item_as400_category": "DAA",
+                "item_product_status_published": true,
+                "item_product_review_eligible": true,
+                "name": "Apple AirPods Pro 3, Wireless Earbuds, Active Noise Cancellation, Hearing Aid Feature, Heart Rate Sensing",
+                "item_product_price_in_cart_only": "0",
+                "item_image_swatchable": false,
+                "id": "1945194!item.en-US",
+                "item_product_status_backorderqty": 0,
+                "item_backorderflag": 1,
+                "item_product_status_backorderflag": 0,
+                "item_startDate": "2025-09-10T00:00:00Z",
+                "item_review_count": 0,
+                "item_product_review_count": 9,
+                "item_rating_average_value": 0,
+                "item_backorderqty": 0,
+                "isFutureDate": false,
+                "deliveryStatus": "in stock",
+                "item_location_availability": "in stock",
+                "item_location_stockStatus": "in stock",
+                "item_location_itemNumber": "1945194",
+                "item_location_locationNumber": "1116-wh",
+                "item_location_fulfillment_restrictions_minQty": "1",
+                "item_location_fulfillment_restrictions_maxQty": "2",
+                "item_location_currencyCode": "USD",
+                "hasSingleSku": true,
+                "minSalePrice": 249.99,
+                "maxSalePrice": 249.99,
+                "isItemInStock": true,
+                "images": [
+                    {
+                        "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/q6mcm9rtnqjbwsr9mb5tvn/4000404510-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+                    }
+                ]
+            },
+            {
+                "item_disponzeroinv": true,
+                "item_fsa_eligible": false,
+                "item_product_marketing_statement": "",
+                "Watch_Type_attr": [
+                    "Activity Tracker",
+                    "Smart Watch",
+                    "Sports"
+                ],
+                "item_image_swatchable": false,
+                "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/vhx7pm5h6mw9n6bf7rbvp78/4000222316-847_jetblack_1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "item_product_price_in_cart_only": "0",
+                "item_pill_attributes": [
+                    "AppleCare__Available_attr_pill|AppleCare+ Available"
+                ],
+                "item_short_description": "Apple Watch Series 11 (GPS) 42mm Sport Band, Silver",
+                "item_product_comparable": true,
+                "item_product_short_description": "Apple Watch Series 11 (GPS) 42mm Sport Band",
+                "item_as400_department": "24",
+                "Delivery_Type_attr": [
+                    "Warehouse Pick-up"
+                ],
+                "item_product_image_swatchable": false,
+                "item_variableweight": false,
+                "item_product_name": "Apple Watch Series 11 (GPS) 42mm Sport Band",
+                "Model_descriptive": [
+                    "MEU64LW/A",
+                    "MEU04LW/A",
+                    "MEQW4LW/A",
+                    "MEU64LW/A",
+                    "MEQT4LW/A"
+                ],
+                "Body_Metrics_Measured_attr": [
+                    "Multiple"
+                ],
+                "item_chdi_eligible": false,
+                "item_name": "Apple Watch Series 11 (GPS) 42mm Sport Band, Silver",
+                "Features_attr": [
+                    "Always-On Display",
+                    "Bluetooth",
+                    "Water Resistant",
+                    "Wi-Fi"
+                ],
+                "item_location_pricing_listPrice": 389.99,
+                "AppleCare__Available_attr_pill": [
+                    "AppleCare+ Available"
+                ],
+                "item_eligible_for_review": "true",
+                "item_review_ratings": "0.0",
+                "item_product_review_eligible": true,
+                "image": "https://bfasset.costco-static.com/U447IH35/as/vhx7pm5h6mw9n6bf7rbvp78/4000222316-847_jetblack_1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "name": "Apple Watch Series 11 (GPS) 42mm Sport Band",
+                "item_manufacturing_skus": [
+                    "195950461701"
+                ],
+                "AppleCare__Available_attr": [
+                    "AppleCare+ Available"
+                ],
+                "item_product_marketing_features": [
+                    "Hypertension Notifications;\nKnow Your Sleep Score;\nEven More Health Insights\u2014take an Ecg Anytime.\u2075 Get Notifications for a High and Low Heart Rate, an Irregular Rhythm,\u2076 and Possible Sleep Apnea;\nBig Boost in Battery Life\u2014with up to 24 Hours of Normal Use.\u00b3 and Fast Charge for up to 8 Hours of Normal Use in Just 15 Minutes.\u00b9\u00b9;\nBuilt to Last\u2014a Water Resistance Rating of 50m and Is iP6X Dust Resistant.\u00b9\u00b3;"
+                ],
+                "Color_attr": [
+                    "Silver"
+                ],
+                "description": "Apple Watch Series 11 (GPS) 42mm Sport Band, Silver",
+                "content_type": [
+                    "product"
+                ],
+                "Bluetooth_Version_attr": [
+                    "Bluetooth 5.3"
+                ],
+                "Case_Size_attr": [
+                    "42mm"
+                ],
+                "Watch_Features_attr": [
+                    "GPS"
+                ],
+                "categoryPath_ss": [
+                    "/apple-brand-showcase.html",
+                    "/wearable-technology.html",
+                    "/whats-new.html",
+                    "/watches.html",
+                    "/view-more.html",
+                    "/apple-smart-watch.html",
+                    "/smart-watches.html",
+                    "/featured-brands.html",
+                    "/electronics.html",
+                    "/jewelry.html"
+                ],
+                "group_id": "4000222316",
+                "item_member_only": false,
+                "item_classification_itemclass": "Standard",
+                "item_location_pricing_salePrice": 389.99,
+                "item_as400_category": "DCA",
+                "Band_Size_attr": [
+                    "Small/Medium"
+                ],
+                "Model_attr": [
+                    "MEU64LW/A",
+                    "MEU04LW/A",
+                    "MEQW4LW/A",
+                    "MEU64LW/A",
+                    "MEQT4LW/A"
+                ],
+                "item_product_status_disponzeroinv": true,
+                "item_number": "1778381",
+                "item_product_marketingcontent_keywords": [
+                    "AppleNPISEPT"
+                ],
+                "EDD_CHUBSmallPack_attr": [
+                    "0",
+                    "0"
+                ],
+                "item_location_pricing_pricePerUnit_price": 389.99,
+                "Compatible_with_attr": [
+                    "Apple iOS"
+                ],
+                "Battery_Life_Up_To_attr": [
+                    "24 Hour"
+                ],
+                "Brand_attr": [
+                    "Apple"
+                ],
+                "item_buyable": true,
+                "item_ratings": 0.0,
+                "Display_Type_attr": [
+                    "OLED"
+                ],
+                "item_status_published": true,
+                "item_program_eligibility": [
+                    "SiteControlledInventory",
+                    "Standard",
+                    "ShipIt"
+                ],
+                "item_product_buyable": true,
+                "Wireless_Networking_attr": [
+                    "Wi-Fi 4"
+                ],
+                "item_comparable": true,
+                "item_product_status_published": true,
+                "item_searchable": true,
+                "Series_attr": [
+                    "Series 11"
+                ],
+                "item_product_primary_image": "https://bfasset.costco-static.com/U447IH35/as/vhx7pm5h6mw9n6bf7rbvp78/4000222316-847_jetblack_1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "id": "1778381!item.en-US",
+                "item_product_status_backorderflag": 0,
+                "item_review_count": 0,
+                "item_backorderqty": 0,
+                "item_product_review_count": 0,
+                "item_startDate": "2025-09-10T00:00:00Z",
+                "item_product_status_backorderqty": 0,
+                "item_rating_average_value": 0,
+                "item_backorderflag": 1,
+                "isFutureDate": false,
+                "deliveryStatus": "in stock",
+                "shipToWarehouse": "in stock",
+                "item_location_availability": "in stock",
+                "item_location_stockStatus": "in stock",
+                "item_location_itemNumber": "1778381",
+                "item_location_locationNumber": "731-wm",
+                "item_location_fulfillment_restrictions_minQty": "1",
+                "item_location_fulfillment_restrictions_maxQty": "2",
+                "item_location_currencyCode": "USD",
+                "hasSingleSku": false,
+                "minSalePrice": 389.99,
+                "maxSalePrice": 389.99,
+                "isItemInStock": true,
+                "images": [
+                    {
+                        "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/vhx7pm5h6mw9n6bf7rbvp78/4000222316-847_jetblack_1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+                    },
+                    {
+                        "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/vhx7pm5h6mw9n6bf7rbvp78/4000222316-847_jetblack_1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+                    },
+                    {
+                        "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/vhx7pm5h6mw9n6bf7rbvp78/4000222316-847_jetblack_1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+                    },
+                    {
+                        "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/vhx7pm5h6mw9n6bf7rbvp78/4000222316-847_jetblack_1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+                    }
+                ]
+            },
+            {
+                "item_disponzeroinv": true,
+                "item_fsa_eligible": false,
+                "item_product_marketing_statement": "",
+                "Watch_Type_attr": [
+                    "Activity Tracker",
+                    "Smart Watch",
+                    "Sports"
+                ],
+                "item_image_swatchable": false,
+                "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/x83mtgvc9bkpfkxz3mwpbz/4000306850-847_black_1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "item_product_price_in_cart_only": "0",
+                "item_pill_attributes": [
+                    "AppleCare__Available_attr_pill|AppleCare+ Available"
+                ],
+                "item_short_description": "Apple Watch Ultra 3 (GPS + Cellular) 49mm Black Titanium Case, Black",
+                "item_product_comparable": true,
+                "item_product_short_description": "Apple Watch Ultra 3 (GPS + Cellular) 49mm Black Titanium Case",
+                "item_as400_department": "24",
+                "Delivery_Type_attr": [
+                    "Warehouse Pick-up"
+                ],
+                "item_product_image_swatchable": false,
+                "item_variableweight": false,
+                "item_product_name": "Apple Watch Ultra 3 (GPS + Cellular) 49mm Black Titanium Case",
+                "Model_descriptive": [
+                    "MF0X4LW/A",
+                    "MF0J4LW/A",
+                    "MF0X4LW/A",
+                    "MF1H4LW/A"
+                ],
+                "Body_Metrics_Measured_attr": [
+                    "Multiple"
+                ],
+                "item_chdi_eligible": false,
+                "item_name": "Apple Watch Ultra 3 (GPS + Cellular) 49mm Black Titanium Case, Black",
+                "Features_attr": [
+                    "Always-On Display",
+                    "Bluetooth",
+                    "Water Resistant",
+                    "Wi-Fi"
+                ],
+                "item_location_pricing_listPrice": 779.99,
+                "AppleCare__Available_attr_pill": [
+                    "AppleCare+ Available"
+                ],
+                "item_eligible_for_review": "true",
+                "item_review_ratings": "0.0",
+                "item_product_review_eligible": true,
+                "image": "https://bfasset.costco-static.com/U447IH35/as/x83mtgvc9bkpfkxz3mwpbz/4000306850-847_black_1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "name": "Apple Watch Ultra 3 (GPS + Cellular) 49mm Black Titanium Case",
+                "item_manufacturing_skus": [
+                    "195950485332"
+                ],
+                "AppleCare__Available_attr": [
+                    "AppleCare+ Available"
+                ],
+                "item_product_marketing_features": [
+                    "Rugged and Ready to Go \u2014Water Resistant 100m\u2014Great for Swimming, Diving, and High-speed Water Sports.\u2075; \nMultiday Battery Life\u2014Up to 42 Hours of Normal Use and up to 72 Hours in Low Power Mode.\u00b2;\nUltimate Running and Workout Companion\u2014Precision Dual-Frequency GPS, Pacer, Heart Rate Zones, Custom Workouts, Etc.;\nSafety Features\u2014Ultra 3 Can Detect a Hard Fall or Severe Car Crash.\u2077 ;\nCustomizable Action Button;"
+                ],
+                "Color_attr": [
+                    "Black"
+                ],
+                "description": "Apple Watch Ultra 3 (GPS + Cellular) 49mm Black Titanium Case, Black",
+                "content_type": [
+                    "product"
+                ],
+                "Bluetooth_Version_attr": [
+                    "Bluetooth 5.3"
+                ],
+                "Case_Size_attr": [
+                    "49mm"
+                ],
+                "Watch_Features_attr": [
+                    "GPS + Cellular"
+                ],
+                "categoryPath_ss": [
+                    "/apple-brand-showcase.html",
+                    "/wearable-technology.html",
+                    "/whats-new.html",
+                    "/watches.html",
+                    "/view-more.html",
+                    "/apple-smart-watch.html",
+                    "/smart-watches.html",
+                    "/featured-brands.html",
+                    "/electronics.html",
+                    "/jewelry.html"
+                ],
+                "group_id": "4000306850",
+                "item_member_only": false,
+                "item_classification_itemclass": "Standard",
+                "item_location_pricing_salePrice": 779.99,
+                "item_as400_category": "DCA",
+                "Band_Size_attr": [
+                    "Large",
+                    "Medium/Large",
+                    "One Size"
+                ],
+                "Model_attr": [
+                    "MF0X4LW/A",
+                    "MF0J4LW/A",
+                    "MF0X4LW/A",
+                    "MF1H4LW/A"
+                ],
+                "item_product_status_disponzeroinv": true,
+                "item_number": "1874536",
+                "item_product_marketingcontent_keywords": [
+                    "AppleNPISEPT"
+                ],
+                "EDD_CHUBSmallPack_attr": [
+                    "0",
+                    "0"
+                ],
+                "item_location_pricing_pricePerUnit_price": 779.99,
+                "Compatible_with_attr": [
+                    "Apple iOS"
+                ],
+                "Battery_Life_Up_To_attr": [
+                    "42 Hour"
+                ],
+                "Brand_attr": [
+                    "Apple"
+                ],
+                "item_buyable": true,
+                "item_ratings": 0.0,
+                "Display_Type_attr": [
+                    "OLED"
+                ],
+                "item_status_published": true,
+                "item_program_eligibility": [
+                    "SiteControlledInventory",
+                    "Standard",
+                    "ShipIt"
+                ],
+                "item_product_buyable": true,
+                "Wireless_Networking_attr": [
+                    "Wi-Fi 4"
+                ],
+                "item_comparable": true,
+                "item_product_status_published": true,
+                "item_searchable": true,
+                "Series_attr": [
+                    "Ultra 3"
+                ],
+                "item_product_primary_image": "https://bfasset.costco-static.com/U447IH35/as/x83mtgvc9bkpfkxz3mwpbz/4000306850-847_black_1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "id": "1874536!item.en-US",
+                "item_product_status_backorderflag": 0,
+                "item_review_count": 0,
+                "item_backorderqty": 0,
+                "item_product_review_count": 0,
+                "item_startDate": "2025-09-10T00:00:00Z",
+                "item_product_status_backorderqty": 0,
+                "item_rating_average_value": 0,
+                "item_backorderflag": 1,
+                "isFutureDate": false,
+                "deliveryStatus": "in stock",
+                "shipToWarehouse": "in stock",
+                "item_location_availability": "in stock",
+                "item_location_stockStatus": "in stock",
+                "item_location_itemNumber": "1874536",
+                "item_location_locationNumber": "731-wm",
+                "item_location_fulfillment_restrictions_minQty": "1",
+                "item_location_fulfillment_restrictions_maxQty": "2",
+                "item_location_currencyCode": "USD",
+                "hasSingleSku": false,
+                "minSalePrice": 779.99,
+                "maxSalePrice": 779.99,
+                "isItemInStock": true,
+                "images": [
+                    {
+                        "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/x83mtgvc9bkpfkxz3mwpbz/4000306850-847_black_1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+                    },
+                    {
+                        "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/x83mtgvc9bkpfkxz3mwpbz/4000306850-847_black_1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+                    },
+                    {
+                        "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/x83mtgvc9bkpfkxz3mwpbz/4000306850-847_black_1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+                    }
+                ]
+            },
+            {
+                "item_disponzeroinv": true,
+                "item_fsa_eligible": false,
+                "item_product_marketing_statement": "",
+                "Watch_Type_attr": [
+                    "Activity Tracker",
+                    "Smart Watch",
+                    "Sports"
+                ],
+                "item_image_swatchable": false,
+                "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/fpct63tsfgvpr92tg87q99q9/4000306907-847_lightblue_1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "item_product_price_in_cart_only": "0",
+                "item_pill_attributes": [
+                    "AppleCare__Available_attr_pill|AppleCare+ Available",
+                    "Online_Only_attr_pill|Online Only"
+                ],
+                "item_short_description": "Apple Watch Ultra 3 (GPS + Cellular) 49mm Natural Titanium, Anchor Blue Ocean",
+                "item_product_comparable": true,
+                "item_product_short_description": "Apple Watch Ultra 3 (GPS + Cellular) 49mm Natural Titanium",
+                "item_as400_department": "24",
+                "Delivery_Type_attr": [
+                    "Warehouse Pick-up"
+                ],
+                "item_product_image_swatchable": false,
+                "item_variableweight": false,
+                "item_product_name": "Apple Watch Ultra 3 (GPS + Cellular) 49mm Natural Titanium",
+                "Model_descriptive": [
+                    "MEWH4LW/A",
+                    "MEWH4LW/A",
+                    "MEWP4LW/A",
+                    "MEWU4LW/A"
+                ],
+                "Body_Metrics_Measured_attr": [
+                    "Multiple"
+                ],
+                "item_chdi_eligible": false,
+                "item_name": "Apple Watch Ultra 3 (GPS + Cellular) 49mm Natural Titanium, Anchor Blue Ocean",
+                "Features_attr": [
+                    "Always-On Display",
+                    "Bluetooth",
+                    "Water Resistant",
+                    "Wi-Fi"
+                ],
+                "item_location_pricing_listPrice": 779.99,
+                "AppleCare__Available_attr_pill": [
+                    "AppleCare+ Available"
+                ],
+                "item_eligible_for_review": "true",
+                "item_review_ratings": "0.0",
+                "item_product_review_eligible": true,
+                "image": "https://bfasset.costco-static.com/U447IH35/as/fpct63tsfgvpr92tg87q99q9/4000306907-847_lightblue_1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "name": "Apple Watch Ultra 3 (GPS + Cellular) 49mm Natural Titanium",
+                "item_manufacturing_skus": [
+                    "195950481259"
+                ],
+                "AppleCare__Available_attr": [
+                    "AppleCare+ Available"
+                ],
+                "item_product_marketing_features": [
+                    "Rugged and Ready to Go \u2014Water Resistant 100m\u2014Great for Swimming, Diving, and High-speed Water Sports.\u2075; \nMultiday Battery Life\u2014Up to 42 Hours of Normal Use and up to 72 Hours in Low Power Mode.\u00b2;\nUltimate Running and Workout Companion\u2014Precision Dual-Frequency GPS, Pacer, Heart Rate Zones, Custom Workouts, Etc.;\nSafety Features\u2014Ultra 3 Can Detect a Hard Fall or Severe Car Crash.\u2077 ;\nCustomizable Action Button;"
+                ],
+                "Color_attr": [
+                    "Anchor Blue Ocean"
+                ],
+                "description": "Apple Watch Ultra 3 (GPS + Cellular) 49mm Natural Titanium, Anchor Blue Ocean",
+                "content_type": [
+                    "product"
+                ],
+                "Bluetooth_Version_attr": [
+                    "Bluetooth 5.3"
+                ],
+                "Case_Size_attr": [
+                    "49mm"
+                ],
+                "Watch_Features_attr": [
+                    "GPS + Cellular"
+                ],
+                "categoryPath_ss": [
+                    "/apple-brand-showcase.html",
+                    "/wearable-technology.html",
+                    "/whats-new.html",
+                    "/watches.html",
+                    "/view-more.html",
+                    "/apple-smart-watch.html",
+                    "/smart-watches.html",
+                    "/featured-brands.html",
+                    "/electronics.html",
+                    "/jewelry.html"
+                ],
+                "group_id": "4000306907",
+                "item_member_only": false,
+                "item_classification_itemclass": "Standard",
+                "item_location_pricing_salePrice": 779.99,
+                "item_as400_category": "DCA",
+                "Band_Size_attr": [
+                    "One Size",
+                    "Large",
+                    "Medium/Large"
+                ],
+                "Model_attr": [
+                    "MEWH4LW/A",
+                    "MEWH4LW/A",
+                    "MEWP4LW/A",
+                    "MEWU4LW/A"
+                ],
+                "item_product_status_disponzeroinv": true,
+                "item_number": "1874524",
+                "item_product_marketingcontent_keywords": [
+                    "AppleNPISEPT"
+                ],
+                "EDD_CHUBSmallPack_attr": [
+                    "0",
+                    "0"
+                ],
+                "item_location_pricing_pricePerUnit_price": 779.99,
+                "Compatible_with_attr": [
+                    "Apple iOS"
+                ],
+                "Battery_Life_Up_To_attr": [
+                    "42 Hour"
+                ],
+                "Brand_attr": [
+                    "Apple"
+                ],
+                "item_buyable": true,
+                "item_ratings": 0.0,
+                "Display_Type_attr": [
+                    "OLED"
+                ],
+                "item_status_published": true,
+                "item_program_eligibility": [
+                    "SiteControlledInventory",
+                    "Standard",
+                    "ShipIt"
+                ],
+                "item_product_buyable": true,
+                "Wireless_Networking_attr": [
+                    "Wi-Fi 4"
+                ],
+                "Online_Only_attr_pill": [
+                    "Online Only"
+                ],
+                "item_comparable": true,
+                "item_product_status_published": true,
+                "item_searchable": true,
+                "Online_Only_attr": [
+                    "Online Only"
+                ],
+                "Series_attr": [
+                    "Ultra 3"
+                ],
+                "item_product_primary_image": "https://bfasset.costco-static.com/U447IH35/as/fpct63tsfgvpr92tg87q99q9/4000306907-847_lightblue_1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "id": "1874524!item.en-US",
+                "item_product_status_backorderflag": 0,
+                "item_review_count": 0,
+                "item_backorderqty": 0,
+                "item_product_review_count": 0,
+                "item_startDate": "2025-09-10T00:00:00Z",
+                "item_product_status_backorderqty": 0,
+                "item_rating_average_value": 0,
+                "item_backorderflag": 1,
+                "isFutureDate": false,
+                "deliveryStatus": "in stock",
+                "shipToWarehouse": "in stock",
+                "item_location_availability": "in stock",
+                "item_location_stockStatus": "in stock",
+                "item_location_itemNumber": "1874524",
+                "item_location_locationNumber": "731-wm",
+                "item_location_fulfillment_restrictions_minQty": "1",
+                "item_location_fulfillment_restrictions_maxQty": "2",
+                "item_location_currencyCode": "USD",
+                "hasSingleSku": false,
+                "minSalePrice": 779.99,
+                "maxSalePrice": 779.99,
+                "isItemInStock": true,
+                "images": [
+                    {
+                        "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/fpct63tsfgvpr92tg87q99q9/4000306907-847_lightblue_1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+                    },
+                    {
+                        "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/fpct63tsfgvpr92tg87q99q9/4000306907-847_lightblue_1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+                    },
+                    {
+                        "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/fpct63tsfgvpr92tg87q99q9/4000306907-847_lightblue_1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+                    }
+                ]
+            },
+            {
+                "item_disponzeroinv": false,
+                "item_fsa_eligible": false,
+                "item_product_marketing_statement": "",
+                "item_location_pricing_salePrice": 799.99,
+                "item_as400_category": "KWB",
+                "item_image_swatchable": false,
+                "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/tfsswfr9s7gwwjn9x4z4k28/4000401858-847_black_1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "item_product_price_in_cart_only": "1",
+                "item_pill_attributes": [
+                    "Online_Only_attr_pill|Online Only"
+                ],
+                "item_short_description": "Litter-Robot 4 Self-Cleaning Cat Litter Box, LitterHopper Bundle, White",
+                "Model_attr": [
+                    "LR4-EXCWBDL-WT"
+                ],
+                "item_product_comparable": true,
+                "item_product_short_description": "Litter-Robot 4 Self-Cleaning Cat Litter Box, LitterHopper Bundle",
+                "item_as400_department": "14",
+                "item_product_status_disponzeroinv": false,
+                "item_number": "1986375",
+                "item_product_marketingcontent_keywords": [
+                    "Litter",
+                    "Robot,",
+                    "Whisker,",
+                    "Automatic",
+                    "Litter",
+                    "Box,",
+                    "Litter",
+                    "Hopper",
+                    "newlp"
+                ],
+                "EDD_CHUBSmallPack_attr": [
+                    "0",
+                    "0"
+                ],
+                "item_rating_value": [
+                    "1 & Up",
+                    "2 & Up",
+                    "3 & Up",
+                    "4 & Up"
+                ],
+                "item_product_image_swatchable": false,
+                "item_variableweight": false,
+                "item_product_name": "Litter-Robot 4 Self-Cleaning Cat Litter Box, LitterHopper Bundle",
+                "Model_descriptive": [
+                    "LR4-EXCWBDL-WT"
+                ],
+                "item_chdi_eligible": false,
+                "item_name": "Litter-Robot 4 Self-Cleaning Cat Litter Box, LitterHopper Bundle, White",
+                "Features_attr": [
+                    "Covered"
+                ],
+                "item_location_pricing_pricePerUnit_price": 799.99,
+                "Container_Size_attr": [
+                    "24 lb."
+                ],
+                "Brand_attr": [
+                    "Whisker"
+                ],
+                "item_location_pricing_listPrice": 799.99,
+                "item_buyable": true,
+                "item_ratings": 4.7270002365112305,
+                "item_eligible_for_review": "true",
+                "item_review_ratings": "4.7270002365112305",
+                "item_product_review_eligible": true,
+                "image": "https://bfasset.costco-static.com/U447IH35/as/tfsswfr9s7gwwjn9x4z4k28/4000401858-847_black_1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "Type_of_Pet_attr": [
+                    "Cat"
+                ],
+                "item_status_published": true,
+                "name": "Litter-Robot 4 Self-Cleaning Cat Litter Box, LitterHopper Bundle",
+                "item_manufacturing_skus": [
+                    "810157861603"
+                ],
+                "item_product_marketing_features": [
+                    "Smart Self-Cleaning Litter Box;\nNeutralizes Litter Box Odors;\nTracks your Cat\u2019s Weight and Activity;\nSuitable for up to Four Cats;\nReduces Litter Tracking and Dust"
+                ],
+                "Color_attr": [
+                    "White"
+                ],
+                "item_program_eligibility": [
+                    "Google",
+                    "SiteControlledInventory",
+                    "Standard",
+                    "ShipIt"
+                ],
+                "description": "Litter-Robot 4 Self-Cleaning Cat Litter Box, LitterHopper Bundle, White",
+                "item_product_buyable": true,
+                "content_type": [
+                    "product"
+                ],
+                "Online_Only_attr_pill": [
+                    "Online Only"
+                ],
+                "item_comparable": true,
+                "item_product_status_published": true,
+                "item_searchable": true,
+                "categoryPath_ss": [
+                    "/pet-technology.html",
+                    "/whats-new.html",
+                    "/view-more.html",
+                    "/pet-supplies.html"
+                ],
+                "group_id": "4000401858",
+                "Online_Only_attr": [
+                    "Online Only"
+                ],
+                "item_member_only": true,
+                "item_classification_itemclass": "Standard",
+                "item_product_primary_image": "https://bfasset.costco-static.com/U447IH35/as/tfsswfr9s7gwwjn9x4z4k28/4000401858-847_black_1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "id": "1986375!item.en-US",
+                "item_startDate": "2025-09-10T00:00:00Z",
+                "item_product_status_backorderflag": 0,
+                "item_product_status_backorderqty": 0,
+                "item_review_count": 0,
+                "item_rating_average_value": 0,
+                "item_backorderqty": 0,
+                "item_backorderflag": 0,
+                "item_product_review_count": 597,
+                "isFutureDate": false,
+                "deliveryStatus": "in stock",
+                "item_location_availability": "in stock",
+                "item_location_stockStatus": "in stock",
+                "item_location_itemNumber": "1986375",
+                "item_location_locationNumber": "847_0-edi",
+                "item_location_fulfillment_restrictions_minQty": "1",
+                "item_location_fulfillment_restrictions_maxQty": "9999",
+                "item_location_currencyCode": "USD",
+                "hasSingleSku": false,
+                "minSalePrice": 799.99,
+                "maxSalePrice": 799.99,
+                "isItemInStock": true,
+                "images": [
+                    {
+                        "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/tfsswfr9s7gwwjn9x4z4k28/4000401858-847_black_1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+                    },
+                    {
+                        "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/tfsswfr9s7gwwjn9x4z4k28/4000401858-847_black_1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+                    }
+                ]
+            },
+            {
+                "item_disponzeroinv": true,
+                "item_product_marketing_statement": "<p class='promo'>Qualifies for Costco Direct Savings. See Product Details.</p>",
+                "Number_of_HDMI_Inputs_attr": [
+                    "4"
+                ],
+                "item_variableweight": false,
+                "item_product_name": "LG 86\" Class - UA9000 Series - 4K UHD Smart TV - Allstate 3-Year Protection Plan Bundle Included For 5 Years of Total Coverage*",
+                "item_review_ratings": "0.0",
+                "Inputs___HDMI_2_attr": [
+                    "HDMI 2.1 eARC/ALLM/VRR/QMS"
+                ],
+                "item_member_only": false,
+                "Model_attr": [
+                    "86UA9000AUC.AUS",
+                    "86UA9000AUC"
+                ],
+                "item_number": "9586900",
+                "Inputs___HDMI_4_attr": [
+                    "HDMI 2.1 eARC/ALLM/VRR/QMS"
+                ],
+                "Online_Only_attr_pill": [
+                    "Online Only"
+                ],
+                "item_product_primary_image": "https://bfasset.costco-static.com/U447IH35/as/mhfsnfvkzrhwv9sprb/4000396212-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "item_fsa_eligible": false,
+                "item_pill_attributes": [
+                    "Costco_Direct_attr_pill|Costco Direct",
+                    "Online_Only_attr_pill|Online Only"
+                ],
+                "EDD_Calendar_attr": [
+                    "0",
+                    "0"
+                ],
+                "Model_descriptive": [
+                    "86UA9000AUC.AUS",
+                    "86UA9000AUC"
+                ],
+                "item_location_pricing_listPrice": 899.99,
+                "item_manufacturing_skus": [
+                    "195174119860"
+                ],
+                "item_product_marketing_features": [
+                    "Wi-Fi 6E - the Smooth and Fast Streaming Experience, Low Latency, and Ultra-fast Speeds;\nPrecision HDR Master Pro - Enhances Video Frame-by-Frame for Sharper Contrast and Vivid Colors;\nPrecision Sound Master Pro -  Enjoy Crystal-Clear Dialogue and Immersive Surround Sound;\nAI Magic Remote - Built-in AI Voice Control to Find Your Favorite Content;\nDolby Atmos - Surround Yourself with Immersive Sound;"
+                ],
+                "Native_Refresh_Rate_attr": [
+                    "120Hz"
+                ],
+                "item_buyable": true,
+                "item_program_eligibility": [
+                    "LocationControlledInventory",
+                    "LTLPickUp",
+                    "Standard",
+                    "ShipIt"
+                ],
+                "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/mhfsnfvkzrhwv9sprb/4000396212-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "Weight___without_Stand_attr": [
+                    "99.6 lb."
+                ],
+                "item_chdi_eligible": false,
+                "Smart_TV_Platform_attr": [
+                    "webOS 25"
+                ],
+                "Screen_Resolution_attr": [
+                    "3840 x 2160"
+                ],
+                "item_as400_category": "AHA",
+                "Costco_Direct_attr_pill": [
+                    "Costco Direct"
+                ],
+                "Dimensions__with_stand___W_x_D_x_H_attr": [
+                    "75.9 in. x 14.3 in. x 45.9 in."
+                ],
+                "Costco_Direct_attr": [
+                    "Costco Direct"
+                ],
+                "item_product_status_published": true,
+                "Online_Only_attr": [
+                    "Online Only"
+                ],
+                "Features_attr": [
+                    "Bluetooth",
+                    "Energy Star Certified",
+                    "Smart",
+                    "Wi-Fi"
+                ],
+                "content_type": [
+                    "product"
+                ],
+                "Motion_Technology_attr": [
+                    "-"
+                ],
+                "Brand_attr": [
+                    "LG"
+                ],
+                "Display_Type_attr": [
+                    "LED"
+                ],
+                "AutoAdd_attr": [
+                    "0",
+                    "0"
+                ],
+                "item_short_description": "LG 86\" Class - UA9000 Series - 4K UHD Smart TV - Allstate 3-Year Protection Plan Bundle Included For 5 Years of Total Coverage*",
+                "item_product_comparable": true,
+                "item_product_review_eligible": true,
+                "Inputs___HDMI_3_attr": [
+                    "HDMI 2.1 eARC/ALLM/VRR/QMS"
+                ],
+                "High_Dynamic_Range__HDR__attr": [
+                    "HDR10",
+                    "HLG"
+                ],
+                "categoryPath_ss": [
+                    "/85-inch-tvs-through-97-inch-tvs.html",
+                    "/whats-new.html",
+                    "/view-more.html",
+                    "/televisions.html",
+                    "/electronics.html"
+                ],
+                "group_id": "4000396212",
+                "item_classification_itemclass": "Standard",
+                "Weight___with_Stand_attr": [
+                    "101.2 lb."
+                ],
+                "Number_of_Digital_Optical_Audio_Inputs_attr": [
+                    "1"
+                ],
+                "item_product_status_disponzeroinv": true,
+                "Shop_by_TV_Type_attr": [
+                    "LED"
+                ],
+                "item_location_pricing_pricePerUnit_price": 899.99,
+                "item_ratings": 0.0,
+                "item_as400_department": "24",
+                "item_product_image_swatchable": false,
+                "name": "LG 86\" Class - UA9000 Series - 4K UHD Smart TV - Allstate 3-Year Protection Plan Bundle Included For 5 Years of Total Coverage*",
+                "description": "LG 86\" Class - UA9000 Series - 4K UHD Smart TV - Allstate 3-Year Protection Plan Bundle Included For 5 Years of Total Coverage*",
+                "Compatible_with_attr": [
+                    "Alexa",
+                    "Google Assistant"
+                ],
+                "item_status_published": true,
+                "Number_of_USB_Ports_attr": [
+                    "2"
+                ],
+                "item_comparable": true,
+                "item_product_price_in_cart_only": "0",
+                "item_name": "LG 86\" Class - UA9000 Series - 4K UHD Smart TV - Allstate 3-Year Protection Plan Bundle Included For 5 Years of Total Coverage*",
+                "Resolution_attr": [
+                    "4K UHD"
+                ],
+                "item_eligible_for_review": "true",
+                "image": "https://bfasset.costco-static.com/U447IH35/as/mhfsnfvkzrhwv9sprb/4000396212-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "VESA_Mounting_Standard_attr": [
+                    "600x400"
+                ],
+                "item_product_marketingcontent_keywords": [
+                    "Football25September",
+                    "1253",
+                    "",
+                    "OahuDelivery"
+                ],
+                "Shop_by_Size_attr": [
+                    "70 inch and Larger"
+                ],
+                "item_product_buyable": true,
+                "item_searchable": true,
+                "item_image_swatchable": false,
+                "item_product_short_description": "LG 86\" Class - UA9000 Series - 4K UHD Smart TV - Allstate 3-Year Protection Plan Bundle Included For 5 Years of Total Coverage*",
+                "Inputs___HDMI_1_attr": [
+                    "HDMI 2.1 eARC/ALLM/VRR/QMS"
+                ],
+                "item_location_pricing_salePrice": 899.99,
+                "Dimensions__without_stand___W_x_D_x_H_attr": [
+                    "75.9 in. x 2.4 in. x 43.5 in."
+                ],
+                "Wireless_Networking_attr": [
+                    "Wi-Fi 6E"
+                ],
+                "Screen_Size_Class_attr": [
+                    "86 in."
+                ],
+                "id": "9586900!item.en-US",
+                "item_backorderflag": 0,
+                "item_review_count": 0,
+                "item_product_review_count": 0,
+                "item_product_status_backorderqty": 0,
+                "item_product_status_backorderflag": 0,
+                "item_rating_average_value": 0,
+                "item_backorderqty": 0,
+                "item_startDate": "2025-09-05T00:00:00Z",
+                "isFutureDate": false,
+                "deliveryStatus": "in stock",
+                "item_location_availability": "in stock",
+                "item_location_stockStatus": "in stock",
+                "item_location_itemNumber": "9586900",
+                "item_location_locationNumber": "1258-3pl",
+                "item_location_fulfillment_restrictions_minQty": "1",
+                "item_location_fulfillment_restrictions_maxQty": "10",
+                "item_location_currencyCode": "USD",
+                "hasSingleSku": true,
+                "minSalePrice": 899.99,
+                "maxSalePrice": 899.99,
+                "isItemInStock": true,
+                "images": [
+                    {
+                        "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/mhfsnfvkzrhwv9sprb/4000396212-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+                    }
+                ]
+            },
+            {
+                "item_product_name": "2025 Topps CHROME Star Wars Collection Box",
+                "item_fsa_eligible": false,
+                "item_product_marketing_features": [
+                    "(12) 2025 Topps Chrome Star Wars Packs;\n(3) Costco Exclusive 2025 Topps Chrome Star Wars Collection;\n(1) Oversized 2025 Topps Chrome Star Wars Card;\nRecommended Ages: 12+ Years"
+                ],
+                "item_buyable": true,
+                "item_chdi_eligible": false,
+                "Recommended_Age_attr": [
+                    "12 Years and Up"
+                ],
+                "content_type": [
+                    "product"
+                ],
+                "item_short_description": "2025 Topps CHROME Star Wars Collection Box",
+                "item_ratings": 4.0,
+                "EDD_CHUBSmallPack_attr": [
+                    "0",
+                    "0"
+                ],
+                "item_status_published": true,
+                "item_eligible_for_review": "true",
+                "item_searchable": true,
+                "item_disponzeroinv": false,
+                "item_review_ratings": "4.0",
+                "item_program_eligibility": [
+                    "Google",
+                    "GoogleGrocery",
+                    "SiteControlledInventory",
+                    "InWarehouse",
+                    "Standard",
+                    "ShipIt"
+                ],
+                "categoryPath_ss": [
+                    "/trading-cards.html",
+                    "/whats-new.html",
+                    "/view-more.html",
+                    "/toys.html"
+                ],
+                "item_location_pricing_pricePerUnit_price": 44.99,
+                "item_as400_department": "28",
+                "description": "2025 Topps CHROME Star Wars Collection Box",
+                "item_rating_value": [
+                    "1 & Up",
+                    "2 & Up",
+                    "3 & Up",
+                    "4 & Up"
+                ],
+                "item_product_marketingcontent_keywords": [
+                    "StarWars0915",
+                    "TreasureHunt"
+                ],
+                "item_product_short_description": "2025 Topps CHROME Star Wars Collection Box",
+                "item_location_pricing_salePrice": 44.99,
+                "item_product_marketing_statement": "",
+                "item_variableweight": false,
+                "item_member_only": false,
+                "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/trst73hj6vw5hmwrw9qn4ns/4000372735-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "item_product_comparable": true,
+                "group_id": "4000372735",
+                "item_classification_itemclass": "Standard",
+                "item_product_status_disponzeroinv": false,
+                "item_product_image_swatchable": false,
+                "item_comparable": true,
+                "item_name": "2025 Topps CHROME Star Wars Collection Box",
+                "image": "https://bfasset.costco-static.com/U447IH35/as/trst73hj6vw5hmwrw9qn4ns/4000372735-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "item_product_buyable": true,
+                "item_number": "1927493",
+                "item_product_primary_image": "https://bfasset.costco-static.com/U447IH35/as/trst73hj6vw5hmwrw9qn4ns/4000372735-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "item_location_pricing_listPrice": 44.99,
+                "item_manufacturing_skus": [
+                    "887521146222"
+                ],
+                "item_as400_category": "ATA",
+                "item_product_status_published": true,
+                "Brand_attr": [
+                    "Topps"
+                ],
+                "item_product_review_eligible": true,
+                "name": "2025 Topps CHROME Star Wars Collection Box",
+                "item_product_price_in_cart_only": "0",
+                "item_image_swatchable": false,
+                "id": "1927493!item.en-US",
+                "item_product_status_backorderqty": 0,
+                "item_backorderflag": 0,
+                "item_product_status_backorderflag": 0,
+                "item_startDate": "2025-09-07T00:00:00Z",
+                "item_review_count": 0,
+                "item_product_review_count": 5,
+                "item_rating_average_value": 0,
+                "item_backorderqty": 0,
+                "isFutureDate": false,
+                "inWarehouseStatus": "in stock",
+                "deliveryStatus": "in stock",
+                "item_location_availability": "in stock",
+                "item_location_stockStatus": "in stock",
+                "item_location_itemNumber": "1927493",
+                "item_location_locationNumber": "1116-wh",
+                "item_location_fulfillment_restrictions_minQty": "1",
+                "item_location_fulfillment_restrictions_maxQty": "2",
+                "item_location_currencyCode": "USD",
+                "hasSingleSku": true,
+                "minSalePrice": 44.99,
+                "maxSalePrice": 44.99,
+                "isItemInStock": true,
+                "images": [
+                    {
+                        "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/trst73hj6vw5hmwrw9qn4ns/4000372735-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+                    }
+                ]
+            },
+            {
+                "item_disponzeroinv": false,
+                "item_product_marketing_statement": "",
+                "item_variableweight": false,
+                "item_product_name": "KidKraft Treetop Observatory Wooden Outdoor Swing Set - Installed",
+                "item_review_ratings": "0.0",
+                "item_member_only": false,
+                "Model_attr": [
+                    "F29810-DIFMEVD",
+                    "F29810"
+                ],
+                "item_number": "1907587",
+                "Online_Only_attr_pill": [
+                    "Online Only"
+                ],
+                "item_product_primary_image": "https://bfasset.costco-static.com/U447IH35/as/gvnp8649384rm6ghhx2b9c/4000384779-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "item_fsa_eligible": false,
+                "item_pill_attributes": [
+                    "Online_Only_attr_pill|Online Only"
+                ],
+                "Model_descriptive": [
+                    "F29810-DIFMEVD",
+                    "F29810"
+                ],
+                "item_location_pricing_listPrice": 2999.99,
+                "item_manufacturing_skus": [
+                    "870279003213"
+                ],
+                "item_product_marketing_features": [
+                    "Extra-long Sky Bridge Connects Two Towers;\nRope Wall Ladder with Bell at the Top;\nPlay Kitchen, Grill and Three Utensils;\n100% FSC Certified Wood;\nFor up to 9 Kids, Ages 3-10"
+                ],
+                "item_buyable": true,
+                "item_program_eligibility": [
+                    "SiteControlledInventory",
+                    "Standard",
+                    "ShipIt"
+                ],
+                "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/gvnp8649384rm6ghhx2b9c/4000384779-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "item_chdi_eligible": false,
+                "Number_of_Swings_attr": [
+                    "3"
+                ],
+                "item_as400_category": "MAG",
+                "item_product_status_published": true,
+                "Online_Only_attr": [
+                    "Online Only"
+                ],
+                "Features_attr": [
+                    "Rock Wall",
+                    "Slides",
+                    "Swings"
+                ],
+                "Assembly_attr": [
+                    "Installation Included"
+                ],
+                "content_type": [
+                    "product"
+                ],
+                "Brand_attr": [
+                    "KidKraft"
+                ],
+                "Number_of_Climbing_Structures_attr": [
+                    "2"
+                ],
+                "item_short_description": "KidKraft Treetop Observatory Wooden Outdoor Swing Set - Installed, EDLP",
+                "item_product_comparable": true,
+                "item_product_review_eligible": true,
+                "categoryPath_ss": [
+                    "/whats-new.html",
+                    "/view-more.html",
+                    "/outdoor-outdoor-play.html",
+                    "/patio-lawn-garden.html",
+                    "/toys.html",
+                    "/playsets.html"
+                ],
+                "group_id": "4000384779",
+                "item_classification_itemclass": "Standard",
+                "Primary_Material_attr": [
+                    "Wood"
+                ],
+                "item_product_status_disponzeroinv": false,
+                "item_location_pricing_pricePerUnit_price": 2999.99,
+                "item_ratings": 0.0,
+                "item_as400_department": "26",
+                "item_product_image_swatchable": false,
+                "name": "KidKraft Treetop Observatory Wooden Outdoor Swing Set - Installed",
+                "description": "KidKraft Treetop Observatory Wooden Outdoor Swing Set - Installed, EDLP",
+                "Dimensions__W_x_D_x_H_attr": [
+                    "155.51 in. x 236.94 in. x 144.65 in."
+                ],
+                "item_status_published": true,
+                "item_comparable": true,
+                "item_product_price_in_cart_only": "0",
+                "item_name": "KidKraft Treetop Observatory Wooden Outdoor Swing Set - Installed, EDLP",
+                "item_eligible_for_review": "true",
+                "image": "https://bfasset.costco-static.com/U447IH35/as/gvnp8649384rm6ghhx2b9c/4000384779-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "item_product_marketingcontent_keywords": [
+                    "FallSavings26"
+                ],
+                "item_product_buyable": true,
+                "item_searchable": true,
+                "item_image_swatchable": false,
+                "item_product_short_description": "KidKraft Treetop Observatory Wooden Outdoor Swing Set - Installed",
+                "item_location_pricing_salePrice": 2999.99,
+                "Number_of_Slides_attr": [
+                    "3"
+                ],
+                "id": "1907587!item.en-US",
+                "item_backorderflag": 0,
+                "item_review_count": 0,
+                "item_product_review_count": 0,
+                "item_product_status_backorderqty": 0,
+                "item_product_status_backorderflag": 0,
+                "item_rating_average_value": 0,
+                "item_backorderqty": 0,
+                "item_startDate": "2025-07-01T00:00:00Z",
+                "isFutureDate": false,
+                "deliveryStatus": "in stock",
+                "item_location_availability": "in stock",
+                "item_location_stockStatus": "in stock",
+                "item_location_itemNumber": "1907587",
+                "item_location_locationNumber": "847_0-edi",
+                "item_location_fulfillment_restrictions_minQty": "1",
+                "item_location_fulfillment_restrictions_maxQty": "9999",
+                "item_location_currencyCode": "USD",
+                "hasSingleSku": true,
+                "minSalePrice": 2999.99,
+                "maxSalePrice": 2999.99,
+                "isItemInStock": true,
+                "images": [
+                    {
+                        "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/gvnp8649384rm6ghhx2b9c/4000384779-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+                    }
+                ]
+            },
+            {
+                "item_disponzeroinv": false,
+                "item_fsa_eligible": false,
+                "item_product_marketing_statement": "",
+                "item_image_swatchable": false,
+                "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/nhxxjzpp93rfjmh5gccgxwfj/4000399020-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "item_product_price_in_cart_only": "0",
+                "item_short_description": "Kirkland Signature Nature's Domain Salmon and Sweet Potato Formula Dog Food, 25 lbs",
+                "item_product_comparable": true,
+                "item_product_short_description": "Kirkland Signature Nature's Domain Salmon and Sweet Potato Formula Dog Food, 25 lbs",
+                "item_as400_department": "14",
+                "item_product_image_swatchable": false,
+                "item_variableweight": false,
+                "item_product_name": "Kirkland Signature Nature's Domain Salmon and Sweet Potato Formula Dog Food, 25 lbs",
+                "item_chdi_eligible": false,
+                "item_name": "Kirkland Signature Nature's Domain Salmon and Sweet Potato Formula Dog Food, 25 lbs",
+                "item_location_pricing_listPrice": 29.99,
+                "item_eligible_for_review": "true",
+                "item_review_ratings": "4.636000156402588",
+                "item_product_review_eligible": true,
+                "image": "https://bfasset.costco-static.com/U447IH35/as/nhxxjzpp93rfjmh5gccgxwfj/4000399020-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "name": "Kirkland Signature Nature's Domain Salmon and Sweet Potato Formula Dog Food, 25 lbs",
+                "item_manufacturing_skus": [
+                    "196633829009"
+                ],
+                "item_product_marketing_features": [
+                    "Replacing Item # 470974 KS  Nature's Domain Salmon and Sweet Potato Formula 35 lbs;\nSalmon & Sweet Potato Formula;\nGrain-Free Recipe*;\n25 lb Bag;"
+                ],
+                "description": "Kirkland Signature Nature's Domain Salmon and Sweet Potato Formula Dog Food, 25 lbs",
+                "content_type": [
+                    "product"
+                ],
+                "categoryPath_ss": [
+                    "/whats-new.html",
+                    "/view-more.html",
+                    "/dog-food.html",
+                    "/pet-supplies.html"
+                ],
+                "group_id": "4000399020",
+                "item_member_only": false,
+                "item_classification_itemclass": "Standard",
+                "item_location_pricing_salePrice": 29.99,
+                "item_as400_category": "KDF",
+                "item_product_status_disponzeroinv": false,
+                "item_number": "1936927",
+                "item_product_marketingcontent_keywords": [
+                    "ksdogfood919,",
+                    "470974"
+                ],
+                "EDD_CHUBSmallPack_attr": [
+                    "0",
+                    "0"
+                ],
+                "item_rating_value": [
+                    "1 & Up",
+                    "2 & Up",
+                    "3 & Up",
+                    "4 & Up"
+                ],
+                "item_location_pricing_pricePerUnit_price": 29.99,
+                "item_buyable": true,
+                "item_ratings": 4.636000156402588,
+                "item_status_published": true,
+                "item_program_eligibility": [
+                    "3rdPartyDelivery",
+                    "2DayDelivery",
+                    "GoogleGrocery",
+                    "LocationControlledInventory",
+                    "WarehouseDelivery",
+                    "ShipIt"
+                ],
+                "item_product_buyable": true,
+                "item_comparable": true,
+                "item_product_status_published": true,
+                "item_searchable": true,
+                "item_product_primary_image": "https://bfasset.costco-static.com/U447IH35/as/nhxxjzpp93rfjmh5gccgxwfj/4000399020-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "id": "1936927!item.en-US",
+                "item_product_status_backorderflag": 0,
+                "item_review_count": 0,
+                "item_backorderqty": 0,
+                "item_product_review_count": 4747,
+                "item_startDate": "2025-09-05T00:00:00Z",
+                "item_product_status_backorderqty": 0,
+                "item_rating_average_value": 0,
+                "item_backorderflag": 0,
+                "isFutureDate": false,
+                "deliveryStatus": "in stock",
+                "item_location_availability": "in stock",
+                "item_location_stockStatus": "in stock",
+                "item_location_itemNumber": "1936927",
+                "item_location_locationNumber": "579-bd",
+                "item_location_fulfillment_restrictions_minQty": "1",
+                "item_location_fulfillment_restrictions_maxQty": "9999",
+                "item_location_currencyCode": "USD",
+                "hasSingleSku": true,
+                "minSalePrice": 29.99,
+                "maxSalePrice": 29.99,
+                "isItemInStock": true,
+                "images": [
+                    {
+                        "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/nhxxjzpp93rfjmh5gccgxwfj/4000399020-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+                    }
+                ]
+            },
+            {
+                "item_disponzeroinv": false,
+                "item_fsa_eligible": false,
+                "item_product_marketing_statement": "",
+                "item_image_swatchable": false,
+                "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/5p8m8tmq85hgcc24bt4cnmbr/4000399008-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "item_product_price_in_cart_only": "0",
+                "item_short_description": "Kirkland Signature Adult Formula Chicken, Rice and Vegetable Dog Food, 25 lbs",
+                "item_product_comparable": true,
+                "item_product_short_description": "Kirkland Signature Adult Formula Chicken, Rice and Vegetable Dog Food, 25 lbs",
+                "item_as400_department": "14",
+                "item_product_image_swatchable": false,
+                "item_variableweight": false,
+                "item_product_name": "Kirkland Signature Adult Formula Chicken, Rice and Vegetable Dog Food, 25 lbs",
+                "item_chdi_eligible": false,
+                "item_name": "Kirkland Signature Adult Formula Chicken, Rice and Vegetable Dog Food, 25 lbs",
+                "item_location_pricing_listPrice": 24.99,
+                "item_eligible_for_review": "true",
+                "item_review_ratings": "4.583600044250488",
+                "item_product_review_eligible": true,
+                "image": "https://bfasset.costco-static.com/U447IH35/as/5p8m8tmq85hgcc24bt4cnmbr/4000399008-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "name": "Kirkland Signature Adult Formula Chicken, Rice and Vegetable Dog Food, 25 lbs",
+                "item_manufacturing_skus": [
+                    "196633828996"
+                ],
+                "item_product_marketing_features": [
+                    "Replacing Item # 25347 KS Adult Formula Chicken, Rice and Vegetable 40 lbs;\nChicken, Rice & Vegetables;\nGlucosamine & Chondroitin;\nVitamin E, Selenium, Zinc & Active9\u2122 Probiotics"
+                ],
+                "description": "Kirkland Signature Adult Formula Chicken, Rice and Vegetable Dog Food, 25 lbs",
+                "content_type": [
+                    "product"
+                ],
+                "categoryPath_ss": [
+                    "/whats-new.html",
+                    "/view-more.html",
+                    "/dog-food.html",
+                    "/pet-supplies.html"
+                ],
+                "group_id": "4000399008",
+                "item_member_only": false,
+                "item_classification_itemclass": "Standard",
+                "item_location_pricing_salePrice": 24.99,
+                "item_as400_category": "KDG",
+                "item_product_status_disponzeroinv": false,
+                "item_number": "1936928",
+                "item_product_marketingcontent_keywords": [
+                    "ksdogfood919,",
+                    "25347"
+                ],
+                "EDD_CHUBSmallPack_attr": [
+                    "0",
+                    "0"
+                ],
+                "item_rating_value": [
+                    "1 & Up",
+                    "2 & Up",
+                    "3 & Up",
+                    "4 & Up"
+                ],
+                "item_location_pricing_pricePerUnit_price": 24.99,
+                "item_buyable": true,
+                "item_ratings": 4.583600044250488,
+                "item_status_published": true,
+                "item_program_eligibility": [
+                    "3rdPartyDelivery",
+                    "2DayDelivery",
+                    "GoogleGrocery",
+                    "LocationControlledInventory",
+                    "WarehouseDelivery",
+                    "ShipIt"
+                ],
+                "item_product_buyable": true,
+                "item_comparable": true,
+                "item_product_status_published": true,
+                "item_searchable": true,
+                "item_product_primary_image": "https://bfasset.costco-static.com/U447IH35/as/5p8m8tmq85hgcc24bt4cnmbr/4000399008-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "id": "1936928!item.en-US",
+                "item_product_status_backorderflag": 0,
+                "item_review_count": 0,
+                "item_backorderqty": 0,
+                "item_product_review_count": 3751,
+                "item_startDate": "2025-09-05T00:00:00Z",
+                "item_product_status_backorderqty": 0,
+                "item_rating_average_value": 0,
+                "item_backorderflag": 0,
+                "isFutureDate": false,
+                "deliveryStatus": "in stock",
+                "item_location_availability": "in stock",
+                "item_location_stockStatus": "in stock",
+                "item_location_itemNumber": "1936928",
+                "item_location_locationNumber": "579-bd",
+                "item_location_fulfillment_restrictions_minQty": "1",
+                "item_location_fulfillment_restrictions_maxQty": "9999",
+                "item_location_currencyCode": "USD",
+                "hasSingleSku": true,
+                "minSalePrice": 24.99,
+                "maxSalePrice": 24.99,
+                "isItemInStock": true,
+                "images": [
+                    {
+                        "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/5p8m8tmq85hgcc24bt4cnmbr/4000399008-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+                    }
+                ]
+            },
+            {
+                "item_disponzeroinv": false,
+                "item_fsa_eligible": false,
+                "item_product_marketing_statement": "",
+                "item_image_swatchable": false,
+                "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/xc33f56xm7w5g7c39fmvbs9x/4000398961-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "item_product_price_in_cart_only": "0",
+                "item_short_description": "Kirkland Signature Adult Formula Lamb, Rice and Vegetable Dog Food, 25 lbs",
+                "item_product_comparable": true,
+                "item_product_short_description": "Kirkland Signature Adult Formula Lamb, Rice and Vegetable Dog Food, 25 lbs",
+                "item_as400_department": "14",
+                "item_product_image_swatchable": false,
+                "item_variableweight": false,
+                "item_product_name": "Kirkland Signature Adult Formula Lamb, Rice and Vegetable Dog Food, 25 lbs",
+                "item_chdi_eligible": false,
+                "item_name": "Kirkland Signature Adult Formula Lamb, Rice and Vegetable Dog Food, 25 lbs",
+                "item_location_pricing_listPrice": 24.99,
+                "item_eligible_for_review": "true",
+                "item_review_ratings": "4.598499774932861",
+                "item_product_review_eligible": true,
+                "image": "https://bfasset.costco-static.com/U447IH35/as/xc33f56xm7w5g7c39fmvbs9x/4000398961-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "name": "Kirkland Signature Adult Formula Lamb, Rice and Vegetable Dog Food, 25 lbs",
+                "item_manufacturing_skus": [
+                    "196633828989"
+                ],
+                "item_product_marketing_features": [
+                    "Replacing Item # 25350 KS Adult Formula Lamb, Rice and Vegetable 40 lbs;\nLamb, Rice & Vegetables;\nGlucosamine & Chondroitin;\nVitamin E, Selenium, Zinc & Active9\u2122 Probiotics"
+                ],
+                "description": "Kirkland Signature Adult Formula Lamb, Rice and Vegetable Dog Food, 25 lbs",
+                "content_type": [
+                    "product"
+                ],
+                "categoryPath_ss": [
+                    "/whats-new.html",
+                    "/view-more.html",
+                    "/dog-food.html",
+                    "/pet-supplies.html"
+                ],
+                "group_id": "4000398961",
+                "item_member_only": false,
+                "item_classification_itemclass": "Standard",
+                "item_location_pricing_salePrice": 24.99,
+                "item_as400_category": "KDG",
+                "item_product_status_disponzeroinv": false,
+                "item_number": "1936932",
+                "item_product_marketingcontent_keywords": [
+                    "ksdogfood919,",
+                    "1936932"
+                ],
+                "EDD_CHUBSmallPack_attr": [
+                    "0",
+                    "0"
+                ],
+                "item_rating_value": [
+                    "1 & Up",
+                    "2 & Up",
+                    "3 & Up",
+                    "4 & Up"
+                ],
+                "item_location_pricing_pricePerUnit_price": 24.99,
+                "item_buyable": true,
+                "item_ratings": 4.598499774932861,
+                "item_status_published": true,
+                "item_program_eligibility": [
+                    "3rdPartyDelivery",
+                    "2DayDelivery",
+                    "GoogleGrocery",
+                    "LocationControlledInventory",
+                    "WarehouseDelivery",
+                    "ShipIt"
+                ],
+                "item_product_buyable": true,
+                "item_comparable": true,
+                "item_product_status_published": true,
+                "item_searchable": true,
+                "item_product_primary_image": "https://bfasset.costco-static.com/U447IH35/as/xc33f56xm7w5g7c39fmvbs9x/4000398961-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "id": "1936932!item.en-US",
+                "item_product_status_backorderflag": 0,
+                "item_review_count": 0,
+                "item_backorderqty": 0,
+                "item_product_review_count": 2817,
+                "item_startDate": "2025-09-05T00:00:00Z",
+                "item_product_status_backorderqty": 0,
+                "item_rating_average_value": 0,
+                "item_backorderflag": 0,
+                "isFutureDate": false,
+                "deliveryStatus": "in stock",
+                "item_location_availability": "in stock",
+                "item_location_stockStatus": "in stock",
+                "item_location_itemNumber": "1936932",
+                "item_location_locationNumber": "579-bd",
+                "item_location_fulfillment_restrictions_minQty": "1",
+                "item_location_fulfillment_restrictions_maxQty": "9999",
+                "item_location_currencyCode": "USD",
+                "hasSingleSku": true,
+                "minSalePrice": 24.99,
+                "maxSalePrice": 24.99,
+                "isItemInStock": true,
+                "images": [
+                    {
+                        "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/xc33f56xm7w5g7c39fmvbs9x/4000398961-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+                    }
+                ]
+            },
+            {
+                "item_disponzeroinv": false,
+                "item_fsa_eligible": false,
+                "item_product_marketing_statement": "",
+                "item_location_pricing_salePrice": 31.99,
+                "item_as400_category": "AEL",
+                "item_image_swatchable": false,
+                "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/cpp7j7w9gkrjwp7xtrs89j/4000338900-847_gray_2?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "item_product_price_in_cart_only": "1",
+                "item_short_description": "Columbia Women's Fleece Pullover, Gray, X-Small",
+                "item_product_comparable": true,
+                "item_product_short_description": "Columbia Women's Fleece Pullover",
+                "item_as400_department": "31",
+                "item_product_status_disponzeroinv": false,
+                "item_number": "1912260",
+                "item_product_marketingcontent_keywords": [
+                    "1626840",
+                    "cozy0912",
+                    "apparel0918"
+                ],
+                "EDD_CHUBSmallPack_attr": [
+                    "0",
+                    "0"
+                ],
+                "item_rating_value": [
+                    "1 & Up",
+                    "2 & Up",
+                    "3 & Up"
+                ],
+                "item_product_image_swatchable": false,
+                "item_variableweight": false,
+                "item_product_name": "Columbia Women's Fleece Pullover",
+                "item_chdi_eligible": false,
+                "item_name": "Columbia Women's Fleece Pullover, Gray, X-Small",
+                "item_location_pricing_pricePerUnit_price": 31.99,
+                "Brand_attr": [
+                    "Columbia"
+                ],
+                "item_location_pricing_listPrice": 31.99,
+                "item_buyable": true,
+                "item_ratings": 3.4762001037597656,
+                "Women_s_Size_attr": [
+                    "X-Small"
+                ],
+                "item_eligible_for_review": "true",
+                "item_review_ratings": "3.4762001037597656",
+                "item_product_review_eligible": true,
+                "image": "https://bfasset.costco-static.com/U447IH35/as/cpp7j7w9gkrjwp7xtrs89j/4000338900-847_gray_2?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "item_status_published": true,
+                "name": "Columbia Women's Fleece Pullover",
+                "item_manufacturing_skus": [
+                    "499994532015"
+                ],
+                "item_product_marketing_features": [
+                    "Kangaroo Pocket; Cropped Body; Relaxed Fit"
+                ],
+                "Color_attr": [
+                    "Gray"
+                ],
+                "item_program_eligibility": [
+                    "Google",
+                    "SiteControlledInventory",
+                    "Standard",
+                    "ShipIt"
+                ],
+                "description": "Columbia Women's Fleece Pullover, Gray, X-Small",
+                "item_product_buyable": true,
+                "content_type": [
+                    "product"
+                ],
+                "item_comparable": true,
+                "item_product_status_published": true,
+                "IsaVariant_attr": [
+                    "0"
+                ],
+                "item_searchable": true,
+                "categoryPath_ss": [
+                    "/womens-clothing.html",
+                    "/whats-new.html",
+                    "/view-more.html",
+                    "/womens-outerwear.html",
+                    "/clothing.html"
+                ],
+                "group_id": "4000338900",
+                "item_member_only": true,
+                "item_classification_itemclass": "Standard",
+                "item_product_primary_image": "https://bfasset.costco-static.com/U447IH35/as/cpp7j7w9gkrjwp7xtrs89j/4000338900-847_gray_2?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "id": "1912260!item.en-US",
+                "item_startDate": "2025-09-09T00:00:00Z",
+                "item_product_status_backorderflag": 0,
+                "item_product_status_backorderqty": 0,
+                "item_review_count": 0,
+                "item_rating_average_value": 0,
+                "item_backorderqty": 0,
+                "item_backorderflag": 0,
+                "item_product_review_count": 42,
+                "isFutureDate": false,
+                "deliveryStatus": "in stock",
+                "item_location_availability": "in stock",
+                "item_location_stockStatus": "in stock",
+                "item_location_itemNumber": "1912260",
+                "item_location_locationNumber": "283-wm",
+                "item_location_fulfillment_restrictions_minQty": "1",
+                "item_location_fulfillment_restrictions_maxQty": "10",
+                "item_location_currencyCode": "USD",
+                "hasSingleSku": false,
+                "minSalePrice": 31.99,
+                "maxSalePrice": 31.99,
+                "isItemInStock": true,
+                "images": [
+                    {
+                        "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/cpp7j7w9gkrjwp7xtrs89j/4000338900-847_gray_2?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+                    },
+                    {
+                        "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/cpp7j7w9gkrjwp7xtrs89j/4000338900-847_gray_2?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+                    },
+                    {
+                        "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/cpp7j7w9gkrjwp7xtrs89j/4000338900-847_gray_2?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+                    },
+                    {
+                        "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/cpp7j7w9gkrjwp7xtrs89j/4000338900-847_gray_2?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+                    },
+                    {
+                        "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/cpp7j7w9gkrjwp7xtrs89j/4000338900-847_gray_2?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+                    },
+                    {
+                        "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/cpp7j7w9gkrjwp7xtrs89j/4000338900-847_gray_2?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+                    },
+                    {
+                        "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/cpp7j7w9gkrjwp7xtrs89j/4000338900-847_gray_2?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+                    },
+                    {
+                        "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/cpp7j7w9gkrjwp7xtrs89j/4000338900-847_gray_2?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+                    },
+                    {
+                        "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/cpp7j7w9gkrjwp7xtrs89j/4000338900-847_gray_2?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+                    },
+                    {
+                        "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/cpp7j7w9gkrjwp7xtrs89j/4000338900-847_gray_2?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+                    },
+                    {
+                        "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/cpp7j7w9gkrjwp7xtrs89j/4000338900-847_gray_2?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+                    },
+                    {
+                        "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/cpp7j7w9gkrjwp7xtrs89j/4000338900-847_gray_2?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+                    },
+                    {
+                        "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/cpp7j7w9gkrjwp7xtrs89j/4000338900-847_gray_2?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+                    },
+                    {
+                        "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/cpp7j7w9gkrjwp7xtrs89j/4000338900-847_gray_2?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+                    },
+                    {
+                        "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/cpp7j7w9gkrjwp7xtrs89j/4000338900-847_gray_2?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+                    },
+                    {
+                        "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/cpp7j7w9gkrjwp7xtrs89j/4000338900-847_gray_2?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+                    },
+                    {
+                        "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/cpp7j7w9gkrjwp7xtrs89j/4000338900-847_gray_2?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+                    },
+                    {
+                        "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/cpp7j7w9gkrjwp7xtrs89j/4000338900-847_gray_2?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+                    }
+                ]
+            },
+            {
+                "item_disponzeroinv": false,
+                "item_fsa_eligible": false,
+                "item_product_marketing_statement": "",
+                "item_location_pricing_salePrice": 17.99,
+                "item_as400_category": "ADB",
+                "item_image_swatchable": false,
+                "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/at/nxcfjkqjvgnh6bn4254h4/4000340377-847_navy_1.jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "item_product_price_in_cart_only": "0",
+                "item_short_description": "Fabletics Women's Oasis Pureluxe Legging, Red, 2X",
+                "item_product_comparable": true,
+                "item_product_short_description": "Fabletics Women's Oasis Pureluxe Legging",
+                "item_as400_department": "31",
+                "item_product_status_disponzeroinv": false,
+                "item_number": "1914652",
+                "item_product_marketingcontent_keywords": [
+                    "1909960",
+                    "cozy0912",
+                    "apparel0918"
+                ],
+                "EDD_CHUBSmallPack_attr": [
+                    "0",
+                    "0"
+                ],
+                "item_rating_value": [
+                    "1 & Up",
+                    "2 & Up"
+                ],
+                "Additional_Sizes_attr": [
+                    "Plus Size"
+                ],
+                "item_product_image_swatchable": false,
+                "item_variableweight": false,
+                "item_product_name": "Fabletics Women's Oasis Pureluxe Legging",
+                "item_chdi_eligible": false,
+                "item_name": "Fabletics Women's Oasis Pureluxe Legging, Red, 2X",
+                "item_location_pricing_pricePerUnit_price": 17.99,
+                "Brand_attr": [
+                    "Fabletics"
+                ],
+                "item_location_pricing_listPrice": 17.99,
+                "item_buyable": true,
+                "item_ratings": 2.680000066757202,
+                "Women_s_Size_attr": [
+                    "2X"
+                ],
+                "item_eligible_for_review": "true",
+                "item_review_ratings": "2.680000066757202",
+                "item_product_review_eligible": true,
+                "image": "https://bfasset.costco-static.com/U447IH35/at/nxcfjkqjvgnh6bn4254h4/4000340377-847_navy_1.jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "item_status_published": true,
+                "name": "Fabletics Women's Oasis Pureluxe Legging",
+                "item_manufacturing_skus": [
+                    "499994515186"
+                ],
+                "item_product_marketing_features": [
+                    "Side Pockets; 4-Way Stretch; Plus Sizes Available Online"
+                ],
+                "Color_attr": [
+                    "Red"
+                ],
+                "item_program_eligibility": [
+                    "Google",
+                    "SiteControlledInventory",
+                    "Standard",
+                    "ShipIt"
+                ],
+                "description": "Fabletics Women's Oasis Pureluxe Legging, Red, 2X",
+                "item_product_buyable": true,
+                "content_type": [
+                    "product"
+                ],
+                "item_comparable": true,
+                "item_product_status_published": true,
+                "IsaVariant_attr": [
+                    "0"
+                ],
+                "item_searchable": true,
+                "categoryPath_ss": [
+                    "/womens-clothing.html",
+                    "/whats-new.html",
+                    "/view-more.html",
+                    "/clothing.html",
+                    "/womens-activewear.html"
+                ],
+                "group_id": "4000340377",
+                "item_member_only": false,
+                "item_classification_itemclass": "Standard",
+                "item_product_primary_image": "https://bfasset.costco-static.com/U447IH35/at/nxcfjkqjvgnh6bn4254h4/4000340377-847_navy_1.jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "id": "1914652!item.en-US",
+                "item_startDate": "2025-09-08T00:00:00Z",
+                "item_product_status_backorderflag": 0,
+                "item_product_status_backorderqty": 0,
+                "item_review_count": 0,
+                "item_rating_average_value": 0,
+                "item_backorderqty": 0,
+                "item_backorderflag": 0,
+                "item_product_review_count": 25,
+                "isFutureDate": false,
+                "deliveryStatus": "in stock",
+                "item_location_availability": "in stock",
+                "item_location_stockStatus": "in stock",
+                "item_location_itemNumber": "1914652",
+                "item_location_locationNumber": "283-wm",
+                "item_location_fulfillment_restrictions_minQty": "1",
+                "item_location_fulfillment_restrictions_maxQty": "9999",
+                "item_location_currencyCode": "USD",
+                "hasSingleSku": false,
+                "minSalePrice": 17.99,
+                "maxSalePrice": 17.99,
+                "isItemInStock": true,
+                "images": [
+                    {
+                        "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/at/nxcfjkqjvgnh6bn4254h4/4000340377-847_navy_1.jpg&width=350&height=350&fit=bounds&canvas=350,350"
+                    },
+                    {
+                        "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/at/nxcfjkqjvgnh6bn4254h4/4000340377-847_navy_1.jpg&width=350&height=350&fit=bounds&canvas=350,350"
+                    }
+                ]
+            },
+            {
+                "item_product_marketing_statement": "",
+                "item_variableweight": false,
+                "item_product_name": "Warehouse Cat Scratcher",
+                "item_member_only": false,
+                "item_fsa_eligible": false,
+                "item_product_marketing_features": [
+                    "Double Decker Cat Scratcher House;\nTwo Reversible Scratchers; \nEnclosed Bottom;\nFun Dangling Cardboard Shrimp Toy; \nAll Components are 100% Recyclable;"
+                ],
+                "Number_of_Levels_attr": [
+                    "2"
+                ],
+                "item_buyable": true,
+                "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/b5v394hmprczbhsb5mfjjs65/4000335427-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "item_chdi_eligible": false,
+                "Color_attr": [
+                    "Multi"
+                ],
+                "content_type": [
+                    "product"
+                ],
+                "item_short_description": "Warehouse Cat Scratcher",
+                "item_product_comparable": true,
+                "group_id": "4000335427",
+                "item_classification_itemclass": "Standard",
+                "item_product_status_disponzeroinv": false,
+                "item_ratings": 4.800000190734863,
+                "item_product_image_swatchable": false,
+                "EDD_CHUBSmallPack_attr": [
+                    "0",
+                    "0"
+                ],
+                "item_status_published": true,
+                "item_comparable": true,
+                "item_name": "Warehouse Cat Scratcher",
+                "item_eligible_for_review": "true",
+                "image": "https://bfasset.costco-static.com/U447IH35/as/b5v394hmprczbhsb5mfjjs65/4000335427-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "item_product_buyable": true,
+                "item_searchable": true,
+                "item_disponzeroinv": false,
+                "item_review_ratings": "4.800000190734863",
+                "Model_attr": [
+                    "70134"
+                ],
+                "item_number": "1119187",
+                "item_product_primary_image": "https://bfasset.costco-static.com/U447IH35/as/b5v394hmprczbhsb5mfjjs65/4000335427-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "Model_descriptive": [
+                    "70134"
+                ],
+                "item_location_pricing_listPrice": 19.99,
+                "item_manufacturing_skus": [
+                    "604142701346"
+                ],
+                "item_program_eligibility": [
+                    "Google",
+                    "3rdPartyDelivery",
+                    "SiteControlledInventory",
+                    "Standard",
+                    "WarehouseDelivery",
+                    "ShipIt"
+                ],
+                "Number_of_Scratching_Posts_attr": [
+                    "2"
+                ],
+                "item_as400_category": "KLG",
+                "item_product_status_published": true,
+                "item_product_review_eligible": true,
+                "categoryPath_ss": [
+                    "/whats-new.html",
+                    "/view-more.html",
+                    "/pet-supplies.html",
+                    "/cat-supplies.html"
+                ],
+                "item_location_pricing_pricePerUnit_price": 19.99,
+                "item_as400_department": "14",
+                "name": "Warehouse Cat Scratcher",
+                "description": "Warehouse Cat Scratcher",
+                "item_rating_value": [
+                    "1 & Up",
+                    "2 & Up",
+                    "3 & Up",
+                    "4 & Up"
+                ],
+                "item_product_price_in_cart_only": "0",
+                "item_product_marketingcontent_keywords": [
+                    "TreasureHunt"
+                ],
+                "Type_of_Pet_attr": [
+                    "Cat"
+                ],
+                "item_image_swatchable": false,
+                "item_product_short_description": "Warehouse Cat Scratcher",
+                "item_location_pricing_salePrice": 19.99,
+                "id": "1119187!item.en-US",
+                "item_backorderflag": 0,
+                "item_product_status_backorderflag": 0,
+                "item_startDate": "2025-09-05T00:00:00Z",
+                "item_review_count": 0,
+                "item_product_review_count": 15,
+                "item_product_status_backorderqty": 0,
+                "item_rating_average_value": 0,
+                "item_backorderqty": 0,
+                "isFutureDate": false,
+                "deliveryStatus": "in stock",
+                "item_location_availability": "in stock",
+                "item_location_stockStatus": "in stock",
+                "item_location_itemNumber": "1119187",
+                "item_location_locationNumber": "758-wm",
+                "item_location_fulfillment_restrictions_minQty": "1",
+                "item_location_fulfillment_restrictions_maxQty": "9999",
+                "item_location_currencyCode": "USD",
+                "hasSingleSku": true,
+                "minSalePrice": 19.99,
+                "maxSalePrice": 19.99,
+                "isItemInStock": true,
+                "images": [
+                    {
+                        "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/b5v394hmprczbhsb5mfjjs65/4000335427-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+                    }
+                ]
+            },
+            {
+                "Weight_attr": [
+                    "7.43 lb."
+                ],
+                "Water_Tank_Capacity_attr": [
+                    "70 Ounce"
+                ],
+                "item_disponzeroinv": false,
+                "item_fsa_eligible": false,
+                "item_product_marketing_statement": "",
+                "item_image_swatchable": false,
+                "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/wsrjt47wb8fmwf49tpf9b6mg/4000372303-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "item_product_price_in_cart_only": "0",
+                "item_pill_attributes": [
+                    "Online_Only_attr_pill|Online Only"
+                ],
+                "item_short_description": "Cuisinart Brew Central Plus 14-Cup Programmable Coffee Maker",
+                "item_product_comparable": true,
+                "item_product_short_description": "Cuisinart Brew Central Plus 14-Cup Programmable Coffee Maker",
+                "item_as400_department": "33",
+                "item_product_image_swatchable": false,
+                "item_variableweight": false,
+                "item_product_name": "Cuisinart Brew Central Plus 14-Cup Programmable Coffee Maker",
+                "Model_descriptive": [
+                    "CBC-8500PC"
+                ],
+                "item_chdi_eligible": false,
+                "item_name": "Cuisinart Brew Central Plus 14-Cup Programmable Coffee Maker",
+                "Features_attr": [
+                    "Commercial Grade",
+                    "Smart"
+                ],
+                "item_location_pricing_listPrice": 64.99,
+                "item_eligible_for_review": "true",
+                "item_review_ratings": "4.0",
+                "item_product_review_eligible": true,
+                "image": "https://bfasset.costco-static.com/U447IH35/as/wsrjt47wb8fmwf49tpf9b6mg/4000372303-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "Capacity_attr": [
+                    "14 Cup(s)"
+                ],
+                "name": "Cuisinart Brew Central Plus 14-Cup Programmable Coffee Maker",
+                "item_manufacturing_skus": [
+                    "086279253941"
+                ],
+                "item_product_marketing_features": [
+                    "Fully Automatic with 24-hour Programmability, Self-Clean, 1\u20134 Cup Setting, Auto-Off (0\u20134 hours), and Optional Ready Alert Tone;\u200b\nIncludes Over-Ice Feature and Brew Strength Control Which Allows You To Select Regular or Bold Coffee;\nAdjustable Temperature Control Offers a Heater Plate with High, Medium and Low Settings To Keep Coffee At Your Preferred Temperature;\nBrew Pause\u2122 Feature Lets You Enjoy A Cup of Coffee Before The Brewing Cycle Has Finished\u200b;\nEasy-to-View Water Window For Accurate Filling"
+                ],
+                "Color_attr": [
+                    "Stainless Steel"
+                ],
+                "description": "Cuisinart Brew Central Plus 14-Cup Programmable Coffee Maker",
+                "content_type": [
+                    "product"
+                ],
+                "categoryPath_ss": [
+                    "/home-and-decor.html",
+                    "/appliances.html",
+                    "/whats-new.html",
+                    "/view-more.html",
+                    "/coffee-espresso-makers.html",
+                    "/small-kitchen-appliances.html"
+                ],
+                "group_id": "4000372303",
+                "item_member_only": false,
+                "item_classification_itemclass": "Standard",
+                "item_location_pricing_salePrice": 64.99,
+                "item_as400_category": "EAB",
+                "Model_attr": [
+                    "CBC-8500PC"
+                ],
+                "item_product_status_disponzeroinv": false,
+                "item_number": "7565000",
+                "EDD_CHUBSmallPack_attr": [
+                    "0",
+                    "0"
+                ],
+                "item_rating_value": [
+                    "1 & Up",
+                    "2 & Up",
+                    "3 & Up",
+                    "4 & Up"
+                ],
+                "item_location_pricing_pricePerUnit_price": 64.99,
+                "Brand_attr": [
+                    "Cuisinart"
+                ],
+                "item_buyable": true,
+                "item_ratings": 4.0,
+                "Dimensions__W_x_D_x_H_attr": [
+                    "8.03 in. x 10.26 in. x 14.86 in."
+                ],
+                "item_status_published": true,
+                "Carafe_Material_attr": [
+                    "Glass"
+                ],
+                "item_program_eligibility": [
+                    "Google",
+                    "SiteControlledInventory",
+                    "Standard",
+                    "ShipIt"
+                ],
+                "item_product_buyable": true,
+                "Online_Only_attr_pill": [
+                    "Online Only"
+                ],
+                "item_comparable": true,
+                "item_product_status_published": true,
+                "Type_attr": [
+                    "Drip"
+                ],
+                "item_searchable": true,
+                "Online_Only_attr": [
+                    "Online Only"
+                ],
+                "item_product_primary_image": "https://bfasset.costco-static.com/U447IH35/as/wsrjt47wb8fmwf49tpf9b6mg/4000372303-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "id": "7565000!item.en-US",
+                "item_product_status_backorderflag": 0,
+                "item_review_count": 0,
+                "item_backorderqty": 0,
+                "item_product_review_count": 1,
+                "item_startDate": "2025-09-08T00:00:00Z",
+                "item_product_status_backorderqty": 0,
+                "item_rating_average_value": 0,
+                "item_backorderflag": 0,
+                "isFutureDate": false,
+                "deliveryStatus": "in stock",
+                "item_location_availability": "in stock",
+                "item_location_stockStatus": "in stock",
+                "item_location_itemNumber": "7565000",
+                "item_location_locationNumber": "731-wm",
+                "item_location_fulfillment_restrictions_minQty": "1",
+                "item_location_fulfillment_restrictions_maxQty": "9999",
+                "item_location_currencyCode": "USD",
+                "hasSingleSku": true,
+                "minSalePrice": 64.99,
+                "maxSalePrice": 64.99,
+                "isItemInStock": true,
+                "images": [
+                    {
+                        "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/wsrjt47wb8fmwf49tpf9b6mg/4000372303-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+                    }
+                ]
+            },
+            {
+                "Weight_attr": [
+                    "1 lb."
+                ],
+                "item_disponzeroinv": false,
+                "item_fsa_eligible": false,
+                "item_product_marketing_statement": "",
+                "item_location_pricing_salePrice": 209.99,
+                "Sensor_Type_attr": [
+                    "Ionization",
+                    "Photoelectric"
+                ],
+                "item_as400_category": "GBB",
+                "item_image_swatchable": false,
+                "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/3sfm867m3877c4jsg7vjsg8/4000354048-847_battery_1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "item_product_price_in_cart_only": "0",
+                "item_pill_attributes": [
+                    "Online_Only_attr_pill|Online Only"
+                ],
+                "item_short_description": "First Alert SC5 Smart Smoke & Carbon Monoxide Alarm, 2-pack, Hardwired",
+                "Model_attr": [
+                    "FSMCO600NVBX2"
+                ],
+                "item_product_comparable": true,
+                "item_product_short_description": "First Alert SC5 Smart Smoke & Carbon Monoxide Alarm, 2-pack",
+                "item_as400_department": "23",
+                "item_product_status_disponzeroinv": false,
+                "item_number": "1928225",
+                "EDD_CHUBSmallPack_attr": [
+                    "0",
+                    "0"
+                ],
+                "item_product_image_swatchable": false,
+                "item_variableweight": false,
+                "item_product_name": "First Alert SC5 Smart Smoke & Carbon Monoxide Alarm, 2-pack",
+                "Model_descriptive": [
+                    "FSMCO600NVBX2"
+                ],
+                "item_chdi_eligible": false,
+                "item_name": "First Alert SC5 Smart Smoke & Carbon Monoxide Alarm, 2-pack, Hardwired",
+                "item_location_pricing_pricePerUnit_price": 209.99,
+                "Power_Source_attr": [
+                    "Hardwired"
+                ],
+                "Compatible_with_attr": [
+                    "Google's Nest Protect Alarm"
+                ],
+                "Brand_attr": [
+                    "First Alert"
+                ],
+                "item_location_pricing_listPrice": 209.99,
+                "item_buyable": true,
+                "item_ratings": 0.0,
+                "item_eligible_for_review": "true",
+                "item_review_ratings": "0.0",
+                "item_product_review_eligible": true,
+                "image": "https://bfasset.costco-static.com/U447IH35/as/3sfm867m3877c4jsg7vjsg8/4000354048-847_battery_1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "Dimensions__W_x_D_x_H_attr": [
+                    "5.75 in. x 5.75 in. x 1.6 in."
+                ],
+                "item_status_published": true,
+                "name": "First Alert SC5 Smart Smoke & Carbon Monoxide Alarm, 2-pack",
+                "item_manufacturing_skus": [
+                    "194160013717"
+                ],
+                "item_product_marketing_features": [
+                    "Precision Detection Advanced Technology;\nCompatible With Google\u2019s Nest\u00ae Protect Alarm;\nSends Alerts to Your Phone if Smoke and CO Are Detected Through the First Alert App;\nWirelessly Interconnect So When One Alarm Sounds, All Compatible Alarms in the Home Sound;\nNotifies When the Batteries are Low, Eliminating Late Night Chirps"
+                ],
+                "item_program_eligibility": [
+                    "Google",
+                    "SiteControlledInventory",
+                    "Standard",
+                    "ShipIt"
+                ],
+                "description": "First Alert SC5 Smart Smoke & Carbon Monoxide Alarm, 2-pack, Hardwired",
+                "item_product_buyable": true,
+                "content_type": [
+                    "product"
+                ],
+                "Online_Only_attr_pill": [
+                    "Online Only"
+                ],
+                "item_comparable": true,
+                "item_product_status_published": true,
+                "item_searchable": true,
+                "categoryPath_ss": [
+                    "/fire-safety.html",
+                    "/whats-new.html",
+                    "/view-more.html",
+                    "/hardware.html",
+                    "/alarms-detectors.html"
+                ],
+                "group_id": "4000354048",
+                "Online_Only_attr": [
+                    "Online Only"
+                ],
+                "item_member_only": false,
+                "item_classification_itemclass": "Standard",
+                "item_product_primary_image": "https://bfasset.costco-static.com/U447IH35/as/3sfm867m3877c4jsg7vjsg8/4000354048-847_battery_1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "id": "1928225!item.en-US",
+                "item_startDate": "2025-09-07T00:00:00Z",
+                "item_product_status_backorderflag": 0,
+                "item_product_status_backorderqty": 0,
+                "item_review_count": 0,
+                "item_rating_average_value": 0,
+                "item_backorderqty": 0,
+                "item_backorderflag": 0,
+                "item_product_review_count": 0,
+                "isFutureDate": false,
+                "deliveryStatus": "in stock",
+                "item_location_availability": "in stock",
+                "item_location_stockStatus": "in stock",
+                "item_location_itemNumber": "1928225",
+                "item_location_locationNumber": "847_0-edi",
+                "item_location_fulfillment_restrictions_minQty": "1",
+                "item_location_fulfillment_restrictions_maxQty": "9999",
+                "item_location_currencyCode": "USD",
+                "hasSingleSku": false,
+                "minSalePrice": 209.99,
+                "maxSalePrice": 209.99,
+                "isItemInStock": true,
+                "images": [
+                    {
+                        "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/3sfm867m3877c4jsg7vjsg8/4000354048-847_battery_1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+                    },
+                    {
+                        "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/3sfm867m3877c4jsg7vjsg8/4000354048-847_battery_1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+                    }
+                ]
+            },
+            {
+                "Cleaning_Recommendation_attr": [
+                    "Machine Washable"
+                ],
+                "Drying_Recommendation_attr": [
+                    "Tumble Dry - Low Heat"
+                ],
+                "item_disponzeroinv": false,
+                "item_fsa_eligible": false,
+                "item_product_marketing_statement": "",
+                "item_location_pricing_salePrice": 29.99,
+                "item_as400_category": "IAA",
+                "item_image_swatchable": false,
+                "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/qx4527tf7bgcwvnmm43373cn/4000343842-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "item_product_price_in_cart_only": "0",
+                "item_short_description": "Below Zero Wearable Blanket, Multi",
+                "item_product_comparable": true,
+                "item_product_short_description": "Below Zero Wearable Blanket",
+                "item_as400_department": "34",
+                "item_product_status_disponzeroinv": false,
+                "item_number": "1914773",
+                "item_product_marketingcontent_keywords": [
+                    "1796292"
+                ],
+                "EDD_CHUBSmallPack_attr": [
+                    "0",
+                    "0"
+                ],
+                "item_product_image_swatchable": false,
+                "Fill_Material_attr": [
+                    "Polyester"
+                ],
+                "item_variableweight": false,
+                "item_product_name": "Below Zero Wearable Blanket",
+                "item_chdi_eligible": false,
+                "item_name": "Below Zero Wearable Blanket, Multi",
+                "Features_attr": [
+                    "Reversible",
+                    "Water Resistant"
+                ],
+                "item_location_pricing_pricePerUnit_price": 29.99,
+                "Brand_attr": [
+                    "Below Zero"
+                ],
+                "item_location_pricing_listPrice": 29.99,
+                "item_buyable": true,
+                "item_ratings": 0.0,
+                "Blanket_Type_attr": [
+                    "Throw"
+                ],
+                "Cover_Material_attr": [
+                    "Polyester"
+                ],
+                "item_eligible_for_review": "true",
+                "item_review_ratings": "0.0",
+                "item_product_review_eligible": true,
+                "image": "https://bfasset.costco-static.com/U447IH35/as/qx4527tf7bgcwvnmm43373cn/4000343842-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "item_status_published": true,
+                "name": "Below Zero Wearable Blanket",
+                "item_manufacturing_skus": [
+                    "810188990075"
+                ],
+                "item_product_marketing_features": [
+                    "Wearable Blanket With Hood;\nWater Resistant Outer Layer Reverses to Cozy Plush Flannel;\nMachine Wash for Easy Care"
+                ],
+                "Color_attr": [
+                    "Multi"
+                ],
+                "item_program_eligibility": [
+                    "Google",
+                    "SiteControlledInventory",
+                    "Standard",
+                    "ShipIt"
+                ],
+                "description": "Below Zero Wearable Blanket, Multi",
+                "item_product_buyable": true,
+                "content_type": [
+                    "product"
+                ],
+                "item_comparable": true,
+                "Blanket_Material_attr": [
+                    "Polyester"
+                ],
+                "item_product_status_published": true,
+                "item_searchable": true,
+                "categoryPath_ss": [
+                    "/home-and-decor.html",
+                    "/throws.html",
+                    "/bedding.html",
+                    "/whats-new.html",
+                    "/view-more.html",
+                    "/blankets.html"
+                ],
+                "group_id": "4000343842",
+                "item_member_only": false,
+                "item_classification_itemclass": "Standard",
+                "item_product_primary_image": "https://bfasset.costco-static.com/U447IH35/as/qx4527tf7bgcwvnmm43373cn/4000343842-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "id": "1914773!item.en-US",
+                "item_startDate": "2025-09-07T00:00:00Z",
+                "item_product_status_backorderflag": 0,
+                "item_product_status_backorderqty": 0,
+                "item_review_count": 0,
+                "item_rating_average_value": 0,
+                "item_backorderqty": 0,
+                "item_backorderflag": 0,
+                "item_product_review_count": 0,
+                "isFutureDate": false,
+                "deliveryStatus": "in stock",
+                "item_location_availability": "in stock",
+                "item_location_stockStatus": "in stock",
+                "item_location_itemNumber": "1914773",
+                "item_location_locationNumber": "731-wm",
+                "item_location_fulfillment_restrictions_minQty": "1",
+                "item_location_fulfillment_restrictions_maxQty": "9999",
+                "item_location_currencyCode": "USD",
+                "hasSingleSku": false,
+                "minSalePrice": 29.99,
+                "maxSalePrice": 29.99,
+                "isItemInStock": true,
+                "images": [
+                    {
+                        "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/qx4527tf7bgcwvnmm43373cn/4000343842-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+                    },
+                    {
+                        "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/qx4527tf7bgcwvnmm43373cn/4000343842-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+                    },
+                    {
+                        "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/qx4527tf7bgcwvnmm43373cn/4000343842-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+                    },
+                    {
+                        "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/qx4527tf7bgcwvnmm43373cn/4000343842-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+                    }
+                ]
+            },
+            {
+                "Number_of_Speeds_attr": [
+                    "3"
+                ],
+                "item_disponzeroinv": false,
+                "item_fsa_eligible": false,
+                "item_product_marketing_statement": "",
+                "item_image_swatchable": false,
+                "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/jkt7sh5cc7th4m6z4386bvp/4000233753-847_black_1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "item_product_price_in_cart_only": "0",
+                "item_pill_attributes": [
+                    "Online_Only_attr_pill|Online Only"
+                ],
+                "item_short_description": "Artika Edwin 23\" LED Chandelier Ceiling Fan, Black",
+                "item_product_comparable": true,
+                "item_product_short_description": "Artika Edwin 23\" LED Chandelier Ceiling Fan",
+                "item_as400_department": "23",
+                "Blade_Finish_attr": [
+                    "Black"
+                ],
+                "CFM_Rating_attr": [
+                    "1,046 CFM"
+                ],
+                "item_product_image_swatchable": false,
+                "item_variableweight": false,
+                "item_product_name": "Artika Edwin 23\" LED Chandelier Ceiling Fan",
+                "Model_descriptive": [
+                    "23FAN-SUR-C2BL",
+                    "23FAN-SUR-C2BL",
+                    "23FAN-SUR-C2SL"
+                ],
+                "item_chdi_eligible": false,
+                "item_name": "Artika Edwin 23\" LED Chandelier Ceiling Fan, Black",
+                "Features_attr": [
+                    "Dimmable"
+                ],
+                "item_location_pricing_listPrice": 159.99,
+                "item_eligible_for_review": "true",
+                "Number_of_Blades_attr": [
+                    "3 Blade"
+                ],
+                "item_review_ratings": "4.480000019073486",
+                "item_product_review_eligible": true,
+                "image": "https://bfasset.costco-static.com/U447IH35/as/jkt7sh5cc7th4m6z4386bvp/4000233753-847_black_1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "Glass_Type_attr": [
+                    "Frosted"
+                ],
+                "name": "Artika Edwin 23\" LED Chandelier Ceiling Fan",
+                "item_manufacturing_skus": [
+                    "846979052158"
+                ],
+                "item_product_marketing_features": [
+                    "1,046 CFM Airflow;\nForward / Reverse Mode: Reverse Mode Can Be Used to Help Heat up Rooms During Winter;\nRemote Control Included;\n2,000 Lumens;\nLed Integrated, No Bulbs Required;"
+                ],
+                "description": "Artika Edwin 23\" LED Chandelier Ceiling Fan, Black",
+                "content_type": [
+                    "product"
+                ],
+                "categoryPath_ss": [
+                    "/lighting.html",
+                    "/whats-new.html",
+                    "/ceiling-fans.html",
+                    "/view-more.html",
+                    "/hardware.html",
+                    "/fandeliers.html"
+                ],
+                "group_id": "4000233753",
+                "item_member_only": false,
+                "item_classification_itemclass": "Standard",
+                "Bulb_Type_attr": [
+                    "LED"
+                ],
+                "item_location_pricing_salePrice": 159.99,
+                "item_as400_category": "ADS",
+                "Model_attr": [
+                    "23FAN-SUR-C2BL",
+                    "23FAN-SUR-C2BL",
+                    "23FAN-SUR-C2SL"
+                ],
+                "item_product_status_disponzeroinv": false,
+                "Number_of_Lights_attr": [
+                    "1 Light"
+                ],
+                "item_number": "1557878",
+                "item_product_marketingcontent_keywords": [
+                    "fandelier",
+                    "Lighting1115",
+                    "Ends1225"
+                ],
+                "EDD_CHUBSmallPack_attr": [
+                    "0",
+                    "0"
+                ],
+                "item_rating_value": [
+                    "1 & Up",
+                    "2 & Up",
+                    "3 & Up",
+                    "4 & Up"
+                ],
+                "Fan_Blade_Span_attr": [
+                    "23 in."
+                ],
+                "item_location_pricing_pricePerUnit_price": 159.99,
+                "Brand_attr": [
+                    "Artika"
+                ],
+                "item_buyable": true,
+                "item_ratings": 4.480000019073486,
+                "item_status_published": true,
+                "item_program_eligibility": [
+                    "Google",
+                    "SiteControlledInventory",
+                    "Standard",
+                    "ShipIt"
+                ],
+                "item_product_buyable": true,
+                "Online_Only_attr_pill": [
+                    "Online Only"
+                ],
+                "item_comparable": true,
+                "item_product_status_published": true,
+                "item_searchable": true,
+                "Online_Only_attr": [
+                    "Online Only"
+                ],
+                "item_product_primary_image": "https://bfasset.costco-static.com/U447IH35/as/jkt7sh5cc7th4m6z4386bvp/4000233753-847_black_1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "id": "1557878!item.en-US",
+                "item_product_status_backorderflag": 0,
+                "item_review_count": 0,
+                "item_backorderqty": 0,
+                "item_product_review_count": 1277,
+                "item_startDate": "2024-03-05T00:00:00Z",
+                "item_product_status_backorderqty": 0,
+                "item_rating_average_value": 0,
+                "item_backorderflag": 0,
+                "isFutureDate": false,
+                "deliveryStatus": "in stock",
+                "item_location_availability": "in stock",
+                "item_location_stockStatus": "in stock",
+                "item_location_itemNumber": "1557878",
+                "item_location_locationNumber": "731-wm",
+                "item_location_fulfillment_restrictions_minQty": "1",
+                "item_location_fulfillment_restrictions_maxQty": "9999",
+                "item_location_currencyCode": "USD",
+                "hasSingleSku": false,
+                "minSalePrice": 159.99,
+                "maxSalePrice": 159.99,
+                "isItemInStock": true,
+                "images": [
+                    {
+                        "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/jkt7sh5cc7th4m6z4386bvp/4000233753-847_black_1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+                    },
+                    {
+                        "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/jkt7sh5cc7th4m6z4386bvp/4000233753-847_black_1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+                    }
+                ]
+            },
+            {
+                "item_disponzeroinv": false,
+                "item_product_marketing_statement": "<p class='promo'>Qualifies for Costco Direct Savings. See Product Details.</p>",
+                "item_variableweight": false,
+                "item_product_name": "Alena Fabric Power Reclining Sectional",
+                "item_review_ratings": "5.0",
+                "item_member_only": false,
+                "item_number": "1783158",
+                "Number_of_Pieces_attr": [
+                    "5 Piece(s)"
+                ],
+                "item_product_primary_image": "https://bfasset.costco-static.com/U447IH35/as/5pkjj9p68xw64x8srp6h54/4000349731-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "item_fsa_eligible": false,
+                "item_pill_attributes": [
+                    "Costco_Direct_attr_pill|Costco Direct"
+                ],
+                "Design_attr": [
+                    "Reclining"
+                ],
+                "EDD_Calendar_attr": [
+                    "0",
+                    "0"
+                ],
+                "item_location_pricing_listPrice": 2699.99,
+                "item_manufacturing_skus": [
+                    "810129149050"
+                ],
+                "item_product_marketing_features": [
+                    "Three Power Reclining Seats;\nLeggett and Platt Reclining Mechanism;\nTwo USB and Two USB-C Ports;\nFeather Blend Back and Seat Cushions;\nZero Wall Clearance Design"
+                ],
+                "Sectional_Weight_Capacity_attr": [
+                    "250 lb."
+                ],
+                "item_buyable": true,
+                "item_program_eligibility": [
+                    "LocationControlledInventory",
+                    "LTLPickUp",
+                    "Standard",
+                    "ShipIt"
+                ],
+                "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/5pkjj9p68xw64x8srp6h54/4000349731-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "Overall_Sectional_Dimensions__W_x_L_x_H_attr": [
+                    "122 in. x 122 in. x 38.5 in."
+                ],
+                "Number_of_USB_A_Ports_attr": [
+                    "2 Ports"
+                ],
+                "item_chdi_eligible": false,
+                "item_as400_category": "JCA",
+                "Costco_Direct_attr_pill": [
+                    "Costco Direct"
+                ],
+                "Costco_Direct_attr": [
+                    "Costco Direct"
+                ],
+                "item_product_status_published": true,
+                "Arm_Type_attr": [
+                    "Track Arms"
+                ],
+                "Features_attr": [
+                    "Charging Station",
+                    "Power recliner",
+                    "Stain Resistant",
+                    "USB Port"
+                ],
+                "Color_attr": [
+                    "Light Gray"
+                ],
+                "content_type": [
+                    "product"
+                ],
+                "Brand_attr": [
+                    "East & Vine Furniture"
+                ],
+                "item_short_description": "Alena Fabric Power Reclining Sectional",
+                "item_product_comparable": true,
+                "item_product_review_eligible": true,
+                "Number_of_USB_C_Ports_attr": [
+                    "2 Ports"
+                ],
+                "categoryPath_ss": [
+                    "/living-room.html",
+                    "/whats-new.html",
+                    "/view-more.html",
+                    "/sofas-sectionals.html",
+                    "/furniture.html"
+                ],
+                "group_id": "4000349731",
+                "item_classification_itemclass": "Standard",
+                "Style_attr": [
+                    "Modern"
+                ],
+                "item_product_status_disponzeroinv": false,
+                "item_location_pricing_pricePerUnit_price": 2699.99,
+                "item_ratings": 5.0,
+                "item_as400_department": "38",
+                "item_product_image_swatchable": false,
+                "name": "Alena Fabric Power Reclining Sectional",
+                "description": "Alena Fabric Power Reclining Sectional",
+                "item_rating_value": [
+                    "1 & Up",
+                    "2 & Up",
+                    "3 & Up",
+                    "4 & Up"
+                ],
+                "item_status_published": true,
+                "item_comparable": true,
+                "item_product_price_in_cart_only": "0",
+                "Reclining_Mechanism_attr": [
+                    "Power"
+                ],
+                "item_name": "Alena Fabric Power Reclining Sectional",
+                "item_eligible_for_review": "true",
+                "image": "https://bfasset.costco-static.com/U447IH35/as/5pkjj9p68xw64x8srp6h54/4000349731-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "item_product_buyable": true,
+                "item_searchable": true,
+                "item_image_swatchable": false,
+                "item_product_short_description": "Alena Fabric Power Reclining Sectional",
+                "Frame_Material_attr": [
+                    "Wood"
+                ],
+                "Seating_Capacity_attr": [
+                    "5 Person"
+                ],
+                "item_location_pricing_salePrice": 2699.99,
+                "id": "1783158!item.en-US",
+                "item_backorderflag": 0,
+                "item_review_count": 0,
+                "item_product_review_count": 1,
+                "item_product_status_backorderqty": 0,
+                "item_product_status_backorderflag": 0,
+                "item_rating_average_value": 0,
+                "item_backorderqty": 0,
+                "item_startDate": "2025-09-12T00:00:00Z",
+                "isFutureDate": false,
+                "deliveryStatus": "in stock",
+                "item_location_availability": "in stock",
+                "item_location_stockStatus": "in stock",
+                "item_location_itemNumber": "1783158",
+                "item_location_locationNumber": "1258-3pl",
+                "item_location_fulfillment_restrictions_minQty": "1",
+                "item_location_fulfillment_restrictions_maxQty": "9999",
+                "item_location_currencyCode": "USD",
+                "hasSingleSku": true,
+                "minSalePrice": 2699.99,
+                "maxSalePrice": 2699.99,
+                "isItemInStock": true,
+                "images": [
+                    {
+                        "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/5pkjj9p68xw64x8srp6h54/4000349731-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+                    }
+                ]
+            },
+            {
+                "item_disponzeroinv": false,
+                "item_product_marketing_statement": "Price includes $320 savings.<br>Price valid through 9/24/25<p class='promo'>Spend & Save up to $500 and Item Qualifies for Costco Direct Savings. See Product Details.</p>",
+                "item_variableweight": false,
+                "item_product_name": "KitchenAid Top Control Dishwasher with Third Level Jet Rack Dishwasher with 40+ Total Wash Jets",
+                "item_review_ratings": "0.0",
+                "item_member_only": true,
+                "SpendGet_attr_pill": [
+                    "Spend & Save"
+                ],
+                "Model_attr": [
+                    "KDTS324SPS"
+                ],
+                "item_number": "1970308",
+                "Online_Only_attr_pill": [
+                    "Online Only"
+                ],
+                "item_product_primary_image": "https://bfasset.costco-static.com/U447IH35/as/x9sj5674h643v8nb6zhpx5q5/4000389139-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "item_fsa_eligible": false,
+                "item_pill_attributes": [
+                    "Costco_Direct_attr_pill|Costco Direct",
+                    "Online_Only_attr_pill|Online Only",
+                    "SpendGet_attr_pill|Spend & Save"
+                ],
+                "EDD_Calendar_attr": [
+                    "0",
+                    "0"
+                ],
+                "Model_descriptive": [
+                    "KDTS324SPS"
+                ],
+                "item_location_pricing_listPrice": 879.99,
+                "item_manufacturing_skus": [
+                    "883049704821"
+                ],
+                "item_product_marketing_features": [
+                    "ProDry\u2122 System;\nAutomatic Door Open Dry System;\nDesigned for Quiet Cleaning at 41 dBA;\nExpress Wash Cycle;\nTriple Filtration System"
+                ],
+                "item_buyable": true,
+                "item_program_eligibility": [
+                    "LocationControlledInventory",
+                    "LTLPickUp",
+                    "Standard",
+                    "ShipIt"
+                ],
+                "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/x9sj5674h643v8nb6zhpx5q5/4000389139-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "item_chdi_eligible": false,
+                "item_as400_category": "HGA",
+                "Costco_Direct_attr_pill": [
+                    "Costco Direct"
+                ],
+                "Costco_Direct_attr": [
+                    "Costco Direct"
+                ],
+                "item_product_status_published": true,
+                "Online_Only_attr": [
+                    "Online Only"
+                ],
+                "content_type": [
+                    "product"
+                ],
+                "item_short_description": "KitchenAid Top Control Dishwasher with Third Level Jet Rack Dishwasher with 40+ Total Wash Jets",
+                "item_product_comparable": true,
+                "item_product_review_eligible": true,
+                "categoryPath_ss": [
+                    "/appliances.html",
+                    "/dishwashers.html",
+                    "/whats-new.html",
+                    "/view-more.html"
+                ],
+                "group_id": "4000389139",
+                "item_classification_itemclass": "Standard",
+                "item_product_status_disponzeroinv": false,
+                "item_location_pricing_pricePerUnit_price": 879.99,
+                "item_ratings": 0.0,
+                "item_as400_department": "24",
+                "item_product_image_swatchable": false,
+                "name": "KitchenAid Top Control Dishwasher with Third Level Jet Rack Dishwasher with 40+ Total Wash Jets",
+                "description": "KitchenAid Top Control Dishwasher with Third Level Jet Rack Dishwasher with 40+ Total Wash Jets",
+                "item_status_published": true,
+                "item_comparable": true,
+                "item_product_price_in_cart_only": "1",
+                "item_name": "KitchenAid Top Control Dishwasher with Third Level Jet Rack Dishwasher with 40+ Total Wash Jets",
+                "item_eligible_for_review": "true",
+                "image": "https://bfasset.costco-static.com/U447IH35/as/x9sj5674h643v8nb6zhpx5q5/4000389139-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "SpendGet_attr": [
+                    "Spend & Save"
+                ],
+                "item_product_marketingcontent_keywords": [
+                    "1253"
+                ],
+                "item_product_buyable": true,
+                "item_searchable": true,
+                "item_image_swatchable": false,
+                "item_product_short_description": "KitchenAid Top Control Dishwasher with Third Level Jet Rack Dishwasher with 40+ Total Wash Jets",
+                "item_location_pricing_salePrice": 879.99,
+                "id": "1970308!item.en-US",
+                "item_backorderflag": 0,
+                "item_review_count": 0,
+                "item_product_review_count": 0,
+                "item_product_status_backorderqty": 0,
+                "item_product_status_backorderflag": 0,
+                "item_rating_average_value": 0,
+                "item_backorderqty": 0,
+                "item_startDate": "2025-09-09T00:00:00Z",
+                "isFutureDate": false,
+                "deliveryStatus": "in stock",
+                "item_location_availability": "in stock",
+                "item_location_stockStatus": "in stock",
+                "item_location_itemNumber": "1970308",
+                "item_location_locationNumber": "1258-3pl",
+                "item_location_fulfillment_restrictions_minQty": "1",
+                "item_location_fulfillment_restrictions_maxQty": "5",
+                "item_location_currencyCode": "USD",
+                "hasSingleSku": true,
+                "minSalePrice": 879.99,
+                "maxSalePrice": 879.99,
+                "isItemInStock": true,
+                "images": [
+                    {
+                        "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/x9sj5674h643v8nb6zhpx5q5/4000389139-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+                    }
+                ]
+            },
+            {
+                "item_disponzeroinv": false,
+                "item_fsa_eligible": false,
+                "item_product_marketing_statement": "",
+                "item_image_swatchable": false,
+                "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/v7s8hfmgps8st5kbp3fg/4000372292-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "item_product_price_in_cart_only": "0",
+                "item_pill_attributes": [
+                    "Online_Only_attr_pill|Online Only"
+                ],
+                "item_short_description": "Dell 16\" Touchscreen Laptop - Intel Core 7 150U - 1920 x 1200 - 16GB RAM - 1TB SSD - Windows 11",
+                "Memory__RAM__attr": [
+                    "16 GB"
+                ],
+                "item_product_comparable": true,
+                "item_product_short_description": "Dell 16\" Touchscreen Laptop - Intel Core 7 150U - 1920 x 1200 - 16GB RAM - 1TB SSD - Windows 11",
+                "item_as400_department": "24",
+                "Delivery_Type_attr": [
+                    "Warehouse Pick-up"
+                ],
+                "Number_of_USB_A_Ports_attr": [
+                    "2 Ports (2x USB-A 3.2 Gen 1)"
+                ],
+                "item_product_image_swatchable": false,
+                "Processor_attr": [
+                    "Intel Core 7"
+                ],
+                "item_variableweight": false,
+                "item_product_name": "Dell 16\" Touchscreen Laptop - Intel Core 7 150U - 1920 x 1200 - 16GB RAM - 1TB SSD - Windows 11",
+                "Model_descriptive": [
+                    "LDC16250-7278BLK-PUS"
+                ],
+                "item_chdi_eligible": false,
+                "item_name": "Dell 16\" Touchscreen Laptop - Intel Core 7 150U - 1920 x 1200 - 16GB RAM - 1TB SSD - Windows 11",
+                "Features_attr": [
+                    "Backlit Keyboard",
+                    "Bluetooth",
+                    "Integrated Webcam",
+                    "Numeric Keypad",
+                    "Wi-Fi"
+                ],
+                "item_location_pricing_listPrice": 799.99,
+                "Number_of_Audio_Ports_attr": [
+                    "1x Headphone Jack"
+                ],
+                "Number_of_HDMI_Ports_attr": [
+                    "1x HDMI 1.4 Output"
+                ],
+                "item_eligible_for_review": "true",
+                "item_review_ratings": "0.0",
+                "Laptop_Screen_Size_attr": [
+                    "16 in. and Above"
+                ],
+                "item_product_review_eligible": true,
+                "image": "https://bfasset.costco-static.com/U447IH35/as/v7s8hfmgps8st5kbp3fg/4000372292-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "Number_of_USB_C_Ports_attr": [
+                    "1 Port (1x USB-C 3.2 Gen 2)"
+                ],
+                "Special_Offer_attr": [
+                    "McAfee Total Protection 1 Year"
+                ],
+                "SSD_Size_attr": [
+                    "1 TB"
+                ],
+                "Screen_Resolution_attr": [
+                    "1920 x 1200"
+                ],
+                "Operating_System_attr": [
+                    "Windows OS"
+                ],
+                "name": "Dell 16\" Touchscreen Laptop - Intel Core 7 150U - 1920 x 1200 - 16GB RAM - 1TB SSD - Windows 11",
+                "item_manufacturing_skus": [
+                    "884116430278"
+                ],
+                "item_product_marketing_features": [
+                    "Intel Core 7 150U Processor (10 cores);\n16.0-inch 16:10 FHD+ (1920x1200) Touch 300nits WVA/IPS Display with ComfortView;\n16GB, 2x8GB, DDR5, 5200 MT/s;\n1TB M.2 PCIe NVMe Solid State Drive;\nRealtek Wi-Fi 6 (2x2, 802.11ax) and Bluetooth 5.2;"
+                ],
+                "Storage_Drive_Type_attr": [
+                    "SSD"
+                ],
+                "Color_attr": [
+                    "Black"
+                ],
+                "description": "Dell 16\" Touchscreen Laptop - Intel Core 7 150U - 1920 x 1200 - 16GB RAM - 1TB SSD - Windows 11",
+                "content_type": [
+                    "product"
+                ],
+                "categoryPath_ss": [
+                    "/laptops.html",
+                    "/whats-new.html",
+                    "/computers.html",
+                    "/view-more.html",
+                    "/pc-laptops.html"
+                ],
+                "group_id": "4000372292",
+                "item_member_only": false,
+                "item_classification_itemclass": "Standard",
+                "item_location_pricing_salePrice": 799.99,
+                "item_as400_category": "MAB",
+                "Graphics_attr": [
+                    "Intel Graphics"
+                ],
+                "Model_attr": [
+                    "LDC16250-7278BLK-PUS"
+                ],
+                "item_product_status_disponzeroinv": false,
+                "item_number": "1951493",
+                "EDD_CHUBSmallPack_attr": [
+                    "0",
+                    "0"
+                ],
+                "Screen_Size_attr": [
+                    "16 in."
+                ],
+                "item_location_pricing_pricePerUnit_price": 799.99,
+                "Brand_attr": [
+                    "Dell"
+                ],
+                "item_buyable": true,
+                "item_ratings": 0.0,
+                "item_status_published": true,
+                "Optical_Drive_attr": [
+                    "No Optical Drive"
+                ],
+                "item_program_eligibility": [
+                    "Google",
+                    "SiteControlledInventory",
+                    "Standard",
+                    "ShipIt"
+                ],
+                "item_product_buyable": true,
+                "Wireless_Networking_attr": [
+                    "Wi-Fi 6"
+                ],
+                "Online_Only_attr_pill": [
+                    "Online Only"
+                ],
+                "item_comparable": true,
+                "item_product_status_published": true,
+                "item_searchable": true,
+                "Online_Only_attr": [
+                    "Online Only"
+                ],
+                "item_product_primary_image": "https://bfasset.costco-static.com/U447IH35/as/v7s8hfmgps8st5kbp3fg/4000372292-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "id": "1951493!item.en-US",
+                "item_product_status_backorderflag": 0,
+                "item_review_count": 0,
+                "item_backorderqty": 0,
+                "item_product_review_count": 0,
+                "item_startDate": "2025-09-05T00:00:00Z",
+                "item_product_status_backorderqty": 0,
+                "item_rating_average_value": 0,
+                "item_backorderflag": 0,
+                "isFutureDate": false,
+                "deliveryStatus": "in stock",
+                "shipToWarehouse": "in stock",
+                "item_location_availability": "in stock",
+                "item_location_stockStatus": "in stock",
+                "item_location_itemNumber": "1951493",
+                "item_location_locationNumber": "731-wm",
+                "item_location_fulfillment_restrictions_minQty": "1",
+                "item_location_fulfillment_restrictions_maxQty": "9999",
+                "item_location_currencyCode": "USD",
+                "hasSingleSku": true,
+                "minSalePrice": 799.99,
+                "maxSalePrice": 799.99,
+                "isItemInStock": true,
+                "images": [
+                    {
+                        "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/v7s8hfmgps8st5kbp3fg/4000372292-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+                    }
+                ]
+            },
+            {
+                "item_disponzeroinv": false,
+                "item_fsa_eligible": false,
+                "item_product_marketing_statement": "",
+                "item_location_pricing_salePrice": 1899.99,
+                "item_as400_category": "MAB",
+                "item_image_swatchable": false,
+                "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/ztwmxxw79cvvvnh4rc7x3/4000398624-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "item_product_price_in_cart_only": "0",
+                "item_pill_attributes": [
+                    "Copilot__PC_attr_pill|Copilot+ PC",
+                    "Online_Only_attr_pill|Online Only"
+                ],
+                "item_short_description": "HP OmniBook 7 17.3\" AI Laptop - Intel\u00ae Core\u2122 Ultra 9 288V - Copilot+ PC - FHD Touchscreen - 32GB Memory - 2TB SSD - GeForce RTX\u2122 4050 - Windows 11 Home",
+                "item_product_comparable": true,
+                "item_product_short_description": "HP OmniBook 7 17.3\" AI Laptop - Intel\u00ae Core\u2122 Ultra 9 288V - Copilot+ PC - FHD Touchscreen - 32GB Memory - 2TB SSD - GeForce RTX\u2122 4050 - Windows 11 Home",
+                "item_as400_department": "24",
+                "item_product_status_disponzeroinv": false,
+                "item_number": "1961095",
+                "EDD_CHUBSmallPack_attr": [
+                    "0",
+                    "0"
+                ],
+                "item_product_image_swatchable": false,
+                "item_variableweight": false,
+                "item_product_name": "HP OmniBook 7 17.3\" AI Laptop - Intel\u00ae Core\u2122 Ultra 9 288V - Copilot+ PC - FHD Touchscreen - 32GB Memory - 2TB SSD - GeForce RTX\u2122 4050 - Windows 11 Home",
+                "item_chdi_eligible": false,
+                "item_name": "HP OmniBook 7 17.3\" AI Laptop - Intel\u00ae Core\u2122 Ultra 9 288V - Copilot+ PC - FHD Touchscreen - 32GB Memory - 2TB SSD - GeForce RTX\u2122 4050 - Windows 11 Home",
+                "item_location_pricing_pricePerUnit_price": 1899.99,
+                "item_location_pricing_listPrice": 1899.99,
+                "item_buyable": true,
+                "item_ratings": 0.0,
+                "item_eligible_for_review": "true",
+                "item_review_ratings": "0.0",
+                "item_product_review_eligible": true,
+                "image": "https://bfasset.costco-static.com/U447IH35/as/ztwmxxw79cvvvnh4rc7x3/4000398624-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "Copilot__PC_attr": [
+                    "Copilot+ PC"
+                ],
+                "Copilot__PC_attr_pill": [
+                    "Copilot+ PC"
+                ],
+                "item_status_published": true,
+                "name": "HP OmniBook 7 17.3\" AI Laptop - Intel\u00ae Core\u2122 Ultra 9 288V - Copilot+ PC - FHD Touchscreen - 32GB Memory - 2TB SSD - GeForce RTX\u2122 4050 - Windows 11 Home",
+                "item_manufacturing_skus": [
+                    "199485003061"
+                ],
+                "item_product_marketing_features": [
+                    "Intel\u00ae Core\u2122 Ultra 9 288V (8-Core) Processor, Built-In NPU (48 TOPS);\nCopilot+ PC: Boost Your Creativity & Productivity with AI Assistance;\n5mp Camera with AI Noise Reduction, Poly Studio Audio & Poly Camera Pro;\nNVIDIA\u00ae Geforce RTX\u2122 4050 for Enthusiast Gamers & Creators;\nBacklit Keyboard with Numeric Keypad, Wi-Fi 6E and Bluetooth\u00ae 5.3"
+                ],
+                "item_program_eligibility": [
+                    "Google",
+                    "SiteControlledInventory",
+                    "Standard",
+                    "ShipIt"
+                ],
+                "description": "HP OmniBook 7 17.3\" AI Laptop - Intel\u00ae Core\u2122 Ultra 9 288V - Copilot+ PC - FHD Touchscreen - 32GB Memory - 2TB SSD - GeForce RTX\u2122 4050 - Windows 11 Home",
+                "item_product_buyable": true,
+                "content_type": [
+                    "product"
+                ],
+                "Online_Only_attr_pill": [
+                    "Online Only"
+                ],
+                "item_comparable": true,
+                "item_product_status_published": true,
+                "item_searchable": true,
+                "categoryPath_ss": [
+                    "/laptops.html",
+                    "/whats-new.html",
+                    "/computers.html",
+                    "/view-more.html",
+                    "/pc-laptops.html",
+                    "/windows-copilot-pcs.html"
+                ],
+                "group_id": "4000398624",
+                "Online_Only_attr": [
+                    "Online Only"
+                ],
+                "item_member_only": false,
+                "item_classification_itemclass": "Standard",
+                "item_product_primary_image": "https://bfasset.costco-static.com/U447IH35/as/ztwmxxw79cvvvnh4rc7x3/4000398624-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "id": "1961095!item.en-US",
+                "item_startDate": "2025-09-08T00:00:00Z",
+                "item_product_status_backorderflag": 0,
+                "item_product_status_backorderqty": 0,
+                "item_review_count": 0,
+                "item_rating_average_value": 0,
+                "item_backorderqty": 0,
+                "item_backorderflag": 0,
+                "item_product_review_count": 0,
+                "isFutureDate": false,
+                "deliveryStatus": "in stock",
+                "item_location_availability": "in stock",
+                "item_location_stockStatus": "in stock",
+                "item_location_itemNumber": "1961095",
+                "item_location_locationNumber": "731-wm",
+                "item_location_fulfillment_restrictions_minQty": "1",
+                "item_location_fulfillment_restrictions_maxQty": "9999",
+                "item_location_currencyCode": "USD",
+                "hasSingleSku": true,
+                "minSalePrice": 1899.99,
+                "maxSalePrice": 1899.99,
+                "isItemInStock": true,
+                "images": [
+                    {
+                        "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/ztwmxxw79cvvvnh4rc7x3/4000398624-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+                    }
+                ]
+            },
+            {
+                "Weight_attr": [
+                    "0.02 lb."
+                ],
+                "item_disponzeroinv": false,
+                "item_fsa_eligible": false,
+                "item_product_marketing_statement": "",
+                "item_location_pricing_salePrice": 47.99,
+                "item_as400_category": "UBH",
+                "item_image_swatchable": false,
+                "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/hw8v2s5tf7vhscr5rqm4nhp9/4000397888-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "Dimensions___Length_attr": [
+                    "0.29 in."
+                ],
+                "item_product_price_in_cart_only": "1",
+                "item_pill_attributes": [
+                    "Online_Only_attr_pill|Online Only"
+                ],
+                "item_short_description": "Life360 Tile Mate Bluetooth Tracker Keys Finder and Item Locator, 4-pack",
+                "Model_attr": [
+                    "RE-60044",
+                    "RE-60044"
+                ],
+                "item_product_comparable": true,
+                "item_product_short_description": "Life360 Tile Mate Bluetooth Tracker Keys Finder and Item Locator, 4-pack",
+                "item_as400_department": "24",
+                "item_product_status_disponzeroinv": false,
+                "item_number": "1978347",
+                "Range_attr": [
+                    "350 ft."
+                ],
+                "EDD_CHUBSmallPack_attr": [
+                    "0",
+                    "0"
+                ],
+                "item_product_image_swatchable": false,
+                "item_variableweight": false,
+                "item_product_name": "Life360 Tile Mate Bluetooth Tracker Keys Finder and Item Locator, 4-pack",
+                "Model_descriptive": [
+                    "RE-60044",
+                    "RE-60044"
+                ],
+                "item_chdi_eligible": false,
+                "Accessory_Type_attr": [
+                    "Tracking Device"
+                ],
+                "item_name": "Life360 Tile Mate Bluetooth Tracker Keys Finder and Item Locator, 4-pack",
+                "Features_attr": [
+                    "Bluetooth",
+                    "Water Resistant"
+                ],
+                "item_location_pricing_pricePerUnit_price": 47.99,
+                "Compatible_with_attr": [
+                    "Android",
+                    "Apple iOS"
+                ],
+                "Battery_Life_Up_To_attr": [
+                    "3 Year"
+                ],
+                "Brand_attr": [
+                    "Life360"
+                ],
+                "item_location_pricing_listPrice": 47.99,
+                "item_buyable": true,
+                "item_ratings": 0.0,
+                "item_eligible_for_review": "true",
+                "item_review_ratings": "0.0",
+                "item_product_review_eligible": true,
+                "image": "https://bfasset.costco-static.com/U447IH35/as/hw8v2s5tf7vhscr5rqm4nhp9/4000397888-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "item_status_published": true,
+                "name": "Life360 Tile Mate Bluetooth Tracker Keys Finder and Item Locator, 4-pack",
+                "item_manufacturing_skus": [
+                    "819039026642"
+                ],
+                "Dimensions___Height_attr": [
+                    "1.47 in."
+                ],
+                "item_product_marketing_features": [
+                    "Bluetooth Tracker for Keys, Luggage, Bags, etc.;\niOS and Android Compatible;\n350 Foot Bluetooth Range, Water Resistant, Up to 3-year Battery;\nWorks with the Free Life360 App"
+                ],
+                "Color_attr": [
+                    "Multi"
+                ],
+                "item_program_eligibility": [
+                    "Google",
+                    "SiteControlledInventory",
+                    "Standard",
+                    "ShipIt"
+                ],
+                "description": "Life360 Tile Mate Bluetooth Tracker Keys Finder and Item Locator, 4-pack",
+                "item_product_buyable": true,
+                "content_type": [
+                    "product"
+                ],
+                "Online_Only_attr_pill": [
+                    "Online Only"
+                ],
+                "item_comparable": true,
+                "item_product_status_published": true,
+                "item_searchable": true,
+                "Dimensions___Width_attr": [
+                    "1.47 in."
+                ],
+                "Type_of_GPS_attr": [
+                    "Tracker"
+                ],
+                "categoryPath_ss": [
+                    "/cell-phones.html",
+                    "/whats-new.html",
+                    "/cell-phone-chargers-batteries.html",
+                    "/view-more.html",
+                    "/electronics.html",
+                    "/bluetooth-tracking-tags.html"
+                ],
+                "group_id": "4000397888",
+                "Online_Only_attr": [
+                    "Online Only"
+                ],
+                "item_member_only": true,
+                "item_classification_itemclass": "Standard",
+                "item_product_primary_image": "https://bfasset.costco-static.com/U447IH35/as/hw8v2s5tf7vhscr5rqm4nhp9/4000397888-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "id": "1978347!item.en-US",
+                "item_startDate": "2025-09-15T00:00:00Z",
+                "item_product_status_backorderflag": 0,
+                "item_product_status_backorderqty": 0,
+                "item_review_count": 0,
+                "item_rating_average_value": 0,
+                "item_backorderqty": 0,
+                "item_backorderflag": 0,
+                "item_product_review_count": 0,
+                "isFutureDate": false,
+                "deliveryStatus": "in stock",
+                "item_location_availability": "in stock",
+                "item_location_stockStatus": "in stock",
+                "item_location_itemNumber": "1978347",
+                "item_location_locationNumber": "847_0-edi",
+                "item_location_fulfillment_restrictions_minQty": "1",
+                "item_location_fulfillment_restrictions_maxQty": "9999",
+                "item_location_currencyCode": "USD",
+                "hasSingleSku": true,
+                "minSalePrice": 47.99,
+                "maxSalePrice": 47.99,
+                "isItemInStock": true,
+                "images": [
+                    {
+                        "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/hw8v2s5tf7vhscr5rqm4nhp9/4000397888-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+                    }
+                ]
+            },
+            {
+                "item_disponzeroinv": false,
+                "item_fsa_eligible": false,
+                "item_product_marketing_statement": "",
+                "item_location_pricing_salePrice": 189.99,
+                "item_as400_category": "ALA",
+                "item_image_swatchable": false,
+                "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/rjctfhhvqk8s6kf44wtjcs/4000401006-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "item_product_price_in_cart_only": "0",
+                "item_short_description": "LEGO Wicked Bundle",
+                "Model_attr": [
+                    "75639 + 75682",
+                    "75639 + 75682"
+                ],
+                "item_product_comparable": true,
+                "item_product_short_description": "LEGO Wicked Bundle",
+                "item_as400_department": "28",
+                "item_product_status_disponzeroinv": false,
+                "item_number": "1961686",
+                "item_product_marketingcontent_keywords": [
+                    "TreasureHunt"
+                ],
+                "EDD_CHUBSmallPack_attr": [
+                    "0",
+                    "0"
+                ],
+                "item_product_image_swatchable": false,
+                "item_variableweight": false,
+                "item_product_name": "LEGO Wicked Bundle",
+                "Model_descriptive": [
+                    "75639 + 75682",
+                    "75639 + 75682"
+                ],
+                "item_chdi_eligible": false,
+                "item_name": "LEGO Wicked Bundle",
+                "Recommended_Age_attr": [
+                    "10 Years and Up"
+                ],
+                "item_location_pricing_pricePerUnit_price": 189.99,
+                "Brand_attr": [
+                    "LEGO"
+                ],
+                "item_location_pricing_listPrice": 189.99,
+                "item_buyable": true,
+                "item_ratings": 0.0,
+                "item_eligible_for_review": "true",
+                "item_review_ratings": "0.0",
+                "item_product_review_eligible": true,
+                "image": "https://bfasset.costco-static.com/U447IH35/as/rjctfhhvqk8s6kf44wtjcs/4000401006-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "item_status_published": true,
+                "name": "LEGO Wicked Bundle",
+                "item_manufacturing_skus": [
+                    "499994237521"
+                ],
+                "item_product_marketing_features": [
+                    "Includes WICKED Emerald City Wall Art and Wicked Elphaba & Glinda Figures;\nEmerald City Wall Art: 1518 Total Pieces, Recommended Age: 18+;\nWicked Elphaba & Glinda Figures: 558 Total Pieces, Recommended Age: 10+;"
+                ],
+                "item_program_eligibility": [
+                    "Google",
+                    "SiteControlledInventory",
+                    "Standard",
+                    "ShipIt"
+                ],
+                "description": "LEGO Wicked Bundle",
+                "item_product_buyable": true,
+                "content_type": [
+                    "product"
+                ],
+                "item_comparable": true,
+                "item_product_status_published": true,
+                "item_searchable": true,
+                "categoryPath_ss": [
+                    "/building-blocks.html",
+                    "/whats-new.html",
+                    "/view-more.html",
+                    "/toys.html"
+                ],
+                "group_id": "4000401006",
+                "item_member_only": false,
+                "item_classification_itemclass": "Standard",
+                "item_product_primary_image": "https://bfasset.costco-static.com/U447IH35/as/rjctfhhvqk8s6kf44wtjcs/4000401006-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "id": "1961686!item.en-US",
+                "item_startDate": "2025-09-09T00:00:00Z",
+                "item_product_status_backorderflag": 0,
+                "item_product_status_backorderqty": 0,
+                "item_review_count": 0,
+                "item_rating_average_value": 0,
+                "item_backorderqty": 0,
+                "item_backorderflag": 0,
+                "item_product_review_count": 0,
+                "isFutureDate": false,
+                "deliveryStatus": "in stock",
+                "item_location_availability": "in stock",
+                "item_location_stockStatus": "in stock",
+                "item_location_itemNumber": "1961686",
+                "item_location_locationNumber": "731-wm",
+                "item_location_fulfillment_restrictions_minQty": "1",
+                "item_location_fulfillment_restrictions_maxQty": "9999",
+                "item_location_currencyCode": "USD",
+                "hasSingleSku": true,
+                "minSalePrice": 189.99,
+                "maxSalePrice": 189.99,
+                "isItemInStock": true,
+                "images": [
+                    {
+                        "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/rjctfhhvqk8s6kf44wtjcs/4000401006-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+                    }
+                ]
+            }
+        ],
+        "numFound": 296,
+        "start": 0,
+        "numFoundExact": true
+    },
+    "responseHeader": {
+        "zkConnected": true,
+        "QTime": 52,
+        "totalTime": 269,
+        "status": 0
+    },
+    "facets": {
+        "item_location_pricing_salePrice": {
+            "buckets": [
+                {
+                    "val": "$0 to $25",
+                    "count": 60,
+                    "low": "0",
+                    "high": "25",
+                    "display_order": "0"
+                },
+                {
+                    "val": "$25 to $50",
+                    "count": 69,
+                    "low": "25",
+                    "high": "50",
+                    "display_order": "1"
+                },
+                {
+                    "val": "$50 to $100",
+                    "count": 60,
+                    "low": "50",
+                    "high": "100",
+                    "display_order": "2"
+                },
+                {
+                    "val": "$100 to $200",
+                    "count": 27,
+                    "low": "100",
+                    "high": "200",
+                    "display_order": "3"
+                },
+                {
+                    "val": "$200 to $500",
+                    "count": 26,
+                    "low": "200",
+                    "high": "500",
+                    "display_order": "4"
+                },
+                {
+                    "val": "$500 to $1000",
+                    "count": 20,
+                    "low": "500",
+                    "high": "1000",
+                    "display_order": "5"
+                },
+                {
+                    "val": "$1,000 to $2,000",
+                    "count": 12,
+                    "low": "1000",
+                    "high": "2000",
+                    "display_order": "6"
+                },
+                {
+                    "val": "$2,000 to $5,000",
+                    "count": 3,
+                    "low": "2000",
+                    "high": "5000",
+                    "display_order": "7"
+                },
+                {
+                    "val": "$5,000 to $10,000",
+                    "count": 8,
+                    "low": "5000",
+                    "high": "10000",
+                    "display_order": "8"
+                },
+                {
+                    "val": "$10,000 to $25,000",
+                    "count": 7,
+                    "low": "10000",
+                    "high": "25000",
+                    "display_order": "9"
+                },
+                {
+                    "val": "$25,000 to $50,000",
+                    "count": 5,
+                    "low": "25000",
+                    "high": "50000",
+                    "display_order": "10"
+                }
+            ],
+            "facetKey": "item_location_pricing_salePrice",
+            "multiselect": true,
+            "display_order": 1000,
+            "label": "Price"
+        },
+        "item_category": {
+            "buckets": [
+                {
+                    "val": "0|Appliances",
+                    "leads_to_fsa_chdi": false,
+                    "count": 22,
+                    "meta": "/appliances.html"
+                },
+                {
+                    "val": "0|Baby",
+                    "leads_to_fsa_chdi": false,
+                    "count": 1,
+                    "meta": "/baby-kids.html"
+                },
+                {
+                    "val": "0|Beauty",
+                    "leads_to_fsa_chdi": false,
+                    "count": 17,
+                    "meta": "/beauty.html"
+                },
+                {
+                    "val": "0|Clothing, Luggage & Handbags",
+                    "leads_to_fsa_chdi": false,
+                    "count": 44,
+                    "meta": "/clothing.html"
+                },
+                {
+                    "val": "0|Computers",
+                    "leads_to_fsa_chdi": false,
+                    "count": 12,
+                    "meta": "/computers.html"
+                },
+                {
+                    "val": "0|Electronics",
+                    "leads_to_fsa_chdi": false,
+                    "count": 20,
+                    "meta": "/electronics.html"
+                },
+                {
+                    "val": "0|Floral & Gift Baskets",
+                    "leads_to_fsa_chdi": false,
+                    "count": 8,
+                    "meta": "/holiday-gifts.html"
+                },
+                {
+                    "val": "0|Furniture",
+                    "leads_to_fsa_chdi": false,
+                    "count": 1,
+                    "meta": "/furniture.html"
+                },
+                {
+                    "val": "0|Gift Cards & Tickets",
+                    "leads_to_fsa_chdi": false,
+                    "count": 8,
+                    "meta": "/gift-cards-tickets.html"
+                },
+                {
+                    "val": "0|Grocery & Household Essentials",
+                    "leads_to_fsa_chdi": false,
+                    "count": 45,
+                    "meta": "/grocery-household.html"
+                },
+                {
+                    "val": "0|Health & Personal Care",
+                    "leads_to_fsa_chdi": true,
+                    "count": 13,
+                    "meta": "/health-beauty.html"
+                },
+                {
+                    "val": "0|Holiday & Seasonal",
+                    "leads_to_fsa_chdi": false,
+                    "count": 21,
+                    "meta": "/seasonal.html"
+                },
+                {
+                    "val": "0|Home & Kitchen",
+                    "leads_to_fsa_chdi": false,
+                    "count": 52,
+                    "meta": "/home-and-decor.html"
+                },
+                {
+                    "val": "0|Home Improvement",
+                    "leads_to_fsa_chdi": false,
+                    "count": 10,
+                    "meta": "/hardware.html"
+                },
+                {
+                    "val": "0|Jewelry & Watches",
+                    "leads_to_fsa_chdi": false,
+                    "count": 33,
+                    "meta": "/jewelry.html"
+                },
+                {
+                    "val": "0|Office Products",
+                    "leads_to_fsa_chdi": false,
+                    "count": 1,
+                    "meta": "/office-products.html"
+                },
+                {
+                    "val": "0|Patio, Lawn & Garden",
+                    "leads_to_fsa_chdi": false,
+                    "count": 5,
+                    "meta": "/patio-lawn-garden.html"
+                },
+                {
+                    "val": "0|Pet Supplies",
+                    "leads_to_fsa_chdi": false,
+                    "count": 11,
+                    "meta": "/pet-supplies.html"
+                },
+                {
+                    "val": "0|Special Events",
+                    "leads_to_fsa_chdi": false,
+                    "count": 1,
+                    "meta": "/special-events.html"
+                },
+                {
+                    "val": "0|Sports & Fitness",
+                    "leads_to_fsa_chdi": false,
+                    "count": 12,
+                    "meta": "/sports-fitness.html"
+                },
+                {
+                    "val": "0|Tires & Auto",
+                    "leads_to_fsa_chdi": false,
+                    "count": 3,
+                    "meta": "/auto-tires.html"
+                },
+                {
+                    "val": "0|Toys",
+                    "leads_to_fsa_chdi": false,
+                    "count": 10,
+                    "meta": "/toys.html"
+                }
+            ],
+            "label": "Category",
+            "facetKey": "item_category",
+            "multiselect": false,
+            "display_order": 5000
+        },
+        "item_program_eligibility": {
+            "buckets": [
+                {
+                    "val": "LocationControlledInventory",
+                    "count": 39
+                },
+                {
+                    "val": "2DayDelivery",
+                    "count": 30
+                },
+                {
+                    "val": "Google",
+                    "count": 196
+                },
+                {
+                    "val": "GoogleGrocery",
+                    "count": 45
+                },
+                {
+                    "val": "InWarehouse",
+                    "count": 18
+                },
+                {
+                    "val": "LTLPickUp",
+                    "count": 6
+                },
+                {
+                    "val": "ShipIt",
+                    "count": 296
+                },
+                {
+                    "val": "SiteControlledInventory",
+                    "count": 257
+                },
+                {
+                    "val": "Standard",
+                    "count": 266
+                },
+                {
+                    "val": "WarehouseDelivery",
+                    "count": 51
+                }
+            ],
+            "label": "Program Eligibility",
+            "facetKey": "item_program_eligibility",
+            "multiselect": true,
+            "display_order": 5002
+        },
+        "item_location_bopiw": {
+            "label": "Pick-Up",
+            "facetKey": "item_location_bopiw",
+            "multiselect": true,
+            "display_order": 5003,
+            "buckets": [
+                {
+                    "val": true,
+                    "count": 16
+                }
+            ]
+        },
+        "item_location_availability": {
+            "label": "Hide Unavailable Items",
+            "facetKey": "item_location_availability",
+            "multiselect": true,
+            "display_order": 5004,
+            "buckets": [
+                {
+                    "val": "in stock",
+                    "count": 296
+                }
+            ]
+        },
+        "item_rating_value": {
+            "buckets": [
+                {
+                    "val": "4 & Up",
+                    "count": 58
+                },
+                {
+                    "val": "3 & Up",
+                    "count": 63
+                },
+                {
+                    "val": "2 & Up",
+                    "count": 65
+                },
+                {
+                    "val": "1 & Up",
+                    "count": 68
+                }
+            ],
+            "label": "Customer Reviews",
+            "facetKey": "item_rating_value",
+            "multiselect": true,
+            "display_order": 5005
+        },
+        "Online_Only_attr": {
+            "buckets": [
+                {
+                    "val": "Online Only",
+                    "count": 157
+                }
+            ],
+            "label": "Online Only",
+            "facetKey": "Online_Only_attr",
+            "multiselect": true,
+            "display_order": 10000
+        },
+        "Costco_Direct_attr": {
+            "buckets": [
+                {
+                    "val": "Costco Direct",
+                    "count": 8
+                }
+            ],
+            "label": "Costco Direct",
+            "facetKey": "Costco_Direct_attr",
+            "multiselect": true,
+            "display_order": 10001
+        }
+    }
+}

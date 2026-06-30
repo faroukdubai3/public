@@ -3,8 +3,8 @@
     "availableSlots": [
       {
         "locationId": 5001,
-        "startTimestamp": "2026-07-23T13:15",
-        "endTimestamp": "2026-07-23T13:25",
+        "startTimestamp": "2026-07-27T09:55",
+        "endTimestamp": "2026-07-27T10:05",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -16,8 +16,8 @@
     "availableSlots": [
       {
         "locationId": 5002,
-        "startTimestamp": "2026-07-08T06:20",
-        "endTimestamp": "2026-07-08T06:30",
+        "startTimestamp": "2026-07-13T06:30",
+        "endTimestamp": "2026-07-13T06:40",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -29,21 +29,21 @@
     "availableSlots": [
       {
         "locationId": 5003,
-        "startTimestamp": "2026-07-20T13:30",
-        "endTimestamp": "2026-07-20T13:40",
+        "startTimestamp": "2026-07-21T16:20",
+        "endTimestamp": "2026-07-21T16:30",
         "active": true,
         "duration": 10,
         "remoteInd": false
       }
     ],
-    "lastPublishedDate": "2026-08-31T15:05:00"
+    "lastPublishedDate": "2026-10-30T13:35:00"
   },
   "5004": {
     "availableSlots": [
       {
         "locationId": 5004,
-        "startTimestamp": "2026-06-29T10:40",
-        "endTimestamp": "2026-06-29T10:50",
+        "startTimestamp": "2026-06-30T08:00",
+        "endTimestamp": "2026-06-30T08:10",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -55,8 +55,8 @@
     "availableSlots": [
       {
         "locationId": 5005,
-        "startTimestamp": "2026-10-01T07:10",
-        "endTimestamp": "2026-10-01T07:20",
+        "startTimestamp": "2026-10-06T06:30",
+        "endTimestamp": "2026-10-06T06:40",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -72,21 +72,21 @@
     "availableSlots": [
       {
         "locationId": 5007,
-        "startTimestamp": "2026-07-01T10:40",
-        "endTimestamp": "2026-07-01T10:50",
+        "startTimestamp": "2026-07-06T09:00",
+        "endTimestamp": "2026-07-06T09:10",
         "active": true,
         "duration": 10,
         "remoteInd": false
       }
     ],
-    "lastPublishedDate": "2026-09-11T15:00:00"
+    "lastPublishedDate": "2026-09-18T15:00:00"
   },
   "5021": {
     "availableSlots": [
       {
         "locationId": 5021,
-        "startTimestamp": "2026-06-29T08:30",
-        "endTimestamp": "2026-06-29T08:40",
+        "startTimestamp": "2026-06-30T08:30",
+        "endTimestamp": "2026-06-30T08:40",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -98,8 +98,8 @@
     "availableSlots": [
       {
         "locationId": 5023,
-        "startTimestamp": "2026-06-29T06:10",
-        "endTimestamp": "2026-06-29T06:20",
+        "startTimestamp": "2026-06-30T06:10",
+        "endTimestamp": "2026-06-30T06:20",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -111,8 +111,8 @@
     "availableSlots": [
       {
         "locationId": 5024,
-        "startTimestamp": "2026-06-29T14:00",
-        "endTimestamp": "2026-06-29T14:10",
+        "startTimestamp": "2026-07-02T17:45",
+        "endTimestamp": "2026-07-02T17:55",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -124,8 +124,8 @@
     "availableSlots": [
       {
         "locationId": 5060,
-        "startTimestamp": "2026-06-29T08:00",
-        "endTimestamp": "2026-06-29T08:10",
+        "startTimestamp": "2026-06-30T08:00",
+        "endTimestamp": "2026-06-30T08:10",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -137,8 +137,8 @@
     "availableSlots": [
       {
         "locationId": 5080,
-        "startTimestamp": "2026-06-29T14:20",
-        "endTimestamp": "2026-06-29T14:30",
+        "startTimestamp": "2026-06-30T12:40",
+        "endTimestamp": "2026-06-30T12:50",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -157,14 +157,14 @@
         "remoteInd": false
       }
     ],
-    "lastPublishedDate": "2026-08-29T15:50:00"
+    "lastPublishedDate": "2026-09-26T15:50:00"
   },
   "5120": {
     "availableSlots": [
       {
         "locationId": 5120,
-        "startTimestamp": "2026-07-14T08:20",
-        "endTimestamp": "2026-07-14T08:30",
+        "startTimestamp": "2026-07-15T08:30",
+        "endTimestamp": "2026-07-15T08:40",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -176,8 +176,8 @@
     "availableSlots": [
       {
         "locationId": 5140,
-        "startTimestamp": "2026-06-29T06:30",
-        "endTimestamp": "2026-06-29T06:40",
+        "startTimestamp": "2026-06-30T06:30",
+        "endTimestamp": "2026-06-30T06:40",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -189,8 +189,8 @@
     "availableSlots": [
       {
         "locationId": 5141,
-        "startTimestamp": "2026-07-02T09:50",
-        "endTimestamp": "2026-07-02T10:00",
+        "startTimestamp": "2026-07-07T07:40",
+        "endTimestamp": "2026-07-07T07:50",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -202,8 +202,8 @@
     "availableSlots": [
       {
         "locationId": 5142,
-        "startTimestamp": "2026-06-29T07:10",
-        "endTimestamp": "2026-06-29T07:20",
+        "startTimestamp": "2026-06-30T07:10",
+        "endTimestamp": "2026-06-30T07:20",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -215,8 +215,8 @@
     "availableSlots": [
       {
         "locationId": 5161,
-        "startTimestamp": "2026-06-29T14:20",
-        "endTimestamp": "2026-06-29T14:30",
+        "startTimestamp": "2026-07-13T08:20",
+        "endTimestamp": "2026-07-13T08:30",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -228,8 +228,8 @@
     "availableSlots": [
       {
         "locationId": 5180,
-        "startTimestamp": "2026-06-29T16:10",
-        "endTimestamp": "2026-06-29T16:20",
+        "startTimestamp": "2026-06-29T20:50",
+        "endTimestamp": "2026-06-29T21:00",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -241,8 +241,8 @@
     "availableSlots": [
       {
         "locationId": 5181,
-        "startTimestamp": "2026-06-29T08:10",
-        "endTimestamp": "2026-06-29T08:20",
+        "startTimestamp": "2026-06-30T08:00",
+        "endTimestamp": "2026-06-30T08:10",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -254,8 +254,8 @@
     "availableSlots": [
       {
         "locationId": 5182,
-        "startTimestamp": "2026-06-29T07:20",
-        "endTimestamp": "2026-06-29T07:30",
+        "startTimestamp": "2026-07-09T12:40",
+        "endTimestamp": "2026-07-09T12:50",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -267,8 +267,8 @@
     "availableSlots": [
       {
         "locationId": 5183,
-        "startTimestamp": "2026-07-13T13:50",
-        "endTimestamp": "2026-07-13T14:00",
+        "startTimestamp": "2026-07-14T08:50",
+        "endTimestamp": "2026-07-14T09:00",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -280,8 +280,8 @@
     "availableSlots": [
       {
         "locationId": 5223,
-        "startTimestamp": "2026-06-30T08:10",
-        "endTimestamp": "2026-06-30T08:20",
+        "startTimestamp": "2026-06-30T08:00",
+        "endTimestamp": "2026-06-30T08:10",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -293,8 +293,8 @@
     "availableSlots": [
       {
         "locationId": 5300,
-        "startTimestamp": "2026-07-21T06:40",
-        "endTimestamp": "2026-07-21T06:50",
+        "startTimestamp": "2026-06-30T08:40",
+        "endTimestamp": "2026-06-30T08:50",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -306,8 +306,8 @@
     "availableSlots": [
       {
         "locationId": 5320,
-        "startTimestamp": "2026-06-29T09:40",
-        "endTimestamp": "2026-06-29T09:50",
+        "startTimestamp": "2026-06-30T08:50",
+        "endTimestamp": "2026-06-30T09:00",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -319,8 +319,8 @@
     "availableSlots": [
       {
         "locationId": 5340,
-        "startTimestamp": "2026-08-04T06:10",
-        "endTimestamp": "2026-08-04T06:20",
+        "startTimestamp": "2026-07-17T07:00",
+        "endTimestamp": "2026-07-17T07:10",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -332,8 +332,8 @@
     "availableSlots": [
       {
         "locationId": 5360,
-        "startTimestamp": "2026-08-18T11:40",
-        "endTimestamp": "2026-08-18T11:50",
+        "startTimestamp": "2026-08-19T11:10",
+        "endTimestamp": "2026-08-19T11:20",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -345,8 +345,8 @@
     "availableSlots": [
       {
         "locationId": 5380,
-        "startTimestamp": "2026-08-03T11:20",
-        "endTimestamp": "2026-08-03T11:30",
+        "startTimestamp": "2026-08-10T17:20",
+        "endTimestamp": "2026-08-10T17:30",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -358,8 +358,8 @@
     "availableSlots": [
       {
         "locationId": 5400,
-        "startTimestamp": "2026-06-29T09:05",
-        "endTimestamp": "2026-06-29T09:15",
+        "startTimestamp": "2026-06-30T08:35",
+        "endTimestamp": "2026-06-30T08:45",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -371,8 +371,8 @@
     "availableSlots": [
       {
         "locationId": 5420,
-        "startTimestamp": "2026-07-01T18:20",
-        "endTimestamp": "2026-07-01T18:30",
+        "startTimestamp": "2026-07-06T17:40",
+        "endTimestamp": "2026-07-06T17:50",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -384,8 +384,8 @@
     "availableSlots": [
       {
         "locationId": 5441,
-        "startTimestamp": "2026-06-29T06:00",
-        "endTimestamp": "2026-06-29T06:10",
+        "startTimestamp": "2026-06-30T06:40",
+        "endTimestamp": "2026-06-30T06:50",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -397,8 +397,8 @@
     "availableSlots": [
       {
         "locationId": 5443,
-        "startTimestamp": "2026-06-30T14:20",
-        "endTimestamp": "2026-06-30T14:30",
+        "startTimestamp": "2026-06-30T09:50",
+        "endTimestamp": "2026-06-30T10:00",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -410,8 +410,8 @@
     "availableSlots": [
       {
         "locationId": 5444,
-        "startTimestamp": "2026-06-29T06:40",
-        "endTimestamp": "2026-06-29T06:50",
+        "startTimestamp": "2026-06-30T06:30",
+        "endTimestamp": "2026-06-30T06:40",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -423,8 +423,8 @@
     "availableSlots": [
       {
         "locationId": 5445,
-        "startTimestamp": "2026-06-29T15:50",
-        "endTimestamp": "2026-06-29T16:00",
+        "startTimestamp": "2026-07-06T19:00",
+        "endTimestamp": "2026-07-06T19:10",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -436,8 +436,8 @@
     "availableSlots": [
       {
         "locationId": 5446,
-        "startTimestamp": "2026-06-29T17:20",
-        "endTimestamp": "2026-06-29T17:30",
+        "startTimestamp": "2026-07-06T20:40",
+        "endTimestamp": "2026-07-06T20:50",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -453,8 +453,8 @@
     "availableSlots": [
       {
         "locationId": 5460,
-        "startTimestamp": "2026-06-29T09:50",
-        "endTimestamp": "2026-06-29T10:00",
+        "startTimestamp": "2026-07-14T08:50",
+        "endTimestamp": "2026-07-14T09:00",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -466,8 +466,8 @@
     "availableSlots": [
       {
         "locationId": 5500,
-        "startTimestamp": "2026-06-29T08:15",
-        "endTimestamp": "2026-06-29T08:25",
+        "startTimestamp": "2026-07-02T08:55",
+        "endTimestamp": "2026-07-02T09:05",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -479,8 +479,8 @@
     "availableSlots": [
       {
         "locationId": 5520,
-        "startTimestamp": "2026-06-29T08:20",
-        "endTimestamp": "2026-06-29T08:30",
+        "startTimestamp": "2026-06-30T08:30",
+        "endTimestamp": "2026-06-30T08:40",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -492,8 +492,8 @@
     "availableSlots": [
       {
         "locationId": 6480,
-        "startTimestamp": "2026-06-29T12:30",
-        "endTimestamp": "2026-06-29T12:40",
+        "startTimestamp": "2026-07-13T09:40",
+        "endTimestamp": "2026-07-13T09:50",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -505,8 +505,8 @@
     "availableSlots": [
       {
         "locationId": 6840,
-        "startTimestamp": "2026-08-13T09:20",
-        "endTimestamp": "2026-08-13T09:30",
+        "startTimestamp": "2026-08-17T07:10",
+        "endTimestamp": "2026-08-17T07:20",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -522,8 +522,8 @@
     "availableSlots": [
       {
         "locationId": 6940,
-        "startTimestamp": "2026-06-29T09:40",
-        "endTimestamp": "2026-06-29T09:50",
+        "startTimestamp": "2026-06-30T07:40",
+        "endTimestamp": "2026-06-30T07:50",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -535,8 +535,8 @@
     "availableSlots": [
       {
         "locationId": 7160,
-        "startTimestamp": "2026-07-16T10:40",
-        "endTimestamp": "2026-07-16T10:50",
+        "startTimestamp": "2026-08-04T09:10",
+        "endTimestamp": "2026-08-04T09:20",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -552,8 +552,8 @@
     "availableSlots": [
       {
         "locationId": 7540,
-        "startTimestamp": "2026-06-29T09:10",
-        "endTimestamp": "2026-06-29T09:20",
+        "startTimestamp": "2026-06-30T08:50",
+        "endTimestamp": "2026-06-30T09:00",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -565,8 +565,8 @@
     "availableSlots": [
       {
         "locationId": 7600,
-        "startTimestamp": "2026-11-17T14:40",
-        "endTimestamp": "2026-11-17T14:50",
+        "startTimestamp": "2026-11-17T15:20",
+        "endTimestamp": "2026-11-17T15:30",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -578,8 +578,8 @@
     "availableSlots": [
       {
         "locationId": 7680,
-        "startTimestamp": "2026-07-16T12:50",
-        "endTimestamp": "2026-07-16T13:00",
+        "startTimestamp": "2026-07-22T11:10",
+        "endTimestamp": "2026-07-22T11:20",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -588,16 +588,7 @@
     "lastPublishedDate": "2026-11-24T14:50:00"
   },
   "7740": {
-    "availableSlots": [
-      {
-        "locationId": 7740,
-        "startTimestamp": "2026-07-29T14:50",
-        "endTimestamp": "2026-07-29T15:00",
-        "active": true,
-        "duration": 10,
-        "remoteInd": false
-      }
-    ],
+    "availableSlots": [],
     "lastPublishedDate": "2026-07-31T13:20:00"
   },
   "7820": {
@@ -608,8 +599,8 @@
     "availableSlots": [
       {
         "locationId": 7940,
-        "startTimestamp": "2026-06-29T16:10",
-        "endTimestamp": "2026-06-29T16:20",
+        "startTimestamp": "2026-06-30T13:20",
+        "endTimestamp": "2026-06-30T13:30",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -625,8 +616,8 @@
     "availableSlots": [
       {
         "locationId": 8020,
-        "startTimestamp": "2026-08-20T10:40",
-        "endTimestamp": "2026-08-20T10:50",
+        "startTimestamp": "2026-08-26T08:10",
+        "endTimestamp": "2026-08-26T08:20",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -642,8 +633,8 @@
     "availableSlots": [
       {
         "locationId": 8100,
-        "startTimestamp": "2026-07-01T11:10",
-        "endTimestamp": "2026-07-01T11:20",
+        "startTimestamp": "2026-07-02T10:10",
+        "endTimestamp": "2026-07-02T10:20",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -655,8 +646,8 @@
     "availableSlots": [
       {
         "locationId": 8120,
-        "startTimestamp": "2026-06-29T07:30",
-        "endTimestamp": "2026-06-29T07:40",
+        "startTimestamp": "2026-06-30T08:50",
+        "endTimestamp": "2026-06-30T09:00",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -668,8 +659,8 @@
     "availableSlots": [
       {
         "locationId": 9040,
-        "startTimestamp": "2026-09-14T10:40",
-        "endTimestamp": "2026-09-14T10:50",
+        "startTimestamp": "2026-09-14T09:30",
+        "endTimestamp": "2026-09-14T09:40",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -681,8 +672,8 @@
     "availableSlots": [
       {
         "locationId": 9101,
-        "startTimestamp": "2026-06-29T14:00",
-        "endTimestamp": "2026-06-29T14:10",
+        "startTimestamp": "2026-06-30T14:00",
+        "endTimestamp": "2026-06-30T14:10",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -694,8 +685,8 @@
     "availableSlots": [
       {
         "locationId": 9140,
-        "startTimestamp": "2026-06-29T14:00",
-        "endTimestamp": "2026-06-29T14:10",
+        "startTimestamp": "2026-06-30T13:50",
+        "endTimestamp": "2026-06-30T14:00",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -707,8 +698,8 @@
     "availableSlots": [
       {
         "locationId": 9180,
-        "startTimestamp": "2026-09-15T11:00",
-        "endTimestamp": "2026-09-15T11:10",
+        "startTimestamp": "2026-09-15T11:40",
+        "endTimestamp": "2026-09-15T11:50",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -720,8 +711,8 @@
     "availableSlots": [
       {
         "locationId": 9200,
-        "startTimestamp": "2026-06-29T12:40",
-        "endTimestamp": "2026-06-29T12:50",
+        "startTimestamp": "2026-06-30T15:40",
+        "endTimestamp": "2026-06-30T15:50",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -733,8 +724,8 @@
     "availableSlots": [
       {
         "locationId": 9240,
-        "startTimestamp": "2026-07-16T13:50",
-        "endTimestamp": "2026-07-16T14:00",
+        "startTimestamp": "2026-07-16T18:10",
+        "endTimestamp": "2026-07-16T18:20",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -746,8 +737,8 @@
     "availableSlots": [
       {
         "locationId": 9260,
-        "startTimestamp": "2026-07-09T13:10",
-        "endTimestamp": "2026-07-09T13:20",
+        "startTimestamp": "2026-07-06T13:50",
+        "endTimestamp": "2026-07-06T14:00",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -759,8 +750,8 @@
     "availableSlots": [
       {
         "locationId": 9740,
-        "startTimestamp": "2026-07-14T12:10",
-        "endTimestamp": "2026-07-14T12:20",
+        "startTimestamp": "2026-07-08T14:50",
+        "endTimestamp": "2026-07-08T15:00",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -772,8 +763,8 @@
     "availableSlots": [
       {
         "locationId": 10260,
-        "startTimestamp": "2026-06-29T12:40",
-        "endTimestamp": "2026-06-29T12:50",
+        "startTimestamp": "2026-06-30T09:00",
+        "endTimestamp": "2026-06-30T09:10",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -789,8 +780,8 @@
     "availableSlots": [
       {
         "locationId": 11002,
-        "startTimestamp": "2026-08-12T13:10",
-        "endTimestamp": "2026-08-12T13:20",
+        "startTimestamp": "2026-08-17T10:20",
+        "endTimestamp": "2026-08-17T10:30",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -799,15 +790,24 @@
     "lastPublishedDate": "2026-08-31T08:50:00"
   },
   "11841": {
-    "availableSlots": [],
+    "availableSlots": [
+      {
+        "locationId": 11841,
+        "startTimestamp": "2026-06-30T16:10",
+        "endTimestamp": "2026-06-30T16:20",
+        "active": true,
+        "duration": 10,
+        "remoteInd": false
+      }
+    ],
     "lastPublishedDate": "2026-08-26T11:50:00"
   },
   "11981": {
     "availableSlots": [
       {
         "locationId": 11981,
-        "startTimestamp": "2026-06-29T09:30",
-        "endTimestamp": "2026-06-29T09:40",
+        "startTimestamp": "2026-07-07T09:50",
+        "endTimestamp": "2026-07-07T10:00",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -816,50 +816,32 @@
     "lastPublishedDate": "2026-09-30T15:30:00"
   },
   "12021": {
-    "availableSlots": [
-      {
-        "locationId": 12021,
-        "startTimestamp": "2026-07-01T13:30",
-        "endTimestamp": "2026-07-01T13:40",
-        "active": true,
-        "duration": 10,
-        "remoteInd": false
-      }
-    ],
+    "availableSlots": [],
     "lastPublishedDate": "2026-07-02T15:20:00"
   },
   "12161": {
-    "availableSlots": [
-      {
-        "locationId": 12161,
-        "startTimestamp": "2026-07-22T14:00",
-        "endTimestamp": "2026-07-22T14:10",
-        "active": true,
-        "duration": 10,
-        "remoteInd": false
-      }
-    ],
+    "availableSlots": [],
     "lastPublishedDate": "2026-08-26T15:50:00"
   },
   "12781": {
     "availableSlots": [
       {
         "locationId": 12781,
-        "startTimestamp": "2026-09-10T14:10",
-        "endTimestamp": "2026-09-10T14:20",
+        "startTimestamp": "2026-09-11T14:10",
+        "endTimestamp": "2026-09-11T14:20",
         "active": true,
         "duration": 10,
         "remoteInd": false
       }
     ],
-    "lastPublishedDate": "2026-09-29T16:20:00"
+    "lastPublishedDate": "2026-09-29T11:20:00"
   },
   "13321": {
     "availableSlots": [
       {
         "locationId": 13321,
-        "startTimestamp": "2026-06-29T08:00",
-        "endTimestamp": "2026-06-29T08:10",
+        "startTimestamp": "2026-06-30T08:00",
+        "endTimestamp": "2026-06-30T08:10",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -871,8 +853,8 @@
     "availableSlots": [
       {
         "locationId": 13621,
-        "startTimestamp": "2026-06-29T08:45",
-        "endTimestamp": "2026-06-29T08:55",
+        "startTimestamp": "2026-06-30T08:25",
+        "endTimestamp": "2026-06-30T08:35",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -884,8 +866,8 @@
     "availableSlots": [
       {
         "locationId": 14181,
-        "startTimestamp": "2026-06-30T08:30",
-        "endTimestamp": "2026-06-30T08:40",
+        "startTimestamp": "2026-07-05T08:40",
+        "endTimestamp": "2026-07-05T08:50",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -897,21 +879,21 @@
     "availableSlots": [
       {
         "locationId": 14321,
-        "startTimestamp": "2026-09-17T16:50",
-        "endTimestamp": "2026-09-17T17:00",
+        "startTimestamp": "2026-07-01T14:40",
+        "endTimestamp": "2026-07-01T14:50",
         "active": true,
         "duration": 10,
         "remoteInd": false
       }
     ],
-    "lastPublishedDate": "2026-09-30T16:10:00"
+    "lastPublishedDate": "2026-09-30T20:10:00"
   },
   "14381": {
     "availableSlots": [
       {
         "locationId": 14381,
-        "startTimestamp": "2026-06-29T11:40",
-        "endTimestamp": "2026-06-29T11:50",
+        "startTimestamp": "2026-07-01T11:50",
+        "endTimestamp": "2026-07-01T12:00",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -923,8 +905,8 @@
     "availableSlots": [
       {
         "locationId": 14481,
-        "startTimestamp": "2026-07-01T14:50",
-        "endTimestamp": "2026-07-01T15:00",
+        "startTimestamp": "2026-07-01T15:10",
+        "endTimestamp": "2026-07-01T15:20",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -936,8 +918,8 @@
     "availableSlots": [
       {
         "locationId": 14681,
-        "startTimestamp": "2026-08-26T12:50",
-        "endTimestamp": "2026-08-26T13:00",
+        "startTimestamp": "2026-08-27T09:00",
+        "endTimestamp": "2026-08-27T09:10",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -966,8 +948,8 @@
     "availableSlots": [
       {
         "locationId": 16226,
-        "startTimestamp": "2026-09-23T09:10",
-        "endTimestamp": "2026-09-23T09:20",
+        "startTimestamp": "2026-09-24T09:10",
+        "endTimestamp": "2026-09-24T09:20",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -979,8 +961,8 @@
     "availableSlots": [
       {
         "locationId": 16242,
-        "startTimestamp": "2026-10-15T13:00",
-        "endTimestamp": "2026-10-15T13:10",
+        "startTimestamp": "2026-07-07T11:40",
+        "endTimestamp": "2026-07-07T11:50",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -992,8 +974,8 @@
     "availableSlots": [
       {
         "locationId": 16248,
-        "startTimestamp": "2026-07-22T15:10",
-        "endTimestamp": "2026-07-22T15:20",
+        "startTimestamp": "2026-07-22T16:20",
+        "endTimestamp": "2026-07-22T16:30",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -1018,8 +1000,8 @@
     "availableSlots": [
       {
         "locationId": 16271,
-        "startTimestamp": "2026-07-02T10:00",
-        "endTimestamp": "2026-07-02T10:10",
+        "startTimestamp": "2026-07-28T09:10",
+        "endTimestamp": "2026-07-28T09:20",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -1031,8 +1013,8 @@
     "availableSlots": [
       {
         "locationId": 16277,
-        "startTimestamp": "2026-07-21T16:50",
-        "endTimestamp": "2026-07-21T17:00",
+        "startTimestamp": "2026-07-02T09:50",
+        "endTimestamp": "2026-07-02T10:00",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -1041,15 +1023,24 @@
     "lastPublishedDate": "2026-11-05T15:30:00"
   },
   "16278": {
-    "availableSlots": [],
-    "lastPublishedDate": "2026-07-01T14:50:00"
+    "availableSlots": [
+      {
+        "locationId": 16278,
+        "startTimestamp": "2026-07-07T12:10",
+        "endTimestamp": "2026-07-07T12:20",
+        "active": true,
+        "duration": 10,
+        "remoteInd": false
+      }
+    ],
+    "lastPublishedDate": "2026-07-07T14:50:00"
   },
   "16282": {
     "availableSlots": [
       {
         "locationId": 16282,
-        "startTimestamp": "2026-07-01T10:50",
-        "endTimestamp": "2026-07-01T11:00",
+        "startTimestamp": "2026-07-08T14:10",
+        "endTimestamp": "2026-07-08T14:20",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -1061,8 +1052,8 @@
     "availableSlots": [
       {
         "locationId": 16460,
-        "startTimestamp": "2026-08-24T08:40",
-        "endTimestamp": "2026-08-24T08:50",
+        "startTimestamp": "2026-08-25T10:20",
+        "endTimestamp": "2026-08-25T10:30",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -1071,15 +1062,24 @@
     "lastPublishedDate": "2026-10-02T15:40:00"
   },
   "16461": {
-    "availableSlots": [],
+    "availableSlots": [
+      {
+        "locationId": 16461,
+        "startTimestamp": "2026-07-01T18:50",
+        "endTimestamp": "2026-07-01T19:00",
+        "active": true,
+        "duration": 10,
+        "remoteInd": false
+      }
+    ],
     "lastPublishedDate": "2026-08-26T15:20:00"
   },
   "16463": {
     "availableSlots": [
       {
         "locationId": 16463,
-        "startTimestamp": "2026-09-01T12:10",
-        "endTimestamp": "2026-09-01T12:20",
+        "startTimestamp": "2026-07-01T18:40",
+        "endTimestamp": "2026-07-01T18:50",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -1113,24 +1113,15 @@
     "lastPublishedDate": "2026-09-30T11:20:00"
   },
   "16547": {
-    "availableSlots": [
-      {
-        "locationId": 16547,
-        "startTimestamp": "2026-08-23T14:40",
-        "endTimestamp": "2026-08-23T14:50",
-        "active": true,
-        "duration": 10,
-        "remoteInd": false
-      }
-    ],
+    "availableSlots": [],
     "lastPublishedDate": "2026-08-31T15:40:00"
   },
   "16555": {
     "availableSlots": [
       {
         "locationId": 16555,
-        "startTimestamp": "2026-07-01T10:00",
-        "endTimestamp": "2026-07-01T10:10",
+        "startTimestamp": "2026-07-01T12:10",
+        "endTimestamp": "2026-07-01T12:20",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -1146,14 +1137,14 @@
     "availableSlots": [
       {
         "locationId": 16610,
-        "startTimestamp": "2026-07-01T10:30",
-        "endTimestamp": "2026-07-01T10:40",
+        "startTimestamp": "2026-07-01T13:50",
+        "endTimestamp": "2026-07-01T14:00",
         "active": true,
         "duration": 10,
         "remoteInd": false
       }
     ],
-    "lastPublishedDate": "2026-07-11T11:50:00"
+    "lastPublishedDate": "2026-07-17T10:50:00"
   },
   "16611": {
     "availableSlots": [],
@@ -1180,8 +1171,8 @@
     "availableSlots": [
       {
         "locationId": 16672,
-        "startTimestamp": "2026-06-30T12:40",
-        "endTimestamp": "2026-06-30T12:50",
+        "startTimestamp": "2026-07-09T13:20",
+        "endTimestamp": "2026-07-09T13:30",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -1190,16 +1181,7 @@
     "lastPublishedDate": "2026-08-27T13:50:00"
   },
   "16674": {
-    "availableSlots": [
-      {
-        "locationId": 16674,
-        "startTimestamp": "2026-06-30T16:00",
-        "endTimestamp": "2026-06-30T16:10",
-        "active": true,
-        "duration": 10,
-        "remoteInd": false
-      }
-    ],
+    "availableSlots": [],
     "lastPublishedDate": "2026-07-03T17:30:00"
   },
   "16683": {
@@ -1281,14 +1263,14 @@
     "availableSlots": [
       {
         "locationId": 16771,
-        "startTimestamp": "2026-06-29T12:10",
-        "endTimestamp": "2026-06-29T12:20",
+        "startTimestamp": "2026-06-30T15:00",
+        "endTimestamp": "2026-06-30T15:10",
         "active": true,
         "duration": 10,
         "remoteInd": false
       }
     ],
-    "lastPublishedDate": "2026-09-18T11:20:00"
+    "lastPublishedDate": "2026-09-25T11:20:00"
   },
   "16781": {
     "availableSlots": [],
@@ -1302,8 +1284,8 @@
     "availableSlots": [
       {
         "locationId": 16809,
-        "startTimestamp": "2026-06-29T08:40",
-        "endTimestamp": "2026-06-29T08:50",
+        "startTimestamp": "2026-06-30T08:30",
+        "endTimestamp": "2026-06-30T08:40",
         "active": true,
         "duration": 10,
         "remoteInd": false
@@ -1315,8 +1297,8 @@
     "availableSlots": [
       {
         "locationId": 16837,
-        "startTimestamp": "2026-06-30T13:50",
-        "endTimestamp": "2026-06-30T14:00",
+        "startTimestamp": "2026-07-15T09:20",
+        "endTimestamp": "2026-07-15T09:30",
         "active": true,
         "duration": 10,
         "remoteInd": false

@@ -4,10 +4,10 @@
       {
         "active": true,
         "duration": 10,
-        "endTimestamp": "2026-10-28T11:50",
+        "endTimestamp": "2026-10-05T12:50",
         "locationId": 5001,
         "remoteInd": false,
-        "startTimestamp": "2026-10-28T11:40"
+        "startTimestamp": "2026-10-05T12:40"
       }
     ],
     "lastPublishedDate": "2026-12-31T14:20:00"
@@ -21,10 +21,10 @@
       {
         "active": true,
         "duration": 10,
-        "endTimestamp": "2026-10-05T13:25",
+        "endTimestamp": "2026-11-05T13:25",
         "locationId": 5003,
         "remoteInd": false,
-        "startTimestamp": "2026-10-05T13:15"
+        "startTimestamp": "2026-11-05T13:15"
       }
     ],
     "lastPublishedDate": "2026-12-31T15:05:00"
@@ -34,10 +34,10 @@
       {
         "active": true,
         "duration": 10,
-        "endTimestamp": "2026-10-04T08:10",
+        "endTimestamp": "2026-10-05T08:30",
         "locationId": 5004,
         "remoteInd": false,
-        "startTimestamp": "2026-10-04T08:00"
+        "startTimestamp": "2026-10-05T08:20"
       }
     ],
     "lastPublishedDate": "2027-01-31T14:50:00"
@@ -55,10 +55,10 @@
       {
         "active": true,
         "duration": 10,
-        "endTimestamp": "2026-10-05T10:00",
+        "endTimestamp": "2026-10-05T09:30",
         "locationId": 5007,
         "remoteInd": false,
-        "startTimestamp": "2026-10-05T09:50"
+        "startTimestamp": "2026-10-05T09:20"
       }
     ],
     "lastPublishedDate": "2026-12-11T15:00:00"
@@ -68,10 +68,10 @@
       {
         "active": true,
         "duration": 10,
-        "endTimestamp": "2026-10-05T09:20",
+        "endTimestamp": "2026-10-05T09:00",
         "locationId": 5021,
         "remoteInd": false,
-        "startTimestamp": "2026-10-05T09:10"
+        "startTimestamp": "2026-10-05T08:50"
       }
     ],
     "lastPublishedDate": "2027-01-29T14:50:00"
@@ -81,10 +81,10 @@
       {
         "active": true,
         "duration": 10,
-        "endTimestamp": "2026-10-04T08:20",
+        "endTimestamp": "2026-10-05T06:20",
         "locationId": 5023,
         "remoteInd": false,
-        "startTimestamp": "2026-10-04T08:10"
+        "startTimestamp": "2026-10-05T06:10"
       }
     ],
     "lastPublishedDate": "2026-12-18T19:30:00"
@@ -94,10 +94,10 @@
       {
         "active": true,
         "duration": 10,
-        "endTimestamp": "2026-10-05T11:55",
+        "endTimestamp": "2026-10-05T08:55",
         "locationId": 5024,
         "remoteInd": false,
-        "startTimestamp": "2026-10-05T11:45"
+        "startTimestamp": "2026-10-05T08:45"
       }
     ],
     "lastPublishedDate": "2027-10-05T14:45:00"
@@ -146,10 +146,10 @@
       {
         "active": true,
         "duration": 10,
-        "endTimestamp": "2026-10-07T08:20",
+        "endTimestamp": "2026-10-06T10:30",
         "locationId": 5120,
         "remoteInd": false,
-        "startTimestamp": "2026-10-07T08:10"
+        "startTimestamp": "2026-10-06T10:20"
       }
     ],
     "lastPublishedDate": "2026-12-30T14:50:00"
@@ -159,10 +159,10 @@
       {
         "active": true,
         "duration": 10,
-        "endTimestamp": "2026-10-04T07:10",
+        "endTimestamp": "2026-10-05T06:40",
         "locationId": 5140,
         "remoteInd": false,
-        "startTimestamp": "2026-10-04T07:00"
+        "startTimestamp": "2026-10-05T06:30"
       }
     ],
     "lastPublishedDate": "2026-11-30T19:20:00"
@@ -185,10 +185,10 @@
       {
         "active": true,
         "duration": 10,
-        "endTimestamp": "2026-10-04T07:10",
+        "endTimestamp": "2026-10-05T07:30",
         "locationId": 5142,
         "remoteInd": false,
-        "startTimestamp": "2026-10-04T07:00"
+        "startTimestamp": "2026-10-05T07:20"
       }
     ],
     "lastPublishedDate": "2027-01-31T21:50:00"
@@ -211,10 +211,10 @@
       {
         "active": true,
         "duration": 10,
-        "endTimestamp": "2026-10-04T14:20",
+        "endTimestamp": "2026-10-05T07:00",
         "locationId": 5180,
         "remoteInd": false,
-        "startTimestamp": "2026-10-04T14:10"
+        "startTimestamp": "2026-10-05T06:50"
       }
     ],
     "lastPublishedDate": "2026-10-09T21:30:00"
@@ -237,10 +237,10 @@
       {
         "active": true,
         "duration": 10,
-        "endTimestamp": "2026-10-04T09:20",
+        "endTimestamp": "2026-10-05T07:40",
         "locationId": 5182,
         "remoteInd": false,
-        "startTimestamp": "2026-10-04T09:10"
+        "startTimestamp": "2026-10-05T07:30"
       }
     ],
     "lastPublishedDate": "2026-10-31T15:00:00"
@@ -250,10 +250,10 @@
       {
         "active": true,
         "duration": 10,
-        "endTimestamp": "2026-10-13T13:20",
+        "endTimestamp": "2026-10-05T09:50",
         "locationId": 5183,
         "remoteInd": false,
-        "startTimestamp": "2026-10-13T13:10"
+        "startTimestamp": "2026-10-05T09:40"
       }
     ],
     "lastPublishedDate": "2026-12-23T15:30:00"
@@ -276,10 +276,10 @@
       {
         "active": true,
         "duration": 10,
-        "endTimestamp": "2026-10-20T06:50",
+        "endTimestamp": "2026-10-20T07:00",
         "locationId": 5300,
         "remoteInd": false,
-        "startTimestamp": "2026-10-20T06:40"
+        "startTimestamp": "2026-10-20T06:50"
       }
     ],
     "lastPublishedDate": "2026-11-30T14:20:00"
@@ -302,10 +302,10 @@
       {
         "active": true,
         "duration": 10,
-        "endTimestamp": "2026-10-14T07:10",
+        "endTimestamp": "2026-10-16T06:40",
         "locationId": 5340,
         "remoteInd": false,
-        "startTimestamp": "2026-10-14T07:00"
+        "startTimestamp": "2026-10-16T06:30"
       }
     ],
     "lastPublishedDate": "2026-12-31T14:50:00"
@@ -315,10 +315,10 @@
       {
         "active": true,
         "duration": 10,
-        "endTimestamp": "2026-10-05T10:00",
+        "endTimestamp": "2026-10-05T09:00",
         "locationId": 5360,
         "remoteInd": false,
-        "startTimestamp": "2026-10-05T09:50"
+        "startTimestamp": "2026-10-05T08:50"
       }
     ],
     "lastPublishedDate": "2026-11-30T06:50:00"
@@ -328,10 +328,10 @@
       {
         "active": true,
         "duration": 10,
-        "endTimestamp": "2026-10-28T10:30",
+        "endTimestamp": "2026-10-28T11:00",
         "locationId": 5380,
         "remoteInd": false,
-        "startTimestamp": "2026-10-28T10:20"
+        "startTimestamp": "2026-10-28T10:50"
       }
     ],
     "lastPublishedDate": "2026-11-30T14:50:00"
@@ -341,10 +341,10 @@
       {
         "active": true,
         "duration": 10,
-        "endTimestamp": "2026-10-05T14:05",
+        "endTimestamp": "2026-10-05T15:05",
         "locationId": 5400,
         "remoteInd": false,
-        "startTimestamp": "2026-10-05T13:55"
+        "startTimestamp": "2026-10-05T14:55"
       }
     ],
     "lastPublishedDate": "2026-11-30T15:35:00"
@@ -354,10 +354,10 @@
       {
         "active": true,
         "duration": 10,
-        "endTimestamp": "2026-10-05T08:20",
+        "endTimestamp": "2026-10-05T11:30",
         "locationId": 5420,
         "remoteInd": false,
-        "startTimestamp": "2026-10-05T08:10"
+        "startTimestamp": "2026-10-05T11:20"
       }
     ],
     "lastPublishedDate": "2027-01-29T15:20:00"
@@ -367,10 +367,10 @@
       {
         "active": true,
         "duration": 10,
-        "endTimestamp": "2026-10-05T06:20",
+        "endTimestamp": "2026-10-05T07:00",
         "locationId": 5441,
         "remoteInd": false,
-        "startTimestamp": "2026-10-05T06:10"
+        "startTimestamp": "2026-10-05T06:50"
       }
     ],
     "lastPublishedDate": "2026-12-31T14:30:00"
@@ -393,10 +393,10 @@
       {
         "active": true,
         "duration": 10,
-        "endTimestamp": "2026-10-04T06:30",
+        "endTimestamp": "2026-10-05T06:30",
         "locationId": 5444,
         "remoteInd": false,
-        "startTimestamp": "2026-10-04T06:20"
+        "startTimestamp": "2026-10-05T06:20"
       }
     ],
     "lastPublishedDate": "2026-10-31T21:50:00"
@@ -406,10 +406,10 @@
       {
         "active": true,
         "duration": 10,
-        "endTimestamp": "2026-10-04T11:10",
+        "endTimestamp": "2026-10-05T14:20",
         "locationId": 5445,
         "remoteInd": false,
-        "startTimestamp": "2026-10-04T11:00"
+        "startTimestamp": "2026-10-05T14:10"
       }
     ],
     "lastPublishedDate": "2026-11-30T20:40:00"
@@ -419,10 +419,10 @@
       {
         "active": true,
         "duration": 10,
-        "endTimestamp": "2026-11-06T19:10",
+        "endTimestamp": "2026-11-18T20:00",
         "locationId": 5446,
         "remoteInd": false,
-        "startTimestamp": "2026-11-06T19:00"
+        "startTimestamp": "2026-11-18T19:50"
       }
     ],
     "lastPublishedDate": "2026-11-30T21:20:00"
@@ -436,10 +436,10 @@
       {
         "active": true,
         "duration": 10,
-        "endTimestamp": "2026-10-28T14:00",
+        "endTimestamp": "2026-11-09T09:30",
         "locationId": 5460,
         "remoteInd": false,
-        "startTimestamp": "2026-10-28T13:50"
+        "startTimestamp": "2026-11-09T09:20"
       }
     ],
     "lastPublishedDate": "2026-12-31T14:50:00"
@@ -462,10 +462,10 @@
       {
         "active": true,
         "duration": 10,
-        "endTimestamp": "2026-10-04T08:30",
+        "endTimestamp": "2026-10-05T08:30",
         "locationId": 5520,
         "remoteInd": false,
-        "startTimestamp": "2026-10-04T08:20"
+        "startTimestamp": "2026-10-05T08:20"
       }
     ],
     "lastPublishedDate": "2026-12-31T15:10:00"
@@ -475,10 +475,10 @@
       {
         "active": true,
         "duration": 10,
-        "endTimestamp": "2026-10-08T11:30",
+        "endTimestamp": "2026-10-05T09:30",
         "locationId": 6480,
         "remoteInd": false,
-        "startTimestamp": "2026-10-08T11:20"
+        "startTimestamp": "2026-10-05T09:20"
       }
     ],
     "lastPublishedDate": "2026-10-30T14:50:00"
@@ -488,10 +488,10 @@
       {
         "active": true,
         "duration": 10,
-        "endTimestamp": "2026-10-19T07:50",
+        "endTimestamp": "2026-10-05T07:10",
         "locationId": 6840,
         "remoteInd": false,
-        "startTimestamp": "2026-10-19T07:40"
+        "startTimestamp": "2026-10-05T07:00"
       }
     ],
     "lastPublishedDate": "2026-11-30T15:20:00"
@@ -505,10 +505,10 @@
       {
         "active": true,
         "duration": 10,
-        "endTimestamp": "2026-10-14T13:10",
+        "endTimestamp": "2026-10-05T14:30",
         "locationId": 6940,
         "remoteInd": false,
-        "startTimestamp": "2026-10-14T13:00"
+        "startTimestamp": "2026-10-05T14:20"
       }
     ],
     "lastPublishedDate": "2026-11-30T16:50:00"
@@ -518,10 +518,10 @@
       {
         "active": true,
         "duration": 10,
-        "endTimestamp": "2026-10-07T14:30",
+        "endTimestamp": "2026-10-05T08:20",
         "locationId": 7160,
         "remoteInd": false,
-        "startTimestamp": "2026-10-07T14:20"
+        "startTimestamp": "2026-10-05T08:10"
       }
     ],
     "lastPublishedDate": "2026-11-27T15:10:00"
@@ -531,10 +531,10 @@
       {
         "active": true,
         "duration": 10,
-        "endTimestamp": "2026-10-09T15:20",
+        "endTimestamp": "2026-10-09T18:50",
         "locationId": 7520,
         "remoteInd": false,
-        "startTimestamp": "2026-10-09T15:10"
+        "startTimestamp": "2026-10-09T18:40"
       }
     ],
     "lastPublishedDate": "2026-10-15T08:50:00"
@@ -557,10 +557,10 @@
       {
         "active": true,
         "duration": 10,
-        "endTimestamp": "2027-03-04T12:50",
+        "endTimestamp": "2027-01-08T16:30",
         "locationId": 7600,
         "remoteInd": false,
-        "startTimestamp": "2027-03-04T12:40"
+        "startTimestamp": "2027-01-08T16:20"
       }
     ],
     "lastPublishedDate": "2027-04-03T17:20:00"
@@ -570,10 +570,10 @@
       {
         "active": true,
         "duration": 10,
-        "endTimestamp": "2026-10-05T10:50",
+        "endTimestamp": "2026-10-05T14:10",
         "locationId": 7680,
         "remoteInd": false,
-        "startTimestamp": "2026-10-05T10:40"
+        "startTimestamp": "2026-10-05T14:00"
       }
     ],
     "lastPublishedDate": "2027-02-25T14:50:00"
@@ -591,10 +591,10 @@
       {
         "active": true,
         "duration": 10,
-        "endTimestamp": "2026-10-05T15:00",
+        "endTimestamp": "2026-10-05T14:30",
         "locationId": 7940,
         "remoteInd": false,
-        "startTimestamp": "2026-10-05T14:50"
+        "startTimestamp": "2026-10-05T14:20"
       }
     ],
     "lastPublishedDate": "2026-10-30T20:20:00"
@@ -621,10 +621,10 @@
       {
         "active": true,
         "duration": 10,
-        "endTimestamp": "2026-11-02T09:40",
+        "endTimestamp": "2026-10-19T09:50",
         "locationId": 8040,
         "remoteInd": false,
-        "startTimestamp": "2026-11-02T09:30"
+        "startTimestamp": "2026-10-19T09:40"
       }
     ],
     "lastPublishedDate": "2026-11-20T07:40:00"
@@ -647,10 +647,10 @@
       {
         "active": true,
         "duration": 10,
-        "endTimestamp": "2026-10-05T07:50",
+        "endTimestamp": "2026-10-05T07:40",
         "locationId": 8120,
         "remoteInd": false,
-        "startTimestamp": "2026-10-05T07:40"
+        "startTimestamp": "2026-10-05T07:30"
       }
     ],
     "lastPublishedDate": "2026-10-30T14:30:00"
@@ -660,10 +660,10 @@
       {
         "active": true,
         "duration": 10,
-        "endTimestamp": "2026-11-23T11:40",
+        "endTimestamp": "2026-11-02T10:00",
         "locationId": 9040,
         "remoteInd": false,
-        "startTimestamp": "2026-11-23T11:30"
+        "startTimestamp": "2026-11-02T09:50"
       }
     ],
     "lastPublishedDate": "2026-11-30T14:20:00"
@@ -673,10 +673,10 @@
       {
         "active": true,
         "duration": 10,
-        "endTimestamp": "2026-10-04T09:10",
+        "endTimestamp": "2026-10-05T09:10",
         "locationId": 9101,
         "remoteInd": false,
-        "startTimestamp": "2026-10-04T09:00"
+        "startTimestamp": "2026-10-05T09:00"
       }
     ],
     "lastPublishedDate": "2026-10-31T18:20:00"
@@ -686,10 +686,10 @@
       {
         "active": true,
         "duration": 10,
-        "endTimestamp": "2026-10-05T11:20",
+        "endTimestamp": "2026-10-06T11:10",
         "locationId": 9140,
         "remoteInd": false,
-        "startTimestamp": "2026-10-05T11:10"
+        "startTimestamp": "2026-10-06T11:00"
       }
     ],
     "lastPublishedDate": "2026-12-29T14:20:00"
@@ -699,10 +699,10 @@
       {
         "active": true,
         "duration": 10,
-        "endTimestamp": "2026-11-12T11:50",
+        "endTimestamp": "2026-11-12T13:20",
         "locationId": 9180,
         "remoteInd": false,
-        "startTimestamp": "2026-11-12T11:40"
+        "startTimestamp": "2026-11-12T13:10"
       }
     ],
     "lastPublishedDate": "2027-03-31T14:50:00"
@@ -712,10 +712,10 @@
       {
         "active": true,
         "duration": 10,
-        "endTimestamp": "2026-10-05T14:00",
+        "endTimestamp": "2026-10-05T14:10",
         "locationId": 9200,
         "remoteInd": false,
-        "startTimestamp": "2026-10-05T13:50"
+        "startTimestamp": "2026-10-05T14:00"
       }
     ],
     "lastPublishedDate": "2026-11-30T16:50:00"
@@ -725,10 +725,10 @@
       {
         "active": true,
         "duration": 10,
-        "endTimestamp": "2026-10-08T18:50",
+        "endTimestamp": "2026-10-08T13:00",
         "locationId": 9240,
         "remoteInd": false,
-        "startTimestamp": "2026-10-08T18:40"
+        "startTimestamp": "2026-10-08T12:50"
       }
     ],
     "lastPublishedDate": "2026-11-29T15:50:00"
@@ -738,10 +738,10 @@
       {
         "active": true,
         "duration": 10,
-        "endTimestamp": "2026-10-04T13:00",
+        "endTimestamp": "2026-10-05T12:30",
         "locationId": 9260,
         "remoteInd": false,
-        "startTimestamp": "2026-10-04T12:50"
+        "startTimestamp": "2026-10-05T12:20"
       }
     ],
     "lastPublishedDate": "2027-01-16T14:50:00"
@@ -751,10 +751,10 @@
       {
         "active": true,
         "duration": 10,
-        "endTimestamp": "2026-10-07T09:30",
+        "endTimestamp": "2026-10-07T11:50",
         "locationId": 9740,
         "remoteInd": false,
-        "startTimestamp": "2026-10-07T09:20"
+        "startTimestamp": "2026-10-07T11:40"
       }
     ],
     "lastPublishedDate": "2026-12-30T15:30:00"
@@ -781,23 +781,23 @@
       {
         "active": true,
         "duration": 10,
-        "endTimestamp": "2026-11-02T13:10",
+        "endTimestamp": "2026-10-28T12:30",
         "locationId": 11002,
         "remoteInd": false,
-        "startTimestamp": "2026-11-02T13:00"
+        "startTimestamp": "2026-10-28T12:20"
       }
     ],
-    "lastPublishedDate": "2026-11-18T07:50:00"
+    "lastPublishedDate": "2026-11-18T13:50:00"
   },
   "11841": {
     "availableSlots": [
       {
         "active": true,
         "duration": 10,
-        "endTimestamp": "2026-10-04T13:50",
+        "endTimestamp": "2026-10-05T12:00",
         "locationId": 11841,
         "remoteInd": false,
-        "startTimestamp": "2026-10-04T13:40"
+        "startTimestamp": "2026-10-05T11:50"
       }
     ],
     "lastPublishedDate": "2026-10-28T12:20:00"
@@ -807,10 +807,10 @@
       {
         "active": true,
         "duration": 10,
-        "endTimestamp": "2026-10-05T08:20",
+        "endTimestamp": "2026-10-05T08:40",
         "locationId": 11981,
         "remoteInd": false,
-        "startTimestamp": "2026-10-05T08:10"
+        "startTimestamp": "2026-10-05T08:30"
       }
     ],
     "lastPublishedDate": "2026-12-23T15:30:00"
@@ -837,10 +837,10 @@
       {
         "active": true,
         "duration": 10,
-        "endTimestamp": "2026-10-04T08:40",
+        "endTimestamp": "2026-10-10T08:30",
         "locationId": 12781,
         "remoteInd": false,
-        "startTimestamp": "2026-10-04T08:30"
+        "startTimestamp": "2026-10-10T08:20"
       }
     ],
     "lastPublishedDate": "2027-01-14T15:50:00"
@@ -850,10 +850,10 @@
       {
         "active": true,
         "duration": 10,
-        "endTimestamp": "2026-10-04T08:10",
+        "endTimestamp": "2026-10-05T08:30",
         "locationId": 13321,
         "remoteInd": false,
-        "startTimestamp": "2026-10-04T08:00"
+        "startTimestamp": "2026-10-05T08:20"
       }
     ],
     "lastPublishedDate": "2026-12-31T15:30:00"
@@ -863,10 +863,10 @@
       {
         "active": true,
         "duration": 10,
-        "endTimestamp": "2026-10-05T08:55",
+        "endTimestamp": "2026-10-05T08:35",
         "locationId": 13621,
         "remoteInd": false,
-        "startTimestamp": "2026-10-05T08:45"
+        "startTimestamp": "2026-10-05T08:25"
       }
     ],
     "lastPublishedDate": "2026-12-31T15:15:00"
@@ -906,10 +906,10 @@
       {
         "active": true,
         "duration": 10,
-        "endTimestamp": "2026-10-05T08:10",
+        "endTimestamp": "2026-10-05T08:20",
         "locationId": 14481,
         "remoteInd": false,
-        "startTimestamp": "2026-10-05T08:00"
+        "startTimestamp": "2026-10-05T08:10"
       }
     ],
     "lastPublishedDate": "2027-10-01T15:50:00"
@@ -919,10 +919,10 @@
       {
         "active": true,
         "duration": 10,
-        "endTimestamp": "2026-10-14T08:40",
+        "endTimestamp": "2026-11-12T14:40",
         "locationId": 14681,
         "remoteInd": false,
-        "startTimestamp": "2026-10-14T08:30"
+        "startTimestamp": "2026-11-12T14:30"
       }
     ],
     "lastPublishedDate": "2026-12-31T15:50:00"
@@ -949,10 +949,10 @@
       {
         "active": true,
         "duration": 10,
-        "endTimestamp": "2026-11-06T09:50",
+        "endTimestamp": "2027-01-04T08:40",
         "locationId": 16226,
         "remoteInd": false,
-        "startTimestamp": "2026-11-06T09:40"
+        "startTimestamp": "2027-01-04T08:30"
       }
     ],
     "lastPublishedDate": "2027-05-28T14:00:00"
@@ -975,10 +975,10 @@
       {
         "active": true,
         "duration": 10,
-        "endTimestamp": "2026-10-07T16:00",
+        "endTimestamp": "2026-10-07T16:20",
         "locationId": 16248,
         "remoteInd": false,
-        "startTimestamp": "2026-10-07T15:50"
+        "startTimestamp": "2026-10-07T16:10"
       }
     ],
     "lastPublishedDate": "2027-01-14T16:50:00"
@@ -1014,10 +1014,10 @@
       {
         "active": true,
         "duration": 10,
-        "endTimestamp": "2026-10-20T14:40",
+        "endTimestamp": "2026-10-21T12:00",
         "locationId": 16277,
         "remoteInd": false,
-        "startTimestamp": "2026-10-20T14:30"
+        "startTimestamp": "2026-10-21T11:50"
       }
     ],
     "lastPublishedDate": "2027-06-30T15:30:00"
@@ -1027,10 +1027,10 @@
       {
         "active": true,
         "duration": 10,
-        "endTimestamp": "2026-10-06T12:00",
+        "endTimestamp": "2026-10-06T12:50",
         "locationId": 16278,
         "remoteInd": false,
-        "startTimestamp": "2026-10-06T11:50"
+        "startTimestamp": "2026-10-06T12:40"
       }
     ],
     "lastPublishedDate": "2026-10-06T14:50:00"
@@ -1053,10 +1053,10 @@
       {
         "active": true,
         "duration": 10,
-        "endTimestamp": "2026-11-26T13:50",
+        "endTimestamp": "2026-12-01T08:30",
         "locationId": 16460,
         "remoteInd": false,
-        "startTimestamp": "2026-11-26T13:40"
+        "startTimestamp": "2026-12-01T08:20"
       }
     ],
     "lastPublishedDate": "2027-10-01T15:40:00"
@@ -1095,10 +1095,10 @@
       {
         "active": true,
         "duration": 10,
-        "endTimestamp": "2026-10-12T14:50",
+        "endTimestamp": "2026-10-12T15:20",
         "locationId": 16519,
         "remoteInd": false,
-        "startTimestamp": "2026-10-12T14:40"
+        "startTimestamp": "2026-10-12T15:10"
       }
     ],
     "lastPublishedDate": "2026-12-28T15:20:00"
@@ -1142,10 +1142,10 @@
       {
         "active": true,
         "duration": 10,
-        "endTimestamp": "2026-10-20T12:10",
+        "endTimestamp": "2026-10-20T12:50",
         "locationId": 16611,
         "remoteInd": false,
-        "startTimestamp": "2026-10-20T12:00"
+        "startTimestamp": "2026-10-20T12:40"
       }
     ],
     "lastPublishedDate": "2026-10-28T14:50:00"
@@ -1176,10 +1176,10 @@
       {
         "active": true,
         "duration": 10,
-        "endTimestamp": "2026-10-06T14:50",
+        "endTimestamp": "2026-10-05T12:10",
         "locationId": 16674,
         "remoteInd": false,
-        "startTimestamp": "2026-10-06T14:40"
+        "startTimestamp": "2026-10-05T12:00"
       }
     ],
     "lastPublishedDate": "2026-10-09T17:30:00"
@@ -1298,10 +1298,10 @@
       {
         "active": true,
         "duration": 10,
-        "endTimestamp": "2026-10-05T09:50",
+        "endTimestamp": "2026-10-05T10:00",
         "locationId": 16837,
         "remoteInd": false,
-        "startTimestamp": "2026-10-05T09:40"
+        "startTimestamp": "2026-10-05T09:50"
       }
     ],
     "lastPublishedDate": "2026-10-30T15:50:00"
